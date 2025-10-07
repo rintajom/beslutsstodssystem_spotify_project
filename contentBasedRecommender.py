@@ -1,0 +1,65 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics.pairwise import euclidean_distances
+import pandas as pd
+import numpy as np
+
+
+class ContentBasedRecommender:
+    def __init__(self, df):
+        self.df = df
+        self.tfidf_matrix = None        
+        self.scaler = StandardScaler()
+        self.audio_features = None
+        self.track_indices = None
+
+    def fit(self):
+        vectorizer = TfidfVectorizer(stop_words='english')
+        self.tfidf_matrix = vectorizer.fit_transform(self.df['track_name'])
+
+        audio_features = ['tempo', 'loudness', 'danceability']
+        self.audio_features = self.scaler.fit_transform(self.df[audio_features])
+
+        self.track_indices = pd.Series(self.df.index, index=self.df['track_name'])
+
+    def track_info(self, track_name):
+        if track_name not in self.track_indices:
+            return "Track not found in the dataset."
+        
+        index = self.track_indices[track_name]
+        track_data = self.df.iloc[index]
+        return track_data
+    
+    def recommend(self, track_name, num_recs=5):
+        if track_name not in self.track_indices:
+            return f"Track '{track_name}' not found in the dataset."
+
+        index = self.track_indices[track_name]
+
+        track_vector = self.tfidf_matrix[index]
+        similarity_scores = cosine_similarity(track_vector, self.tfidf_matrix).flatten()
+
+        track_audio_vector = self.audio_features[index].reshape(1, -1)
+        audio_distances = euclidean_distances(track_audio_vector, self.audio_features).flatten()
+        max_distance = np.max(audio_distances)
+        audio_similarity_scores = 1 - (audio_distances / max_distance)
+
+        combined_similarity = (similarity_scores + audio_similarity_scores) / 2
+
+        scores = list(enumerate(combined_similarity))
+        scores = sorted(scores, key=lambda x: x[1], reverse=True)
+        scores = [s for s in scores if s[0] != index]
+        top_indices = [s[0] for s in scores[:num_recs]]
+
+        recommendations = []
+        for i in top_indices:
+            track_data = self.df.iloc[i]
+            similarity_score = combined_similarity[i]
+            recommendations.append({
+                'track_name': track_data['track_name'],
+                'track_artist': track_data['track_artist'],
+                'track_popularity': track_data['track_popularity'],
+                'similarity_score': round(similarity_score, 3)
+            })
+        return recommendations
