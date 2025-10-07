@@ -1,0 +1,1687 @@
+id,track_name,track_artist,track_album_name,track_album_release_date,track_popularity,tempo,loudness,danceability
+0,Die With A Smile,"Lady Gaga, Bruno Mars",Die With A Smile,2024-08-16,100,157.969,-7.777,0.521
+1,BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,104.978,-10.171,0.747
+2,That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,93,108.548,-4.169,0.554
+3,Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,81,112.966,-4.07,0.67
+4,APT.,"ROSÉ, Bruno Mars",APT.,2024-10-18,98,149.027,-4.477,0.777
+5,"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,94,116.712,-5.96,0.7
+6,Diet Pepsi,Addison Rae,Diet Pepsi,2024-08-09,88,150.069,-6.538,0.669
+7,WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,93,148.101,-12.002,0.467
+8,Sailor Song,Gigi Perez,Sailor Song,2024-07-26,71,94.926,-10.439,0.492
+9,Timeless (with Playboi Carti),"The Weeknd, Playboi Carti",Timeless,2024-09-27,92,119.973,-5.485,0.769
+10,Guess featuring billie eilish,"Charli xcx, Billie Eilish",Guess featuring Billie Eilish,2024-08-01,85,130.019,-6.622,0.776
+11,Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,88,107.071,-6.073,0.669
+12,2 hands,Tate McRae,2 hands,2024-11-14,79,104.032,-3.443,0.608
+13,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),2024-04-12,86,81.012,-4.95,0.722
+14,HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,88,139.982,-4.981,0.742
+15,Disease,Lady Gaga,Disease,2024-10-25,86,100.987,-2.768,0.562
+16,Moonlit Floor (Kiss Me),LISA,Moonlit Floor (Kiss Me),2024-10-08,82,109.939,-3.951,0.734
+17,Love Somebody,Morgan Wallen,Love Somebody,2024-10-18,86,122.064,-5.348,0.619
+18,"I Love You, I'm Sorry",Gracie Abrams,The Secret of Us,2024-06-21,90,115.94,-7.507,0.53
+19,Move,"Adam Port, Stryv, Keinemusik, Orso, Malachiii",Move,2024-06-07,86,119.992,-8.529,0.727
+20,"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",CHROMAKOPIA,2024-10-28,88,80.09,-3.986,0.505
+21,Espresso,Sabrina Carpenter,Espresso,2024-04-12,90,103.969,-5.478,0.701
+22,Mantra,JENNIE,Mantra,2024-10-10,89,116.988,-4.984,0.894
+23,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",Cosa Nuestra,2024-11-15,82,105.008,-5.593,0.833
+24,NEW DROP,Don Toliver,HARDSTONE PSYCHO,2024-06-14,85,119.98,-6.715,0.757
+25,I Had Some Help (Feat. Morgan Wallen),"Post Malone, Morgan Wallen",I Had Some Help,2024-05-10,84,127.986,-4.86,0.638
+26,Too Sweet,Hozier,Unheard,2024-03-22,77,117.038,-5.505,0.741
+27,No One Noticed,The Marías,Submarine,2024-05-31,84,97.989,-10.612,0.705
+28,Tu Boda,"Oscar Maydon, Fuerza Regida",Tu Boda,2024-09-26,93,112.648,-6.968,0.694
+29,Stargazing,Myles Smith,Stargazing,2024-05-10,88,123.994,-6.129,0.635
+30,WHATCHU KNO ABOUT ME (with Sexyy Red),"GloRilla, Sexyy Red",WHATCHU KNO ABOUT ME (with Sexyy Red),2024-10-10,70,167.029,-4.222,0.836
+31,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,2024-03-08,81,115.842,-8.334,0.645
+32,Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,105.029,-5.692,0.472
+33,DEGENERE 👑 (feat. benny blanco),"Myke Towers, benny blanco",LA PANTERA NEGRA (DELUXE),2024-10-17,84,194.055,-5.778,0.744
+34,Touch,KATSEYE,Touch,2024-07-26,85,167.033,-2.655,0.739
+35,Lose Control,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,89,159.92,-4.409,0.561
+36,Belong Together,Mark Ambor,Belong Together,2024-02-16,82,90.969,-5.203,0.646
+37,Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,2024-06-21,93,128.027,-6.795,0.924
+38,End of Beginning,Djo,DECIDE,2022-09-16,89,159.982,-7.643,0.689
+39,Fortnight (feat. Post Malone),"Taylor Swift, Post Malone",THE TORTURED POETS DEPARTMENT,2024-04-18,84,192.004,-10.976,0.504
+40,Q U E V A S H A C E R H O Y ?,"Omar Courtz, De La Rose",PRIMERA MUSA,2024-09-20,89,155.079,-6.304,0.56
+41,Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,88,101.061,-7.001,0.898
+42,Running Wild,Jin,Happy,2024-11-15,85,146.921,-4.22,0.487
+43,+57,"KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd",+57,2024-11-08,84,91.98,-3.574,0.848
+44,Embrace It,Ndotz,Embrace It,2024-08-23,87,114.933,-7.233,0.882
+45,The Emptiness Machine,Linkin Park,The Emptiness Machine,2024-09-05,89,184.115,-3.344,0.466
+46,Who,Jimin,MUSE,2024-07-19,92,116.034,-3.743,0.66
+47,Hotel California - 2013 Remaster,Eagles,Hotel California (2013 Remaster),1976-12-08,81,147.125,-9.484,0.579
+48,Thunderstruck,AC/DC,The Razors Edge,1990-09-24,83,133.52,-5.175,0.502
+49,Seven Nation Army,The White Stripes,Elephant,2003-04-01,82,123.596,-7.807,0.743
+50,Creep,Radiohead,Pablo Honey,1993-02-22,86,91.844,-9.935,0.515
+51,Come As You Are,Nirvana,Nevermind (Remastered),1991-09-26,76,120.125,-5.846,0.5
+52,Californication,Red Hot Chili Peppers,Californication (Deluxe Edition),1999-06-08,81,96.483,-2.788,0.592
+53,Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,1987-07-21,84,125.304,-5.321,0.445
+54,"Paint It, Black",The Rolling Stones,Aftermath,1966-04-15,81,158.691,-9.267,0.464
+55,Dreams - 2004 Remaster,Fleetwood Mac,Rumours (Super Deluxe),1977-02-04,84,120.151,-9.744,0.828
+56,Everlong,Foo Fighters,The Colour And The Shape,1997-05-20,81,158.066,-5.541,0.413
+57,I Love Rock 'N Roll,Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),1981-11-18,77,94.379,-5.025,0.535
+58,Dust in the Wind,Kansas,Point Of Know Return (Expanded Edition),1977,79,93.503,-10.687,0.475
+59,"Another Brick in the Wall, Pt. 2",Pink Floyd,The Wall,1979-11-30,74,104.114,-15.882,0.693
+60,Runaway,Bon Jovi,Bon Jovi,1984-01-23,72,152.445,-4.321,0.475
+61,Basket Case,Green Day,Dookie,1994-02-01,80,85.064,-3.205,0.442
+62,Under the Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),1991-09-24,82,84.581,-13.496,0.559
+63,White Wedding - Pt. 1,Billy Idol,Billy Idol,1982-01-01,70,147.193,-5.411,0.673
+64,You Shook Me All Night Long,AC/DC,Back In Black,1980-07-25,81,127.361,-5.509,0.532
+65,(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,Out Of Our Heads,1965-07-30,76,136.302,-7.89,0.723
+66,Starman - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),1972-06-06,76,100.456,-10.298,0.486
+67,Whole Lotta Love - 1990 Remaster,Led Zeppelin,Led Zeppelin II (1994 Remaster),1969-10-22,72,89.74,-11.6,0.412
+68,Riders on the Storm,The Doors,L.A. Woman,1971-04-19,70,103.886,-11.729,0.55
+69,Even Flow,Pearl Jam,Ten,1991-08-27,77,105.338,-6.506,0.394
+70,Born in the U.S.A.,Bruce Springsteen,Born In The U.S.A.,1984-06-04,72,122.093,-6.042,0.398
+71,Bitter Sweet Symphony - Remastered 2016,The Verve,Urban Hymns (Remastered 2016),1997-09-29,79,171.176,-6.006,0.356
+72,Don't Cry (Original),Guns N' Roses,Use Your Illusion I,1991-09-17,75,124.634,-8.64,0.455
+73,All Along the Watchtower,Jimi Hendrix,Electric Ladyland,1968-10-25,72,113.253,-6.237,0.438
+74,In The Air Tonight - 2015 Remastered,Phil Collins,Face Value (Deluxe Editon),1981-01-01,76,189.507,-13.945,0.446
+75,Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads '77 (Deluxe Version),1977-09-16,76,123.118,-8.123,0.721
+76,Are You Gonna Go My Way,Lenny Kravitz,Are You Gonna Go My Way,1993-03-09,71,129.269,-10.322,0.619
+77,Master of Puppets (Remastered),Metallica,Master of Puppets (Remastered Deluxe Box Set),1986-03-03,70,105.25,-9.108,0.539
+78,Everywhere - 2017 Remaster,Fleetwood Mac,Tango In the Night (Deluxe Edition),1987-04-13,79,114.965,-10.991,0.73
+79,Have You Ever Seen The Rain,Creedence Clearwater Revival,Pendulum (Expanded Edition),1970-12-07,84,116.109,-7.028,0.741
+80,Just What I Needed,The Cars,The Cars,1978-06-06,69,127.215,-9.307,0.62
+81,Smells Like Teen Spirit,Nirvana,Nevermind (Remastered),1991-09-26,76,116.761,-4.556,0.502
+82,Killing In The Name,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),1992,78,88.785,-4.215,0.466
+83,Come Together - Remastered 2009,The Beatles,Abbey Road (Remastered),1969-09-26,75,164.775,-11.913,0.53
+84,Carry on Wayward Son,Kansas,Leftoverture (Expanded Edition),1976,73,126.755,-5.735,0.482
+85,Song 2 - 2012 Remaster,Blur,Blur (Special Edition),1997-02-10,78,129.802,-6.903,0.674
+86,Where Is My Mind? - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),1988-03-21,76,81.334,-14.178,0.519
+87,Should I Stay or Should I Go - Remastered,The Clash,Combat Rock (Remastered),1982,80,113.375,-6.465,0.743
+88,Another One Bites The Dust - Remastered 2011,Queen,The Game (Deluxe Remastered Version),1980-06-27,71,109.975,-6.472,0.932
+89,Uprising,Muse,The Resistance,2009-09-10,75,128.019,-4.046,0.602
+90,For What It's Worth,Buffalo Springfield,Buffalo Springfield,1966-12-05,76,98.883,-10.164,0.653
+91,You Really Got Me - 2015 Remaster,Van Halen,Van Halen (Remastered),1978-02-10,68,138.18,-5.978,0.454
+92,Black Hole Sun,Soundgarden,Superunknown (Deluxe Edition),1994-03-09,76,105.435,-5.373,0.35
+93,Black Magic Woman - Single Version,Santana,Santana's Greatest Hits,1994-07-01,70,124.348,-14.295,0.489
+94,Fly Away,Lenny Kravitz,5,1998-05-12,73,159.925,-5.066,0.587
+95,Message In A Bottle,The Police,Reggatta De Blanc (Remastered 2003),1979-10-02,75,151.008,-7.04,0.577
+96,Heroes - 2017 Remaster,David Bowie,"""Heroes"" (2017 Remaster)",1977,72,112.113,-6.491,0.489
+97,Immigrant Song - Remaster,Led Zeppelin,Led Zeppelin III (Remaster),1970,75,112.937,-10.068,0.564
+98,Mr. Blue Sky,Electric Light Orchestra,Out of the Blue,1977,76,177.765,-10.054,0.388
+99,Back In Black,AC/DC,Back In Black,1980-07-25,83,188.386,-5.678,0.31
+100,Barracuda,Heart,Little Queen,1977-05-14,74,137.145,-13.553,0.548
+101,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,Honky Chateau,1972-05-19,79,136.576,-9.119,0.601
+102,Heart-Shaped Box,Nirvana,In Utero (Deluxe Edition),1993-09-21,79,203.006,-10.283,0.256
+103,Life in the Fast Lane - 2013 Remaster,Eagles,Hotel California (2013 Remaster),1976-12-08,68,109.535,-7.246,0.667
+104,Africa,TOTO,Toto IV,1982-04-08,83,92.718,-18.064,0.671
+105,(Don't Fear) The Reaper,Blue Öyster Cult,Agents Of Fortune,1976,75,141.466,-8.55,0.333
+106,1979 - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1995,77,126.879,-9.897,0.767
+107,Comfortably Numb,Pink Floyd,The Wall,1979-11-30,71,127.163,-12.595,0.472
+108,Black Dog - Remaster,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),1971-11-08,69,81.394,-7.842,0.437
+109,No One Knows,Queens of the Stone Age,Songs For The Deaf,2002-01-01,69,170.411,-4.907,0.509
+110,Long Train Runnin',The Doobie Brothers,The Captain and Me,1973,69,117.399,-7.275,0.575
+111,Loser,Beck,Mellow Gold,1994-03-01,69,85.387,-10.45,0.654
+112,American Pie,Don McLean,American Pie,1971,74,138.453,-11.709,0.529
+113,Roxanne,The Police,Outlandos D'Amour (Remastered 2003),1978-11-02,77,134.114,-8.905,0.618
+114,My Sharona,The Knack,Get The Knack,1979-01-01,69,147.245,-9.558,0.586
+115,Walk On the Wild Side,Lou Reed,Transformer,1972-12-01,74,104.522,-16.729,0.575
+116,The Boys Are Back In Town,Thin Lizzy,Jailbreak (Deluxe Edition),1976,70,80.823,-9.803,0.445
+117,Highway to Hell,AC/DC,Highway to Hell,1979-07-27,84,115.728,-4.793,0.574
+118,Vienna,Billy Joel,The Stranger (Legacy Edition),1977,79,124.936,-6.662,0.532
+119,Alive,Pearl Jam,Ten,1991-08-27,73,75.009,-6.069,0.284
+120,The Best,Tina Turner,Foreign Affair,1989-09-13,69,103.867,-9.54,0.662
+121,Give It Away,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),1991-09-24,72,91.577,-9.919,0.666
+122,Good Riddance (Time of Your Life),Green Day,Nimrod,1997-10-14,79,94.605,-7.844,0.475
+123,The Boys Of Summer,Don Henley,Building The Perfect Beast,1984-11-19,73,176.941,-13.741,0.516
+124,Break on Through (To the Other Side),The Doors,The Doors,1967-01-04,72,89.839,-9.584,0.421
+125,Sabotage,Beastie Boys,Ill Communication,1994-05-23,71,168.131,-7.332,0.324
+126,Pour Some Sugar On Me - Remastered 2017,Def Leppard,Hysteria (Super Deluxe),1987-08-03,72,84.989,-4.899,0.267
+127,Learn to Fly,Foo Fighters,There Is Nothing Left To Lose,1999-11-02,73,135.997,-4.025,0.465
+128,Hit Me With Your Best Shot,Pat Benatar,Crimes Of Passion,1980-08-05,70,127.402,-9.05,0.741
+129,Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1995,73,121.864,-9.18,0.404
+130,Interstate Love Song - 2019 Remaster,Stone Temple Pilots,Purple (2019 Remaster),1994-06-07,72,170.814,-7.327,0.215
+131,London Calling - Remastered,The Clash,London Calling (Remastered),1979,70,133.769,-7.34,0.651
+132,Wish You Were Here,Pink Floyd,Wish You Were Here,1975-09-12,75,122.861,-15.73,0.481
+133,Free Fallin',Tom Petty,Full Moon Fever,1989-01-01,75,84.383,-13.333,0.623
+134,No Rain,Blind Melon,Blind Melon,1992-01-01,73,148.117,-9.342,0.389
+135,Panama - 2015 Remaster,Van Halen,1984 (Remastered),1984-01-04,72,141.167,-5.436,0.526
+136,Would? (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992-09-29,72,100.127,-7.457,0.297
+137,Born to Run,Bruce Springsteen,Born To Run,1975-08-25,70,146.347,-4.199,0.27
+138,Unforgettable,Nat King Cole,Unforgettable,1954-01-01,69,136.094,-13.507,0.349
+139,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato","Pyotr Ilyich Tchaikovsky, André Previn, London Symphony Orchestra",Tchaikovsky: Swan Lake,1976-01-01,68,58.303,-18.756,0.136
+140,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto","Ludwig van Beethoven, Paul Lewis","Beethoven: Piano Sonatas, Vol.3",2007-09-25,68,170.612,-37.264,0.184
+141,Experience,"Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani",In A Time Lapse,2013-01-01,75,92.468,-10.634,0.447
+142,"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",CHROMAKOPIA,2024-10-28,88,80.09,-3.986,0.505
+143,HIM ALL ALONG,Gunna,HIM ALL ALONG,2024-10-18,76,130.007,-6.323,0.872
+144,Leave Me Alone,BigXthaPlug,TAKE CARE,2024-10-11,71,128.085,-4.286,0.835
+145,PLUTOSKI,Future,MIXTAPE PLUTO,2024-09-20,73,120.011,-8.206,0.794
+146,Timeless (with Playboi Carti),"The Weeknd, Playboi Carti",Timeless,2024-09-27,92,119.973,-5.485,0.769
+147,WHATCHU KNO ABOUT ME (feat. Sexyy Red),"GloRilla, Sexyy Red",GLORIOUS,2024-10-11,78,166.976,-4.691,0.832
+148,Insecurities,Lil Baby,Insecurities,2024-11-15,70,111.907,-5.332,0.65
+149,Gang Baby,NLE Choppa,SLUT SZN,2024-09-27,72,129.054,-6.635,0.92
+150,NEW DROP,Don Toliver,HARDSTONE PSYCHO,2024-06-14,85,119.98,-6.715,0.757
+151,Help Me,Real Boston Richey,Help Me,2024-05-31,73,78.53,-6.385,0.749
+152,No Face,Drake,No Face,2024-08-31,78,125.951,-5.858,0.853
+153,LIL DEMON,Future,MIXTAPE PLUTO,2024-09-20,77,131.001,-5.851,0.863
+154,2 Slippery (feat. BossMan Dlow),"Luh Tyler, BossMan Dlow",Mr. Skii,2024-08-22,69,106.682,-9.519,0.608
+155,Sorry Not Sorry,"Lil Yachty, Veeze",Sorry Not Sorry,2024-08-16,70,157.94,-9.159,0.662
+156,ALL RED,Playboi Carti,ALL RED,2024-09-13,81,143.082,-4.763,0.76
+157,I CAN’T LET GO,"Lil Tecca, Don Toliver",PLAN A,2024-09-20,73,147.216,-4.204,0.649
+158,Chill Bae,Lil Uzi Vert,Eternal Atake 2,2024-11-01,76,184.057,-5.984,0.672
+159,2AM,BigXthaPlug,TAKE CARE,2024-10-11,69,114.991,-5.839,0.884
+160,It's Up (feat. Young Thug & 21 Savage),"Drake, Young Thug, 21 Savage",100 GIGS,2024-08-30,76,139.942,-4.881,0.783
+161,The Viper,BabyChiefDoit,The Viper,2024-09-20,68,139.905,-5.972,0.652
+162,Brokey,Latto,Sugar Honey Iced Tea,2024-08-09,70,75.013,-6.723,0.776
+163,25,Rod Wave,Last Lap,2024-10-11,76,63.925,-8.269,0.427
+164,Or What,"NLE Choppa, 41, Kyle Richh",Or What,2024-09-06,77,125.845,-7.564,0.731
+165,Type Shit,"Future, Metro Boomin, Travis Scott, Playboi Carti",WE DON'T TRUST YOU,2024-03-22,84,144.941,-5.679,0.64
+166,Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,88,101.061,-7.001,0.898
+167,Thought I Was Dead (feat. ScHoolboy Q & Santigold),"Tyler, The Creator, ScHoolboy Q, Santigold",CHROMAKOPIA,2024-10-28,85,129.77,-3.382,0.77
+168,FIELD TRIP,"¥$, Playboi Carti, Don Toliver, Kodak Black",FIELD TRIP,2024-08-03,72,121.991,-4.707,0.731
+169,TEFLON DON,Future,MIXTAPE PLUTO,2024-09-20,74,124.005,-6.275,0.916
+170,Circadian Rhythm,Drake,100 GIGS,2024-08-30,79,146.007,-6.144,0.694
+171,The Largest,BigXthaPlug,The Largest,2024-08-09,68,131.041,-3.108,0.902
+172,Light Year (Practice),Lil Uzi Vert,Eternal Atake 2,2024-11-01,73,140.203,-7.231,0.637
+173,Blow for Blow (feat. J. Cole),"Tee Grizzley, J. Cole",Blow for Blow (feat. J. Cole),2024-09-27,69,104.563,-10.201,0.675
+174,Rah Tah Tah,"Tyler, The Creator",CHROMAKOPIA,2024-10-28,87,82.557,-4.099,0.661
+175,Both Ways,Juice WRLD,The Pre-Party (Extended),2024-10-14,73,78.022,-9.121,0.726
+176,NISSAN ALTIMA,Doechii,Alligator Bites Never Heal,2024-08-30,72,117.038,-5.206,0.974
+177,Tailor Swif,A$AP Rocky,Tailor Swif,2024-08-30,74,77.499,-5.506,0.824
+178,GEEK TIMË,Yeat,LYFESTYLE,2024-10-18,72,158.042,-6.227,0.638
+179,Many Men (Wish Death),50 Cent,Get Rich Or Die Tryin',2003-02-06,71,108.52,-2.93,0.654
+180,Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,88,101.061,-7.001,0.898
+181,BAND4BAND (feat. Lil Baby),"Central Cee, Lil Baby",BAND4BAND (feat. Lil Baby),2024-05-23,81,140.113,-5.241,0.882
+182,Type Shit,"Future, Metro Boomin, Travis Scott, Playboi Carti",WE DON'T TRUST YOU,2024-03-22,84,144.941,-5.679,0.64
+183,"Bent (with Kyle Richh, Jenn Carter & TaTa)","41, Kyle Richh, Jenn Carter, TaTa",41 World: Not The Album,2023-11-17,68,123.987,-7.381,0.848
+184,Dior,Pop Smoke,Meet The Woo,2019-07-26,76,142.096,-5.732,0.548
+185,SAY MY GRACE (feat. Travis Scott),"Offset, Travis Scott",SET IT OFF,2023-10-13,70,121.854,-5.082,0.772
+186,6locc 6a6y,Lil Loaded,6locc 6a6y,2019-12-06,69,125.089,-8.025,0.871
+187,All My Life (feat. J. Cole),"Lil Durk, J. Cole",All My Life (feat. J. Cole),2023-05-12,69,142.974,-5.881,0.787
+188,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",HEROES & VILLAINS,2022-12-02,79,116.624,-5.298,0.709
+189,Took Her To The O,King Von,Levon James,2020-03-06,78,159.98,-7.002,0.82
+190,Loading,Central Cee,Wild West,2021-03-12,70,144.006,-6.18,0.85
+191,née-nah,"21 Savage, Travis Scott, Metro Boomin",american dream,2024-01-12,73,165.409,-6.524,0.681
+192,Love Sosa,Chief Keef,Finally Rich,2012-01-01,77,131.964,-8.194,0.772
+193,Drankin N Smokin,"Future, Lil Uzi Vert",Pluto x Baby Pluto,2020-11-13,70,151.951,-6.297,0.752
+194,Invincible,Pop Smoke,Meet The Woo 2,2020-02-07,71,142.791,-5.652,0.548
+195,GATTI,"JACKBOYS, Pop Smoke, Travis Scott",JACKBOYS,2019-12-27,69,143.477,-5.808,0.594
+196,The Woo (feat. 50 Cent & Roddy Ricch),"Pop Smoke, 50 Cent, Roddy Ricch",Shoot For The Stars Aim For The Moon,2020-07-03,68,99.7,-5.655,0.49
+197,Neva Cared,Polo G,Neva Cared,2018-03-11,68,77.528,-12.207,0.822
+198,Mr. Glock,Key Glock,Yellow Tape,2020-01-31,70,150.141,-5.949,0.804
+199,Runnin,"21 Savage, Metro Boomin",SAVAGE MODE II,2020-10-02,78,143.01,-4.574,0.819
+200,Armed & Dangerous,King Von,Welcome to O'Block,2020-10-30,72,188.051,-6.281,0.696
+201,Coffin,Lil Yachty,Lil Boat 3.5,2020-11-27,70,138.05,-4.98,0.92
+202,Ready (feat. Gunna),"Lil Baby, Gunna",Street Gossip,2018-11-30,69,76.984,-5.578,0.793
+203,Russian Cream,Key Glock,Glock Bond,2018-02-02,69,130.007,-5.791,0.867
+204,Wants and Needs (feat. Lil Baby),"Drake, Lil Baby",Scary Hours 2,2021-03-05,73,136.006,-6.349,0.578
+205,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage","Honestly, Nevermind",2022-06-17,80,165.921,-4.711,0.529
+206,"Crazy Story, Pt. 3",King Von,"Grandson, Vol. 1",2019-09-20,75,156.953,-5.14,0.729
+207,Pure Cocaine,Lil Baby,Street Gossip,2018-11-30,77,127.05,-6.071,0.964
+208,Ambition For Cash,Key Glock,Yellow Tape 2,2021-11-05,73,149.012,-5.186,0.841
+209,family ties (with Kendrick Lamar),"Baby Keem, Kendrick Lamar",The Melodic Blue,2021-09-10,79,134.093,-5.453,0.711
+210,Glock In My Lap,"21 Savage, Metro Boomin",SAVAGE MODE II,2020-10-02,80,130.029,-6.439,0.847
+211,3 Headed Goat (feat. Lil Baby & Polo G),"Lil Durk, Lil Baby, Polo G",Just Cause Y'all Waited 2,2020-05-08,68,143.029,-8.618,0.846
+212,Run It Up (feat. Offset & Moneybagg Yo),"Lil Tjay, Offset, Moneybagg Yo",Destined 2 Win,2021-04-02,71,120.031,-6.091,0.88
+213,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),"DJ Khaled, Lil Baby, Lil Durk",KHALED KHALED,2021-04-30,70,150.062,-4.053,0.477
+214,Sticky,Drake,"Honestly, Nevermind",2022-06-17,68,137.027,-14.63,0.853
+215,Mask Off,Future,FUTURE,2017-06-30,81,150.062,-8.795,0.833
+216,On Me,Lil Baby,On Me,2020-12-04,70,77.972,-6.295,0.856
+217,N95,Kendrick Lamar,Mr. Morale & The Big Steppers,2022-05-13,75,139.956,-5.527,0.79
+218,Rich Nigga Shit (feat. Young Thug),"21 Savage, Metro Boomin, Young Thug",SAVAGE MODE II,2020-10-02,75,97.974,-5.625,0.825
+219,Surround Sound (feat. 21 Savage & Baby Tate),"JID, 21 Savage, Baby Tate",The Forever Story (Extended Version),2022-10-31,78,75.965,-7.126,0.574
+220,Mask Off,Future,FUTURE,2017-06-30,81,150.062,-8.795,0.833
+221,Imagina esse Cenário,"Matuê, Veigh",333,2024-09-09,75,94.329,-3.885,0.583
+222,Yes Indeed,"Lil Baby, Drake",Harder Than Ever,2018-05-18,75,119.957,-9.309,0.963
+223,Wake Up & Bake Up,"Duki, Wiz Khalifa, Arcángel",AMERI,2024-10-31,72,148.107,-5.617,0.797
+224,M4,"Teto, Matuê",M4,2021-01-20,68,119.97,-4.709,0.88
+225,Diablita (feat. Anuel AA & Baby Rasta),"Trap Capos, Noriel, Anuel AA, Baby Rasta",Trap Capos: Season 1,2016-10-07,70,129.902,-4.883,0.807
+226,Love Sosa,Chief Keef,Finally Rich,2012-01-01,77,131.964,-8.194,0.772
+227,Tessera sanitaria (feat. Nerissima Serpe & Papa V),"Night Skinny, Nerissima Serpe, Papa V",Containers,2024-10-10,69,165.946,-4.51,0.513
+228,Bad and Boujee (feat. Lil Uzi Vert),"Migos, Lil Uzi Vert",Culture,2017-01-27,70,127.079,-5.314,0.926
+229,That Go! (feat. T-Shyne),"Young Stoner Life, Young Thug, Meek Mill, T-Shyne",Slime Language 2,2021-04-16,72,145.95,-6.706,0.713
+230,Me Acostumbre (feat. Bad Bunny),"Arcángel, Bad Bunny",Me Acostumbre (feat. Bad Bunny),2017-04-11,68,124.041,-7.242,0.808
+231,Like That,"Future, Metro Boomin, Kendrick Lamar",WE DON'T TRUST YOU,2024-03-22,83,162.012,-4.67,0.814
+232,Castlevania,Matuê,333,2024-09-09,70,109.966,-2.34,0.616
+233,We Paid (feat. 42 Dugg),"Lil Baby, 42 Dugg",My Turn (Deluxe),2020-05-01,70,135.14,-5.064,0.926
+234,Brindis,"Duki, Headie One",AMERI,2024-10-31,73,135.055,-6.149,0.851
+235,Pa Ti,"Bad Bunny, Bryant Myers",Pa Ti,2017-01-02,72,128.14,-3.017,0.76
+236,Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix,"Trap Capos, Noriel, Bad Bunny, Almighty",Amigos y Enemigos (Remix),2017-02-06,70,115.01,-3.755,0.752
+237,Tu Me Enamoraste - Remix,"Lary Over, Anuel, Bryant Myers, Almighty, Brytiago",Tu Me Enamoraste (Remix),2016-04-02,69,119.967,-8.861,0.689
+238,Nena Maldición (feat. Lenny Tavárez),"Paulo Londra, Lenny Tavárez",Homerun,2019-05-23,73,118.96,-6.635,0.566
+239,PUFFIN ON ZOOTIEZ,Future,I NEVER LIKED YOU,2022-04-29,77,124.992,-5.748,0.883
+240,1993,Matuê,333,2024-09-09,73,92.055,-3.165,0.753
+241,Going Bad (feat. Drake),"Meek Mill, Drake",Championships,2018-11-30,74,86.003,-6.365,0.889
+242,Un Día Más,"Duki, YSY A",AMERI,2024-10-31,71,96.914,-5.715,0.712
+243,De las 2 (feat. Bad Bunny & Arcángel),"Trap Capos, Noriel, Bad Bunny, Arcángel",Trap Capos II,2018-04-13,69,120.146,-5.015,0.744
+244,Un Ratito Mas,"Bryant Myers, Bad Bunny",Un Ratito Mas,2017-06-05,68,140.101,-4.058,0.523
+245,CANZONE D'ODIO (feat. Lil Baby),"Lazza, Lil Baby",LOCURA,2024-09-19,73,99.827,-4.16,0.697
+246,Deus Perdoa,"Filipe Ret, Dallass, Hunter",Deus Perdoa,2023-03-21,68,147.037,-6.934,0.607
+247,Solo,Future,HNDRXX,2017-07-27,80,110.964,-6.497,0.784
+248,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",HEROES & VILLAINS,2022-12-02,79,116.624,-5.298,0.709
+249,Cómo Le Digo,"KHEA, Omar Varela, Asan",Cómo Le Digo,2018-04-10,68,129.958,-8.444,0.69
+250,Maturidade,"KayBlack, Wall Hein, AMUSIK",Maturidade,2022-09-08,70,172.445,-9.963,0.722
+251,Problemas de um Milionário,"WIU, Teto",Problemas de um Milionário,2024-04-10,70,133.03,-5.486,0.93
+252,BOOKER T,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,2020-11-27,72,113.903,-7.188,0.883
+253,SICKO MODE,Travis Scott,ASTROWORLD,2018-08-03,81,155.008,-3.714,0.834
+254,Too Many Nights (feat. Don Toliver & with Future),"Metro Boomin, Future, Don Toliver",HEROES & VILLAINS,2022-12-02,82,87.973,-4.356,0.573
+255,Me Ama Me Odia,"Revol, Ozuna, Cosculluela, Arcángel, Brytiago",Me Ama Me Odia,2016-09-01,71,135.993,-9.474,0.735
+256,Hm Hm hm,Youka,VENIN,2024-07-05,68,171.264,-4.032,0.567
+257,Kese (Dance),Wizkid,Kese (Dance),2024-11-15,75,118.079,-5.641,0.774
+258,Awuke,"Davido, YG Marley",Awuke,2024-10-31,76,113.981,-4.621,0.749
+259,Favourite Girl (with Rema),"Darkoo, Rema",Favourite Girl (with Rema),2024-08-08,68,100.049,-3.455,0.455
+260,Piece of My Heart (feat. Brent Faiyaz),"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),2024-10-18,77,93.2,-5.493,0.737
+261,PUSH 2 START,Tyla,TYLA +,2024-10-11,78,93.482,-3.505,0.683
+262,Fi Kan We Kan,"Bnxn, Rema",Fi Kan We Kan,2024-10-15,71,145.379,-7.881,0.501
+263,MMS,"Asake, Wizkid",Lungu Boy,2024-08-08,72,101.837,-3.367,0.502
+264,Tu Boda,"Oscar Maydon, Fuerza Regida",Tu Boda,2024-09-26,93,112.648,-6.968,0.694
+265,Después De La 1,"Cris Mj, FloyyMenor, LOUKI",MJ,2024-09-12,86,99.973,-5.091,0.805
+266,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",Cosa Nuestra,2024-11-15,82,105.008,-5.593,0.833
+267,Imagínate,"Danny Ocean, Kapo",Imagínate,2024-11-07,76,101.923,-4.667,0.779
+268,Kamikaze (feat. Victor Mendivil),"Natanael Cano, Uriel Gaxiola, Ganggy, Victor Mendivil",Kamikaze (feat. Victor Mendivil),2024-11-14,72,95.999,-5.855,0.863
+269,NEL,Fuerza Regida,PERO NO TE ENAMORES,2024-07-25,88,100.029,-6.335,0.69
+270,Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,2024-06-21,93,128.027,-6.795,0.924
+271,DEPORTIVO,"Blessd, Anuel AA",DEPORTIVO,2024-11-14,72,90.025,-2.864,0.816
+272,SEXO ES LA MODA,"Maria Becerra, Yandel",SEXO ES LA MODA,2024-10-31,74,105.002,-4.385,0.848
+273,+57,"KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd",+57,2024-11-08,84,91.98,-3.574,0.848
+274,Khé?,"Rauw Alejandro, Romeo Santos",Cosa Nuestra,2024-11-15,78,155.865,-4.975,0.687
+275,Ferxxoko,"Joyce Santana, Feid",Ferxxoko,2024-10-31,72,171.831,-6.436,0.753
+276,Nueva Era,"Duki, Myke Towers",AMERI,2024-10-31,82,101.097,-3.165,0.556
+277,PELIGROSA,FloyyMenor,PELIGROSA,2024-07-12,81,100.021,-8.99,0.776
+278,Morena Canela,Chino Pacas,Que Sigan Llegando Las Pacas (Extended),2024-10-18,79,119.893,-6.981,0.658
+279,Q U E V A S H A C E R H O Y ?,"Omar Courtz, De La Rose",PRIMERA MUSA,2024-09-20,89,155.079,-6.304,0.56
+280,DURO,Quevedo,DURO,2024-10-31,76,104.033,-4.963,0.707
+281,PIÉNSALO,Junior H,$AD BOYZ 4 LIFE II,2023-10-05,84,97.541,-7.798,0.716
+282,EN MI MUNDO,"Jasiel Nuñez, Peso Pluma",LA ODISEA,2024-11-07,75,125.01,-8.39,0.694
+283,Soltera,Shakira,Soltera,2024-09-25,86,100.076,-4.735,0.841
+284,DEGENERE 👑 (feat. benny blanco),"Myke Towers, benny blanco",DEGENERE 👑 (feat. benny blanco),2024-10-16,79,194.055,-5.778,0.744
+285,SE ME OLVIDA,"Maisak, Feid",SE ME OLVIDA,2024-08-23,84,82.045,-4.386,0.786
+286,Hecha Pa' Mí,Grupo Frontera,Hecha Pa' Mí,2024-10-03,82,98.582,-4.267,0.742
+287,SE TE NOTA (feat. Peso Pluma),"Myke Towers, Peso Pluma",LA PANTERA NEGRA,2024-08-22,72,104.008,-4.516,0.773
+288,EL LOKERON,Tito Double P,INCÓMODO,2024-08-22,89,120.208,-7.174,0.724
+289,Ese Vato No Te Queda,"Carin Leon, Gabito Ballesteros",Ese Vato No Te Queda,2024-10-24,75,117.955,-3.643,0.748
+290,Cholo 7,"Fuerza Regida, Luis R Conriquez",Cholo 7,2024-10-31,75,136.0,-5.035,0.691
+291,KINTSUGI,HUMBE,KINTSUGI,2024-09-26,80,79.503,-8.606,0.373
+292,UWAIE,Kapo,UWAIE,2024-08-15,86,103.001,-4.783,0.705
+293,IA,"Clarent, Mora",IA,2024-10-17,80,111.93,-5.812,0.706
+294,Siento que merezco más,LATIN MAFIA,TODOS LOS DÍAS TODO EL DÍA,2024-10-24,73,156.023,-9.548,0.55
+295,AY MAMÁ,"Tito Double P, Grupo Frontera",INCÓMODO,2024-08-22,85,148.853,-6.297,0.666
+296,En Otra Vida,"Yami Safdie, Lasso",En Otra Vida,2024-10-10,79,184.784,-11.634,0.459
+297,No Son Doritos,"Clave Especial, Luis R Conriquez",No Son Doritos,2024-08-23,81,139.995,-4.623,0.783
+298,Frente al Mar,Beéle,Frente al Mar,2024-09-26,79,100.036,-3.825,0.75
+299,Soltera - W Sound 01,"W Sound, Blessd, Ovy On The Drums",Soltera (W Sound 01),2024-08-06,82,199.997,-4.147,0.734
+300,DOS DÍAS,"Tito Double P, Peso Pluma",INCÓMODO,2024-08-22,88,109.935,-9.116,0.745
+301,NO PIERDO LA VIDA,"Calle 24, Chuyin",NO PIERDO LA VIDA,2024-09-06,77,124.997,-4.353,0.747
+302,Como Pacman,"Alemán, Gera MX",Como Pacman,2024-10-31,68,165.07,-3.826,0.809
+303,Rey Sin Reina,Julión Álvarez y su Norteño Banda,Atento Aviso ... Rey Sin Reina,2024-09-05,85,169.653,-6.612,0.529
+304,JACKPOT,"Belinda, Kenia OS",JACKPOT,2024-10-24,73,123.009,-4.946,0.763
+305,noviogangsta <3,Emilia,noviogangsta <3,2024-10-12,77,128.924,-4.27,0.816
+306,Bandoleros,"Don Omar, Tego Calderón",The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),2006-06-20,68,90.622,-5.311,0.662
+307,Rucón,Alemán,Eclipse,2018-05-16,69,161.989,-8.768,0.864
+308,"Raataan Lambiyan (From ""Shershaah"")","Tanishk Bagchi, Jubin Nautiyal, Asees Kaur","Raataan Lambiyan (From ""Shershaah"")",2021-07-30,70,81.009,-5.549,0.72
+309,"Ranjha (From ""Shershaah"")","Jasleen Royal, B Praak, Romy, Anvita Dutt","Ranjha (From ""Shershaah"")",2021-08-05,68,82.941,-5.843,0.603
+310,Shayad,"Pritam, Arijit Singh",Love Aaj Kal (Original Motion Picture Soundtrack),2020-02-14,73,135.875,-7.642,0.483
+311,Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",Tamasha,2015-10-16,70,122.925,-8.744,0.562
+312,Khairiyat,"Pritam, Arijit Singh",Chhichhore,2019-08-31,71,124.914,-9.016,0.534
+313,505,Arctic Monkeys,Favourite Worst Nightmare,2007-04-22,84,140.266,-5.822,0.526
+314,Heads Will Roll,Yeah Yeah Yeahs,It's Blitz!,2009-01-01,68,132.009,-4.46,0.562
+315,Instant Crush (feat. Julian Casablancas),"Daft Punk, Julian Casablancas",Random Access Memories,2013-05-20,74,109.942,-9.516,0.775
+316,Are You Gonna Be My Girl,Jet,Get Born,2003,72,105.105,-3.404,0.606
+317,Time to Pretend,MGMT,Oracular Spectacular,2007-12-14,73,100.99,-3.249,0.438
+318,Feel It Still,Portugal. The Man,Woodstock,2017-06-16,81,79.028,-5.115,0.801
+319,misses,Dominic Fike,14 minutes,2024-05-03,80,119.945,-6.229,0.578
+320,Too Sweet,Hozier,Unheard,2024-03-22,79,117.038,-5.505,0.741
+321,Wasted Summers,juju<3,Wasted Summers,2023-07-12,78,103.842,-8.122,0.633
+322,Feel It - From The Original Series “Invincible”,d4vd,Feel It (From The Original Series “Invincible”),2024-03-28,78,120.509,-5.864,0.565
+323,The Adults Are Talking,The Strokes,The New Abnormal,2020-04-10,77,164.959,-5.67,0.593
+324,3 Nights,Dominic Fike,"Don't Forget About Me, Demos",2018-10-16,77,151.891,-6.594,0.815
+325,This Charming Man - 2011 Remaster,The Smiths,The Smiths,1984-02-20,77,103.912,-5.9,0.611
+326,Oysters In My Pocket,Royel Otis,Oysters In My Pocket,2022-03-10,76,168.017,-4.974,0.598
+327,Fluorescent Adolescent,Arctic Monkeys,Favourite Worst Nightmare,2007-04-22,76,112.056,-5.377,0.654
+328,You Get What You Give,New Radicals,Maybe You've Been Brainwashed Too,1998-01-01,74,113.967,-5.396,0.621
+329,THE SHADE,Rex Orange County,WHO CARES?,2022-03-11,74,119.869,-7.973,0.898
+330,Time to Pretend,MGMT,Oracular Spectacular,2007-12-14,73,100.99,-3.249,0.438
+331,Vampire Empire,Big Thief,Vampire Empire,2023-07-19,73,131.272,-7.797,0.636
+332,Her,The American Dawn,Her,2024-07-26,73,102.99,-7.7,0.66
+333,Not Strong Enough,"boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",the record,2023-03-31,72,126.976,-5.909,0.502
+334,Hell N Back,Bakar,Hell N Back,2019-08-15,71,209.688,-4.314,0.633
+335,Ghostride,Crumb,Jinx,2019-06-14,71,87.057,-9.424,0.665
+336,Someday,The Strokes,Is This It,2001-07-30,69,106.035,-7.46,0.539
+337,Metamodernity,Vansire,Metamodernity,2019-06-11,69,121.968,-10.077,0.823
+338,Breezeblocks,alt-J,An Awesome Wave,2012-09-18,68,150.093,-7.299,0.615
+339,ROCKMAN,Mk.gee,ROCKMAN,2024-10-18,68,134.014,-9.767,0.781
+340,The Gambler,Kenny Rogers,The Gambler,1978-11-20,73,87.086,-13.119,0.668
+341,Amarillo By Morning,George Strait,Strait From The Heart,1982-01-01,70,121.059,-16.031,0.606
+342,Mammas Don't Let Your Babies Grow up to Be Cowboys,"Waylon Jennings, Willie Nelson",Waylon & Willie,1978-01-01,68,187.711,-14.398,0.363
+343,Open Arms (feat. Travis Scott),"SZA, Travis Scott",SOS,2022-12-08,80,78.259,-7.612,0.434
+344,Pink + White,Frank Ocean,Blonde,2016-08-20,87,159.94,-7.362,0.545
+345,Best Part (feat. H.E.R.),"Daniel Caesar, H.E.R.",Freudian,2017-08-25,84,75.24,-10.209,0.524
+346,My Boo,"USHER, Alicia Keys",Confessions (Expanded Edition),2004-03-23,79,86.412,-8.238,0.662
+347,Sure Thing,Miguel,All I Want Is You,2010-11-26,85,81.001,-8.127,0.684
+348,Snooze,SZA,SOS,2022-12-09,86,143.008,-7.231,0.559
+349,If I Ain't Got You,Alicia Keys,The Diary Of Alicia Keys,2003-12-02,81,118.402,-9.129,0.609
+350,Poison,Brent Faiyaz,Poison,2016-08-03,78,117.489,-10.102,0.689
+351,Family Affair,Mary J. Blige,No More Drama,2001-08-28,78,92.887,-3.75,0.911
+352,With You,Chris Brown,Exclusive (Expanded Edition),2007-11-06,74,86.009,-4.298,0.662
+353,Broken Clocks,SZA,Ctrl,2017-06-09,80,112.912,-7.364,0.692
+354,Girl With The Tattoo Enter.lewd,Miguel,All I Want Is You,2010-11-26,79,113.451,-11.314,0.372
+355,Best Time,Brent Faiyaz,Larger Than Life,2023-10-27,80,92.995,-7.215,0.81
+356,Could've Been (feat. Bryson Tiller),"H.E.R., Bryson Tiller",I Used To Know Her,2019-08-30,75,102.679,-11.733,0.45
+357,Foolish,Ashanti,Ashanti,2002-01-01,72,90.119,-5.763,0.665
+358,Fallin',Alicia Keys,Songs In A Minor,2001-06-05,76,95.986,-7.519,0.652
+359,Nobody Gets Me,SZA,SOS,2022-12-09,84,99.796,-8.285,0.358
+360,Clouded,Brent Faiyaz,Fuck The World,2020-02-07,78,65.203,-8.765,0.583
+361,So Sick,Ne-Yo,In My Own Words,2006-01-01,78,92.795,-8.336,0.452
+362,The Boy Is Mine,"Brandy, Monica",Never Say Never,1998-05-29,73,93.145,-6.537,0.704
+363,Yo (Excuse Me Miss),Chris Brown,Chris Brown (Expanded Edition),2005,71,86.768,-5.847,0.536
+364,Kill Bill,SZA,SOS,2022-12-08,86,88.98,-5.747,0.644
+365,Forever Yours,Brent Faiyaz,Larger Than Life,2023-10-27,77,137.007,-7.472,0.646
+366,No One,Alicia Keys,No One (Remixes),2007-10-09,76,90.098,-5.423,0.641
+367,Hey Daddy (Daddy's Home),USHER,Raymond v Raymond (Expanded Edition),2010-03-30,76,95.975,-4.262,0.59
+368,Sativa,"Jhené Aiko, Swae Lee",Trip,2017-09-22,76,125.99,-7.34,0.741
+369,Always On Time,"Ja Rule, Ashanti",Pain Is Love,2001-10-02,72,96.644,-6.131,0.838
+370,ALL MINE,Brent Faiyaz,WASTELAND,2022-07-08,76,141.967,-8.54,0.617
+371,Heart Of A Woman,Summer Walker,Heart Of A Woman,2024-10-25,74,129.93,-8.28,0.716
+372,U Remind Me,USHER,8701,2001-08-07,69,93.985,-4.938,0.657
+373,Stay Ready (What A Life),"Jhené Aiko, Kendrick Lamar",Sail Out,2013-01-01,75,82.887,-11.548,0.347
+374,Love Galore (feat. Travis Scott),"SZA, Travis Scott",Ctrl,2017-06-09,77,135.002,-6.2,0.795
+375,Been Away,Brent Faiyaz,Fuck The World,2020-02-07,75,132.798,-9.377,0.602
+376,No Love (with SZA),"Summer Walker, SZA",Still Over It,2021-11-05,72,133.876,-5.825,0.707
+377,Burn,USHER,Confessions (Expanded Edition),2004-03-23,70,119.928,-7.161,0.796
+378,Miss Independent,Ne-Yo,Year Of The Gentleman (Bonus Track Edition),2008-01-01,77,171.864,-5.693,0.673
+379,Let Me Love You,Mario,Turning Point,2004-03-15,75,94.519,-8.343,0.686
+380,Upset (feat. Tommy Richman & FELIX!),"Brent Faiyaz, FELIX!, Tommy Richman",Larger Than Life,2023-10-27,75,135.03,-9.393,0.856
+381,Nights Like This (feat. Ty Dolla $ign),"Kehlani, Ty Dolla $ign",While We Wait,2019-02-22,73,146.163,-5.131,0.61
+382,U Got It Bad,USHER,8701,2001-08-07,69,124.037,-4.551,0.816
+383,You,"Lloyd, Lil Wayne",Street Love,2007-01-01,73,130.21,-6.008,0.412
+384,Because Of You,Ne-Yo,Because Of You,2007-01-01,74,109.97,-5.783,0.81
+385,Trust,Brent Faiyaz,Lost,2018-10-19,75,92.009,-8.559,0.764
+386,Dilemma,"Nelly, Kelly Rowland",Nellyville,2002-06-25,77,168.19,-8.074,0.727
+387,Love in This Club (feat. Young Jeezy),"USHER, Jeezy",Here I Stand,2008-05-27,74,140.012,-5.976,0.573
+388,Adorn,Miguel,Kaleidoscope Dream (Deluxe Version),2012,68,179.063,-5.693,0.625
+389,The Weekend,SZA,Ctrl,2017-06-09,73,73.313,-9.405,0.4
+390,Rehab (Winter In Paris),Brent Faiyaz,Fuck The World,2020-02-07,71,144.211,-11.692,0.549
+391,Language,"Paperboy Fabe, Brent Faiyaz",Language,2017-05-12,77,169.904,-5.538,0.62
+392,Confessions Part II,USHER,Confessions (Expanded Edition),2004-03-23,68,138.007,-7.674,0.845
+393,Something Just Like This,"The Chainsmokers, Coldplay",Memories...Do Not Open,2017-04-07,86,103.019,-6.769,0.617
+394,Give Me Everything (feat. Nayer),"Pitbull, AFROJACK, Ne-Yo, Nayer",Planet Pit (Deluxe Version),2011-06-17,84,129.024,-3.206,0.671
+395,Let Me Love You,"DJ Snake, Justin Bieber",Encore,2016-08-05,83,199.892,-5.371,0.475
+396,Outside (feat. Ellie Goulding),"Calvin Harris, Ellie Goulding",Motion,2014-10-31,82,128.035,-4.123,0.646
+397,The Nights,Avicii,The Days / Nights,2014-01-01,82,125.983,-5.298,0.527
+398,Ride It,Regard,Ride It,2019-07-26,80,117.948,-4.258,0.88
+399,Cheerleader (Felix Jaehn Remix) - Radio Edit,"OMI, Felix Jaehn",Me 4 U,2015-10-16,80,118.02,-6.237,0.782
+400,Closer,"The Chainsmokers, Halsey",Closer,2016-07-29,84,95.01,-5.599,0.748
+401,Faded,Alan Walker,Different World,2018-12-14,80,179.642,-5.085,0.468
+402,Summer,Calvin Harris,Motion,2014-10-31,81,127.949,-3.556,0.596
+403,In My Mind,"Dynoro, Gigi D'Agostino",In My Mind,2018-06-08,80,125.905,-5.335,0.694
+404,Timber,"Pitbull, Kesha",Global Warming: Meltdown (Deluxe Version),2012,82,129.992,-4.087,0.581
+405,Titanium (feat. Sia),"David Guetta, Sia",Nothing but the Beat (Ultimate Edition),2012-12-07,80,126.062,-3.674,0.604
+406,I Took A Pill In Ibiza - Seeb Remix,"Mike Posner, Seeb","At Night, Alone.",2016-05-06,79,101.969,-6.645,0.664
+407,Sugar (feat. Francesco Yates),"Robin Schulz, Francesco Yates",Sugar,2015-09-25,78,123.063,-5.098,0.636
+408,Waiting For Love,Avicii,Stories,2015-10-02,78,127.999,-3.863,0.579
+409,On The Floor,"Jennifer Lopez, Pitbull",Love?,2011-04-29,78,130.003,-5.194,0.73
+410,Don't Let Me Down,"The Chainsmokers, Daya",Don't Let Me Down,2016-02-05,80,159.805,-5.093,0.533
+411,Blame (feat. John Newman),"Calvin Harris, John Newman",Motion,2014-10-31,79,128.024,-4.078,0.414
+412,Wild Ones (feat. Sia),"Flo Rida, Sia",Wild Ones,2012-06-22,77,127.075,-5.324,0.608
+413,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],"Daft Punk, Pharrell Williams, Nile Rodgers",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],2013-04-19,77,116.047,-8.966,0.794
+414,More Than You Know,Axwell /\ Ingrosso,More Than You Know,2017-07-28,77,123.077,-4.973,0.646
+415,In the Name of Love,"Martin Garrix, Bebe Rexha",In the Name of Love,2016-07-29,77,133.99,-5.88,0.501
+416,This Girl (Kungs Vs. Cookin' On 3 Burners),"Kungs, Cookin' On 3 Burners",Layers,2016-11-04,76,121.985,-4.759,0.793
+417,Scream & Shout,"will.i.am, Britney Spears",#willpower,2013-01-01,76,130.039,-6.849,0.772
+418,This Is What You Came For,"Calvin Harris, Rihanna",This Is What You Came For,2016-04-29,77,123.962,-2.787,0.631
+419,Alors on danse - Radio Edit,Stromae,Cheese,2010-01-01,75,119.958,-9.204,0.79
+420,We Found Love,"Rihanna, Calvin Harris",Talk That Talk,2011-11-19,75,127.975,-4.485,0.735
+421,Waves - Robin Schulz Radio Edit,"Mr. Probz, Robin Schulz",Waves (Robin Schulz Radio Edit),2014-02-07,75,119.994,-9.334,0.829
+422,Club Can't Handle Me (feat. David Guetta),"Flo Rida, David Guetta",Only One Flo (Part 1),2010-11-24,76,127.966,-3.911,0.616
+423,Under Control (feat. Hurts),"Calvin Harris, Alesso, Hurts",Motion,2014-10-31,76,126.094,-3.405,0.544
+424,Dancin (feat. Luvli) - Krono Remix,"Aaron Smith, Krono, Luvli",Dancin (feat. Luvli) [Krono Remix],2014-11-07,75,119.896,-6.529,0.72
+425,One More Time,Daft Punk,Discovery,2001-03-12,74,122.746,-8.618,0.613
+426,Firestone,"Kygo, Conrad Sewell",Cloud Nine,2016-05-13,74,113.927,-7.374,0.704
+427,Perfect Strangers,"Jonas Blue, JP Cooper",Blue,2018-11-09,74,117.965,-4.1,0.73
+428,Love Tonight (David Guetta Remix Edit),"Shouse, David Guetta",Love Tonight (David Guetta Remix),2021-06-11,74,126.002,-4.225,0.621
+429,Runaway (U & I),Galantis,Pharmacy,2015-06-05,74,126.008,-4.119,0.506
+430,Middle,"DJ Snake, Bipolar Sunshine",Encore,2016-08-05,73,104.879,-5.336,0.583
+431,Infinity 2008 - Klaas Vocal Edit,"Guru Josh Project, Klaas",Infinity 2008,2008-05-07,73,128.036,-6.02,0.498
+432,King,Olly Alexander (Years & Years),Communion (Deluxe),2015-07-10,73,119.975,-4.145,0.56
+433,Clarity,"Zedd, Foxes",Clarity,2012-01-01,73,128.0,-3.48,0.509
+434,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)","David Guetta, AFROJACK, Bebe Rexha, Nicki Minaj",Listen,2014-11-10,73,85.979,-4.091,0.596
+435,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),"Felix Jaehn, Jasmine Thompson",I,2018-02-16,73,117.973,-6.96,0.78
+436,Hear Me Now,"Alok, Zeeba, Bruno Martini",Hear Me Now (feat. Zeeba),2016-10-21,73,121.999,-7.603,0.778
+437,ily (i love you baby) (feat. Emilee),"Surf Mesa, Emilee",ily (i love you baby) (feat. Emilee),2019-11-26,73,112.05,-7.567,0.674
+438,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,"Lana Del Rey, Cedric Gervais",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix],2013-02-01,72,126.052,-5.791,0.572
+439,Dynamite,Taio Cruz,The Rokstarr Hits Collection,2010-01-01,72,119.977,-3.724,0.751
+440,Rather Be (feat. Jess Glynne),"Clean Bandit, Jess Glynne",New Eyes,2014-06-02,72,120.97,-6.735,0.799
+441,Breaking Me,"Topic, A7S",Breaking Me,2019-12-19,72,122.031,-5.652,0.789
+442,The Business,Tiësto,The Business,2020-09-16,72,120.031,-7.079,0.798
+443,Stay,"Zedd, Alessia Cara",Stay,2017-02-23,73,102.04,-5.025,0.69
+444,Party Rock Anthem,"LMFAO, Lauren Bennett, GoonRock",Sorry For Party Rocking,2011-01-01,72,130.011,-4.168,0.75
+445,Roses,"The Chainsmokers, ROZES",Roses,2015-06-16,71,100.001,-7.055,0.713
+446,I Love It (feat. Charli XCX),"Icona Pop, Charli xcx",THIS IS... ICONA POP,2013-08-27,71,125.916,-2.671,0.711
+447,Play Hard (feat. Ne-Yo & Akon),"David Guetta, Ne-Yo, Akon",Nothing but the Beat (Ultimate Edition),2012-12-07,71,130.072,-1.702,0.691
+448,Around the World,Daft Punk,Homework,1997-01-17,71,121.294,-5.311,0.956
+449,This Is What It Feels Like,"Armin van Buuren, Trevor Guthrie",Intense,2013-05-03,70,129.885,-5.217,0.551
+450,I'm an Albatraoz,"AronChupa, Little Sis Nora",I'm an Albatraoz,2014-08-08,70,128.078,-5.414,0.883
+451,Heroes (we could be),"Alesso, Tove Lo",Forever,2015-05-22,70,125.896,-4.124,0.503
+452,You & Me - Flume Remix,"Disclosure, Eliza Doolittle, Flume",Settle (Special Edition),2013-06-03,70,75.066,-6.869,0.599
+453,Lose Control,Teddy Swims,Lose Control,2023-06-23,81,159.92,-4.409,0.561
+454,Let Me Go,Daniel Caesar,NEVER ENOUGH,2023-04-07,70,152.88,-8.122,0.591
+455,Die With A Smile,"Lady Gaga, Bruno Mars",Die With A Smile,2024-08-16,100,157.969,-7.777,0.521
+456,BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,104.978,-10.171,0.747
+457,"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,94,116.712,-5.96,0.7
+458,Espresso,Sabrina Carpenter,Espresso,2024-04-12,90,103.969,-5.478,0.701
+459,Lose Control,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,89,159.92,-4.409,0.561
+460,FE!N (feat. Playboi Carti),"Travis Scott, Playboi Carti",UTOPIA,2023-07-28,88,148.038,-2.777,0.569
+461,Stargazing,Myles Smith,Stargazing,2024-05-10,88,123.994,-6.129,0.635
+462,HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,88,139.982,-4.981,0.742
+463,Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,88,101.061,-7.001,0.898
+464,Slow It Down,Benson Boone,Fireworks & Rollerblades,2024-04-05,87,181.489,-4.682,0.432
+465,A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),2024-04-12,86,81.012,-4.95,0.722
+466,Move,"Adam Port, Stryv, Keinemusik, Orso, Malachiii",Move,2024-06-07,86,119.992,-8.529,0.727
+467,Big Dawgs,"Hanumankind, Kalmi",Big Dawgs,2024-07-09,85,180.098,-3.202,0.464
+468,Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,88,107.071,-6.073,0.669
+469,I'm Good (Blue),"David Guetta, Bebe Rexha",I'm Good (Blue),2022-08-26,85,128.04,-3.673,0.561
+470,Romantic Homicide,d4vd,Romantic Homicide,2022-07-20,85,132.052,-10.613,0.571
+471,New Woman (feat. ROSALÍA),"LISA, ROSALÍA",New Woman (feat. ROSALÍA),2024-08-15,85,140.515,-4.715,0.477
+472,Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,105.029,-5.692,0.472
+473,Guess featuring billie eilish,"Charli xcx, Billie Eilish",Guess featuring Billie Eilish,2024-08-01,85,130.019,-6.622,0.776
+474,i like the way you kiss me,Artemas,i like the way you kiss me,2024-03-19,84,151.647,-4.263,0.599
+475,I Had Some Help (Feat. Morgan Wallen),"Post Malone, Morgan Wallen",I Had Some Help,2024-05-10,84,127.986,-4.86,0.638
+476,Ransom,Lil Tecca,We Love You Tecca,2019-08-30,84,179.974,-6.257,0.745
+477,KEEP UP,Odetari,KEEP UP // FROSTBITE,2024-07-17,84,139.198,-3.806,0.476
+478,Type Shit,"Future, Metro Boomin, Travis Scott, Playboi Carti",WE DON'T TRUST YOU,2024-03-22,84,144.941,-5.679,0.64
+479,one of wun,Gunna,One of Wun,2024-05-10,84,139.943,-4.589,0.915
+480,I Adore You (feat. Daecolm),"HUGEL, Topic, Arash, Daecolm",I Adore You (feat. Daecolm),2024-07-19,83,119.996,-6.751,0.704
+481,Black Friday (pretty like the sun),"Lost Frequencies, Tom Odell",Black Friday (pretty like the sun),2024-07-19,83,126.031,-10.833,0.853
+482,I Can Do It With a Broken Heart,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,83,129.994,-8.39,0.701
+483,Apple,Charli xcx,BRAT,2024-06-07,83,126.035,-5.452,0.804
+484,Hope,XXXTENTACION,?,2018-03-16,82,146.04,-6.081,0.592
+485,Happier,"Marshmello, Bastille",Happier,2018-08-17,82,100.011,-2.749,0.687
+486,Like That,"Future, Metro Boomin, Kendrick Lamar",WE DON'T TRUST YOU,2024-03-22,83,162.012,-4.67,0.814
+487,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",Hollywood's Bleeding,2019-09-06,82,89.96,-4.368,0.755
+488,fukumean,Gunna,a Gift & a Curse,2023-06-16,82,130.001,-6.747,0.847
+489,Belong Together,Mark Ambor,Belong Together,2024-02-16,82,90.969,-5.203,0.646
+490,redrum,21 Savage,american dream,2024-01-12,81,172.09,-8.757,0.625
+491,WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",I NEVER LIKED YOU,2022-04-29,82,83.389,-4.474,0.463
+492,Miles On It,"Marshmello, Kane Brown",Miles On It,2024-05-03,81,129.963,-4.752,0.634
+493,Moonlight,XXXTENTACION,?,2018-03-16,81,128.009,-5.723,0.921
+494,Godzilla (feat. Juice WRLD),"Eminem, Juice WRLD",Music To Be Murdered By,2020-01-17,81,165.995,-5.26,0.808
+495,Addicted,"Zerb, The Chainsmokers, Ink",Addicted,2024-03-29,81,120.064,-7.132,0.771
+496,on one tonight,Gunna,One of Wun,2024-05-10,82,130.035,-4.318,0.887
+497,Thank You (Not So Bad),"Dimitri Vegas & Like Mike, Tiësto, Dido, W&W, Dimitri Vegas, Like Mike",Thank You (Not So Bad),2023-12-01,81,150.019,-5.149,0.673
+498,360,Charli xcx,BRAT,2024-06-07,81,120.042,-8.13,0.857
+499,Houdini,Eminem,Houdini,2024-05-31,81,127.003,-2.76,0.936
+500,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,2024-03-08,81,115.842,-8.334,0.645
+501,The Box,Roddy Ricch,Please Excuse Me for Being Antisocial,2019-12-06,81,116.971,-6.687,0.896
+502,Lovin On Me,Jack Harlow,Lovin On Me,2023-11-10,81,104.983,-4.911,0.943
+503,XO Tour Llif3,Lil Uzi Vert,Luv Is Rage 2,2017-08-25,81,155.096,-6.366,0.732
+504,BAND4BAND (feat. Lil Baby),"Central Cee, Lil Baby",BAND4BAND (feat. Lil Baby),2024-05-23,81,140.113,-5.241,0.882
+505,Where Are You Now,"Lost Frequencies, Calum Scott",All Stand Together,2023-11-10,81,121.031,-8.312,0.762
+506,2055,Sleepy Hallow,Still Sleep?,2021-06-02,80,80.511,-5.865,0.829
+507,Mood (feat. iann dior),"24kGoldn, iann dior",El Dorado,2021-03-26,80,91.007,-3.671,0.701
+508,SLAY!,Eternxlkz,SLAY!,2024-03-15,80,129.923,-4.706,0.681
+509,Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage","Honestly, Nevermind",2022-06-17,80,165.921,-4.711,0.529
+510,Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",HEROES & VILLAINS,2022-12-02,79,116.624,-5.298,0.709
+511,You & Me - Rivo Remix,"Disclosure, Eliza Doolittle, Rivo",You & Me (Rivo Remix),2023-12-22,79,122.011,-6.635,0.702
+512,Sprinter,"Dave, Central Cee",Sprinter,2023-06-01,79,139.057,-4.705,0.918
+513,Somedays,"Sonny Fodera, Jazzy, D.O.D",Somedays,2024-07-26,79,127.926,-6.045,0.671
+514,Back On 74,Jungle,Volcano,2023-08-11,79,146.003,-7.282,0.62
+515,DEVIL IS A LIE,Tommy Richman,DEVIL IS A LIE,2024-06-14,78,90.026,-7.272,0.904
+516,Whatever She Wants,Bryson Tiller,Whatever She Wants,2024-02-13,78,96.02,-6.871,0.803
+517,euphoria,Kendrick Lamar,euphoria,2024-04-30,78,139.948,-5.002,0.831
+518,Surround Sound (feat. 21 Savage & Baby Tate),"JID, 21 Savage, Baby Tate",The Forever Story (Extended Version),2022-10-31,78,75.965,-7.126,0.574
+519,Feel It - From The Original Series “Invincible”,d4vd,Feel It (From The Original Series “Invincible”),2024-03-28,78,120.509,-5.864,0.565
+520,Push Up - Main Edit,Creeds,Push Up (Main Edit),2023-03-31,77,75.023,-8.78,0.767
+521,Strangers,Kenya Grace,Strangers,2023-09-01,77,169.982,-8.307,0.628
+522,BACKBONE,"Chase & Status, Stormzy",BACKBONE,2024-08-08,77,88.009,-0.959,0.777
+523,FUNKED UP - SLOWED,"xxanteria, isq",FUNKED UP,2024-01-19,77,109.952,0.254,0.755
+524,Too Sweet,Hozier,Unheard,2024-03-22,77,117.038,-5.505,0.741
+525,Montagem Mysterious Game,LXNGVX,Montagem Mysterious Game,2023-12-01,77,130.051,-10.441,0.537
+526,TUCA DONKA,"CURSEDEVIL, DJ FKU, Skorde",TUCA DONKA,2023-07-28,77,130.028,-3.318,0.817
+527,Paint The Town Red,Doja Cat,Scarlet,2023-09-20,77,99.974,-7.683,0.864
+528,MONTAGEM - PR FUNK,"S3BZS, Mc Gw, Mc Menor Do Alvorada",MONTAGEM - PR FUNK,2023-05-01,77,130.028,-3.195,0.877
+529,Doja,Central Cee,Doja,2022-07-21,77,140.04,-7.43,0.911
+530,Somebody (2024),"Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone",Somebody (2024),2024-02-09,77,130.017,-6.198,0.848
+531,Whatever,"Kygo, Ava Max",Whatever,2024-01-19,76,108.005,-5.69,0.58
+532,ONE CALL,Rich Amiri,Ghetto Fabulous,2023-11-17,76,158.105,-7.281,0.65
+533,IDGAF (feat. Yeat),"Drake, Yeat",For All The Dogs,2023-10-06,76,136.902,-8.577,0.673
+534,Deep Down (feat. Never Dull),"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),2022-06-17,76,125.952,-4.221,0.687
+535,Agora Hills,Doja Cat,Scarlet,2023-09-20,76,123.01,-6.247,0.755
+536,CUTE DEPRESSED,Dyan Dxddy,CUTE DEPRESSED,2024-02-02,76,151.221,-2.12,0.83
+537,BRODYAGA FUNK,Eternxlkz,BRODYAGA FUNK,2023-11-17,75,130.0,-2.956,0.593
+538,LOVELY BASTARDS,"ZWE1HVNDXR, yatashigang",LOVELY BASTARDS,2023-08-25,75,150.251,-6.16,0.613
+539,Boyz In Paris (with VINAI),"Marnik, Naeleck, VINAI",Boyz In Paris (with VINAI),2023-07-28,75,149.036,-4.068,0.628
+540,Watch This - ARIZONATEARS Pluggnb Remix,"Lil Uzi Vert, sped up nightcore, ARIZONATEARS",Watch This (ARIZONATEARS Pluggnb Remix),2023-02-05,75,129.975,-7.18,0.686
+541,10:35,"Tiësto, Tate McRae",DRIVE,2023-04-21,75,120.003,-5.733,0.696
+542,TOO COOL TO BE CARELESS,PAWSA,TOO COOL TO BE CARELESS,2024-07-05,74,128.001,-7.225,0.805
+543,Automotivo Bibi Fogosa,"Bibi Babydoll, Dj Brunin XM, KZA Produções",Automotivo Bibi Fogosa,2023-11-10,74,135.048,-3.371,0.721
+544,Bones,Imagine Dragons,Bones,2022-03-11,74,114.071,-3.678,0.773
+545,Tailor Swif,A$AP Rocky,Tailor Swif,2024-08-30,74,77.499,-5.506,0.824
+546,First Person Shooter (feat. J. Cole),"Drake, J. Cole",For All The Dogs,2023-10-06,74,163.997,-7.342,0.475
+547,Atmosphere,"FISHER, Kita Alexander",Atmosphere,2023-08-11,73,125.985,-4.562,0.762
+548,9mm,"Memphis Cult, Groove Dealers, SPLYXER",Memphis Cult Vol. 6,2023-02-23,73,154.964,-2.749,0.737
+549,edamame,"bbno$, Rich Brian",eat ya veggies,2021-10-08,73,106.036,-4.704,0.815
+550,Breathe,Yeat,2093,2024-02-16,73,118.051,-13.092,0.76
+551,GOOD LOYAL THOTS,Odetari,GOOD LOYAL THOTS,2023-03-15,73,146.441,-5.274,0.585
+552,Let's Go,Key Glock,Glockoma 2 (Deluxe),2023-06-23,73,75.486,-6.904,0.654
+553,GODS,"League of Legends, NewJeans",GODS,2023-10-04,73,145.988,-5.914,0.588
+554,née-nah,"21 Savage, Travis Scott, Metro Boomin",american dream,2024-01-12,73,165.409,-6.524,0.681
+555,Fi Kan We Kan,"Bnxn, Rema",Fi Kan We Kan,2024-10-15,71,145.379,-7.881,0.501
+556,Stronger,Young Jonn,Jiggy Forever,2024-04-12,70,110.14,-7.094,0.726
+557,Are you there?,Ayo Maff,MAFFIAN,2024-08-15,69,112.014,-8.626,0.782
+558,MMS,"Asake, Wizkid",Lungu Boy,2024-08-08,72,101.837,-3.367,0.502
+559,OZEBA,Rema,HEIS,2024-07-10,68,147.989,-4.563,0.754
+560,PUSH 2 START,Tyla,TYLA +,2024-10-11,78,93.482,-3.505,0.683
+561,Awuke,"Davido, YG Marley",Awuke,2024-10-31,76,113.981,-4.621,0.749
+562,Constantly,"Hyce, BoyPee, Brown Joel",Constantly,2024-08-28,68,197.98,-8.37,0.374
+563,Piece of My Heart (feat. Brent Faiyaz),"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),2024-10-18,77,93.2,-5.493,0.737
+564,JUJU (feat. Shallipopi),"Smur Lee, ODUMODUBLVCK, Shallipopi",JUJU (feat. Shallipopi),2024-08-22,71,113.012,-7.164,0.897
+565,alone - Remix,"FOLA, Bnxn",alone (Remix),2024-10-04,68,95.865,-8.399,0.578
+566,Dealer,"Ayo Maff, Fireboy DML",Dealer,2024-04-16,68,67.813,-6.259,0.49
+567,アイドル,YOASOBI,アイドル,2023-04-12,72,166.008,-2.783,0.574
+568,KICK BACK,Kenshi Yonezu,KICK BACK,2022-10-12,72,101.921,-5.17,0.577
+569,ライラック,Mrs. GREEN APPLE,ライラック,2024-04-11,77,149.923,-4.363,0.531
+570,青のすみか,Tatsuya Kitani,青のすみか,2023-07-07,71,151.99,-4.809,0.479
+571,Bling-Bang-Bang-Born,Creepy Nuts,Bling-Bang-Bang-Born,2024-01-07,80,157.013,-6.836,0.853
+572,カーテンコール,Yuuri,カーテンコール,2024-07-19,73,141.131,-3.823,0.545
+573,晴る,ヨルシカ,晴る,2024-01-05,70,101.955,-6.249,0.695
+574,Nobody - from Kaiju No. 8,OneRepublic,Nobody (from Kaiju No. 8),2024-04-12,69,139.959,-5.765,0.693
+575,Abyss - from Kaiju No. 8,YUNGBLUD,Abyss (from Kaiju No. 8),2024-01-19,68,115.063,-4.241,0.576
+576,絆ノ奇跡,"MAN WITH A MISSION, milet",絆ノ奇跡,2023-04-10,68,169.955,-4.748,0.436
+577,タイムパラドックス,Vaundy,タイムパラドックス,2024-01-07,68,82.05,-5.333,0.829
+578,Master Of Puppets,Metallica,Master Of Puppets (Remastered),1986-03-03,75,105.173,-9.11,0.543
+579,The Trooper - 2015 Remaster,Iron Maiden,Piece of Mind (2015 Remaster),1983,71,159.756,-4.601,0.285
+580,Walk,Pantera,Vulgar Display of Power,1992-02-21,73,118.242,-8.008,0.43
+581,Chop Suey!,System Of A Down,Toxicity,2001-09-04,83,127.066,-3.908,0.417
+582,Blind,Korn,Korn,1994-10-11,68,92.049,-8.165,0.283
+583,One,Metallica,...And Justice For All,1988-08-25,72,102.178,-9.447,0.437
+584,Mother,Danzig,Danzig,1988-01-01,69,148.366,-9.45,0.365
+585,Cowboys from Hell,Pantera,Cowboys from Hell,1990-07-20,71,114.816,-9.701,0.415
+586,Duality,Slipknot,Vol. 3: The Subliminal Verses,2004,80,143.772,-3.026,0.354
+587,Enter Sandman,Metallica,Metallica,1991-08-12,79,123.257,-8.691,0.577
+588,Hail to the King,Avenged Sevenfold,Hail to the King,2013-08-23,75,118.004,-4.358,0.58
+589,Freak On a Leash,Korn,Follow The Leader,1998-08-18,77,103.299,-5.877,0.353
+590,Dragula,Rob Zombie,Hellbilly Deluxe,1998-01-01,77,125.033,-6.489,0.59
+591,Nightmare,Avenged Sevenfold,Nightmare,2010-07-23,70,129.984,-4.928,0.554
+592,My Own Summer (Shove It),Deftones,Around the Fur,1997-10-27,77,71.841,-4.277,0.443
+593,Schism,TOOL,Lateralus,2001-05-15,68,107.441,-8.512,0.567
+594,"Nuthin' But A ""G"" Thang","Dr. Dre, Snoop Dogg",The Chronic,1992-12-15,76,94.895,-4.37,0.669
+595,Could You Be Loved,Bob Marley & The Wailers,Uprising,1980-06-10,79,103.314,-8.548,0.916
+596,Welcome To Jamrock,Damian Marley,Welcome to Jamrock,2005-01-01,68,76.71,-6.502,0.836
+597,Murder She Wrote,Chaka Demus & Pliers,Tease Me,1993-01-01,68,95.107,-9.153,0.883
+598,Buffalo Soldier,Bob Marley & The Wailers,Confrontation,1983-05-23,70,124.084,-8.651,0.929
+599,Still D.R.E.,"Dr. Dre, Snoop Dogg",2001,1999-11-16,81,93.431,-3.323,0.816
+600,Hypnotize - 2014 Remaster,The Notorious B.I.G.,Life After Death (2014 Remastered Edition),1997-03-04,78,93.941,-3.439,0.901
+601,Doo Wop (That Thing),Ms. Lauryn Hill,The Miseducation of Lauryn Hill,1998-08-25,74,99.935,-8.926,0.535
+602,Do For Love,2Pac,R U Still Down? [Remember Me],1997-01-01,74,95.0,-3.585,0.874
+603,"Shook Ones, Pt. II",Mobb Deep,The Infamous,1995-04-25,74,93.857,-6.472,0.763
+604,I Got 5 On It,"Luniz, Michael Marshall",Operation Stackola,1995-07-04,73,174.039,-7.899,0.584
+605,Still Not a Player (feat. Joe) - Radio Version,"Big Pun, Joe",Capital Punishment,1998-04-28,72,94.121,-6.518,0.9
+606,Juicy - 2005 Remaster,The Notorious B.I.G.,Ready to Die (The Remaster),1994-09-13,73,96.063,-4.639,0.889
+607,"Nuthin' But A ""G"" Thang","Dr. Dre, Snoop Dogg",The Chronic,1992-12-15,76,94.895,-4.37,0.669
+608,C.R.E.A.M. (Cash Rules Everything Around Me),Wu-Tang Clan,Enter The Wu-Tang (36 Chambers) [Expanded Edition],1993-11-09,72,181.033,-11.562,0.512
+609,Insane in the Brain,Cypress Hill,Black Sunday,1993-07-20,70,102.304,-10.489,0.897
+610,ATLiens,Outkast,ATLiens,1996-08-27,70,97.044,-2.832,0.918
+611,N.Y. State of Mind,Nas,Illmatic,1994-04-19,70,84.099,-4.682,0.665
+612,Check Yo Self - Remix,"Ice Cube, Das EFX",Bootlegs And B-Sides,1994-11-22,69,101.368,-6.668,0.934
+613,Dear Mama,2Pac,Me Against The World,1995-03-14,68,84.115,-7.123,0.773
+614,Survival of the Fittest,Mobb Deep,The Infamous,1995-04-25,68,94.828,-5.077,0.813
+615,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,"The Notorious B.I.G., Mase, Diddy",Life After Death (2014 Remastered Edition),1997-03-04,72,104.536,-4.506,0.845
+616,Can I Kick It?,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),1990-04-17,68,96.662,-6.547,0.848
+617,Keep Ya Head Up,2Pac,Strictly 4 My N.I.G.G.A.Z...,1993-02-16,68,172.329,-7.013,0.598
+618,You Shook Me All Night Long,AC/DC,Back In Black,1980-07-25,81,127.361,-5.509,0.532
+619,Everybody Wants To Rule The World,Tears For Fears,Songs From The Big Chair (Super Deluxe Edition),1985-02-25,85,112.067,-12.095,0.645
+620,Don't Stop Believin',Journey,The Essential Journey,2001-10-16,72,119.25,-7.106,0.491
+621,Africa,TOTO,Toto IV,1982-04-08,83,92.718,-18.064,0.671
+622,Back In Black,AC/DC,Back In Black,1980-07-25,83,188.386,-5.678,0.31
+623,Dancing In the Dark,Bruce Springsteen,Born In The U.S.A.,1984-06-04,82,148.723,-5.64,0.527
+624,You Give Love A Bad Name,Bon Jovi,Slippery When Wet,1986-08-16,81,122.805,-2.947,0.541
+625,Summer Of '69,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),1984-11-05,80,139.13,-6.205,0.509
+626,Should I Stay or Should I Go - Remastered,The Clash,Combat Rock (Remastered),1982,80,113.375,-6.465,0.743
+627,Under Pressure - Remastered 2011,"Queen, David Bowie",Hot Space (2011 Remaster),1982-05-03,79,113.805,-7.815,0.671
+628,I Love Rock 'N Roll,Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),1981-11-18,77,94.379,-5.025,0.535
+629,Start Me Up - Remastered 2009,The Rolling Stones,Tattoo You (2009 Re-Mastered),1981-08-24,76,122.431,-4.142,0.631
+630,Jump - 2015 Remaster,Van Halen,1984 (Remastered),1984-01-04,75,129.981,-6.219,0.572
+631,Free Fallin',Tom Petty,Full Moon Fever,1989-01-01,75,84.383,-13.333,0.623
+632,The Final Countdown,Europe,The Final Countdown (Expanded Edition),1986,74,117.662,-6.908,0.529
+633,Hells Bells,AC/DC,Back In Black,1980-07-25,73,106.767,-4.768,0.389
+634,Every Little Thing She Does Is Magic,The Police,Ghost In The Machine (Remastered 2003),1981-10-02,73,81.909,-9.997,0.558
+635,The Boys Of Summer,Don Henley,Building The Perfect Beast,1984-11-19,73,176.941,-13.741,0.516
+636,Heroes - 2017 Remaster,David Bowie,"""Heroes"" (2017 Remaster)",1977,72,112.113,-6.491,0.489
+637,Born in the U.S.A.,Bruce Springsteen,Born In The U.S.A.,1984-06-04,72,122.093,-6.042,0.398
+638,I Won't Back Down,Tom Petty,Full Moon Fever,1989-01-01,73,114.02,-13.487,0.766
+639,Pour Some Sugar On Me - Remastered 2017,Def Leppard,Hysteria (Super Deluxe),1987-08-03,72,84.989,-4.899,0.267
+640,Wanted Dead Or Alive,Bon Jovi,Slippery When Wet,1986-08-16,72,150.036,-3.977,0.253
+641,Panama - 2015 Remaster,Van Halen,1984 (Remastered),1984-01-04,72,141.167,-5.436,0.526
+642,Run To You,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),1984-11-05,71,126.59,-6.157,0.561
+643,Rock the Casbah - Remastered,The Clash,Combat Rock (Remastered),1982,71,129.885,-6.727,0.797
+644,The Trooper - 2015 Remaster,Iron Maiden,Piece of Mind (2015 Remaster),1983,71,159.756,-4.601,0.285
+645,Another One Bites The Dust - Remastered 2011,Queen,The Game (Deluxe Remastered Version),1980-06-27,71,109.975,-6.472,0.932
+646,Hungry Like the Wolf - 2009 Remaster,Duran Duran,Rio (Collector's Edition),1982-05-10,71,127.568,-7.772,0.691
+647,How Soon Is Now? - 2011 Remaster,The Smiths,Hatful of Hollow,1984,71,190.818,-6.76,0.398
+648,Shout,Tears For Fears,Songs From The Big Chair,1985-02-25,71,97.909,-10.407,0.511
+649,Runaway,Bon Jovi,Bon Jovi,1984-01-23,72,152.445,-4.321,0.475
+650,Separate Ways (Worlds Apart) [2023 Remaster],Journey,Frontiers (2023 Remaster),1983-02-01,70,131.707,-4.809,0.469
+651,Glory Days,Bruce Springsteen,Born In The U.S.A.,1984-06-04,70,117.486,-4.906,0.574
+652,Hit Me With Your Best Shot,Pat Benatar,Crimes Of Passion,1980-08-05,70,127.402,-9.05,0.741
+653,Mother,Danzig,Danzig,1988-01-01,69,148.366,-9.45,0.365
+654,Edge of Seventeen - 2016 Remaster,Stevie Nicks,Bella Donna (2016 Remastered),1981-07-27,69,111.457,-7.299,0.591
+655,Beds Are Burning - Remastered,Midnight Oil,Diesel And Dust,1987-10-02,69,119.18,-11.112,0.753
+656,Don't Stand So Close To Me,The Police,Zenyatta Mondatta (Remastered 2003),1980-10-03,69,140.309,-9.414,0.799
+657,Hurts So Good,John Mellencamp,American Fool,1982,69,125.447,-5.306,0.785
+658,Hysteria,Def Leppard,Hysteria,1987-08-03,69,107.01,-5.508,0.659
+659,Call Me,Blondie,Call Me,2004-01-01,69,142.663,-6.667,0.553
+660,Fight For Your Right,Beastie Boys,Licensed To Ill,1986-11-15,68,133.615,-6.296,0.503
+661,Every Rose Has Its Thorn - 2003 Remaster,Poison,Open Up And Say...Ahh! (20th Anniversary Edition),1988-03-21,68,140.176,-5.557,0.531
+662,SPIDER,"GIMS, DYSTINCT",SPIDER,2024-05-10,74,119.96,-7.322,0.823
+663,Bolide Noir,"Central Cee, JRK 19",Bolide Noir,2024-08-22,70,134.937,-5.407,0.724
+664,MAMI WATA,"Gazo, Tiakola",LA MELO EST GANGX,2023-12-01,68,87.973,-4.941,0.702
+665,ABCD,NAYEON,,2024-06-14,73,105.969,-2.515,0.682
+666,Rockstar,LISA,Rockstar,2024-06-27,83,140.053,-4.692,0.668
+667,Supernova,aespa,Armageddon - The 1st Album,2024-05-27,72,120.073,-4.278,0.745
+668,Armageddon,aespa,Armageddon - The 1st Album,2024-05-27,74,91.992,-2.048,0.695
+669,Small girl (feat. D.O.),"Lee Young Ji, D.O.",16 Fantasy,2024-06-21,72,170.022,-4.901,0.77
+670,SPOT!,"ZICO, JENNIE",SPOT!,2024-04-26,78,108.038,-3.905,0.875
+671,How Sweet,NewJeans,How Sweet,2024-05-24,78,124.994,-2.888,0.803
+672,SHEESH,BABYMONSTER,BABYMONS7ER,2024-04-01,78,140.041,-5.079,0.774
+673,LIKE THAT,BABYMONSTER,BABYMONS7ER,2024-04-01,75,101.959,-8.675,0.871
+674,Smoothie,NCT DREAM,DREAM( )SCAPE,2024-03-25,69,109.945,-3.604,0.801
+675,Drama,aespa,Drama - The 4th Mini Album,2023-11-10,78,131.016,-1.54,0.644
+676,Die With A Smile,"Lady Gaga, Bruno Mars",Die With A Smile,2024-08-16,100,157.969,-7.777,0.521
+677,APT.,"ROSÉ, Bruno Mars",APT.,2024-10-18,98,149.027,-4.477,0.777
+678,BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,104.978,-10.171,0.747
+679,That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,93,108.548,-4.169,0.554
+680,Who,Jimin,MUSE,2024-07-19,92,116.034,-3.743,0.66
+681,Running Wild,Jin,Happy - :') (Remixes),2024-11-19,71,146.921,-4.22,0.487
+682,Sailor Song,Gigi Perez,Sailor Song,2024-07-26,93,94.938,-10.432,0.494
+683,Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,93,112.964,-4.086,0.674
+684,Tu Boda,"Oscar Maydon, Fuerza Regida",Tu Boda,2024-09-26,93,112.648,-6.968,0.694
+685,WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,93,148.101,-12.002,0.467
+686,Espresso,Sabrina Carpenter,Short n' Sweet,2024-08-23,88,103.963,-5.282,0.699
+687,Timeless (with Playboi Carti),"The Weeknd, Playboi Carti",Timeless,2024-09-27,92,119.973,-5.485,0.769
+688,"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,94,116.712,-5.96,0.7
+689,Qué Pasaría...,"Rauw Alejandro, Bad Bunny",Cosa Nuestra,2024-11-15,82,105.008,-5.593,0.833
+690,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,1994-10-28,87,150.273,-7.463,0.336
+691,Last Christmas - Single Version,Wham!,The Singles: Echoes from the Edge of Heaven,2023-07-07,72,107.732,-8.228,0.733
+692,Beautiful Things,Benson Boone,Fireworks & Rollerblades,2024-04-05,89,105.029,-5.692,0.472
+693,Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,2024-06-21,93,128.027,-6.795,0.924
+694,The Emptiness Machine,Linkin Park,From Zero,2024-11-15,79,184.115,-3.344,0.466
+695,Please Please Please,Sabrina Carpenter,Short n' Sweet,2024-08-23,87,107.015,-6.086,0.675
+696,"I Love You, I'm Sorry",Gracie Abrams,The Secret of Us,2024-06-21,90,115.94,-7.507,0.53
+697,The Night We Met,Lord Huron,Strange Trails,2015-04-06,88,174.097,-9.514,0.448
+698,Khé?,"Rauw Alejandro, Romeo Santos",Cosa Nuestra,2024-11-15,78,155.865,-4.975,0.687
+699,Sweater Weather,The Neighbourhood,I Love You.,2013-04-22,90,124.053,-2.81,0.612
+700,I Wanna Be Yours,Arctic Monkeys,AM,2013-09-09,90,67.528,-9.345,0.464
+701,Lose Control,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,89,159.92,-4.409,0.561
+702,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",Flower Boy,2017-07-21,90,78.558,-9.222,0.558
+703,Yellow,Coldplay,Parachutes,2000-07-10,89,173.372,-7.227,0.429
+704,"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",CHROMAKOPIA,2024-10-28,88,80.09,-3.986,0.505
+705,That's What I Like,Bruno Mars,24K Magic,2016-11-17,88,134.066,-4.961,0.853
+706,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,2012-12-07,89,143.994,-4.165,0.726
+707,Bed Chem,Sabrina Carpenter,Short n' Sweet,2024-08-23,90,94.99,-5.968,0.739
+708,Like Him (feat. Lola Young),"Tyler, The Creator, Lola Young",CHROMAKOPIA,2024-10-28,87,96.063,-6.707,0.392
+709,Night Changes,One Direction,FOUR (Deluxe),2014-11-17,89,120.001,-7.747,0.672
+710,Rockin' Around The Christmas Tree,Brenda Lee,Merry Christmas From Brenda Lee,1964-10-19,83,67.086,-8.744,0.598
+711,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",The Idol Episode 4 (Music from the HBO Original Series),2023-06-23,89,84.828,-6.221,0.264
+712,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,85,109.021,-5.379,0.635
+713,A Bar Song (Tipsy),Shaboozey,"Where I've Been, Isn't Where I'm Going",2024-05-31,84,80.969,-4.857,0.722
+714,NIGHTS LIKE THIS,The Kid LAROI,THE FIRST TIME,2023-11-10,88,142.579,-4.586,0.482
+715,Iris,The Goo Goo Dolls,Dizzy up the Girl,1998,87,155.925,-8.072,0.315
+716,In the End,Linkin Park,Hybrid Theory (Bonus Edition),2000,88,105.143,-5.87,0.556
+717,Too Sweet,Hozier,Unreal Unearth: Unaired,2024-08-19,84,117.025,-5.446,0.74
+718,Juno,Sabrina Carpenter,Short n' Sweet,2024-08-23,87,130.504,-4.257,0.633
+719,Riptide,Vance Joy,Dream Your Life Away (Deluxe Edition),2014-08-05,85,101.654,-6.696,0.483
+720,Heavy Is the Crown,Linkin Park,From Zero,2024-11-15,78,127.939,-3.725,0.571
+721,DOS DÍAS,"Tito Double P, Peso Pluma",INCÓMODO,2024-08-22,88,109.935,-9.116,0.745
+722,EL LOKERON,Tito Double P,INCÓMODO,2024-08-22,89,120.208,-7.174,0.724
+723,Santa Tell Me,Ariana Grande,Santa Tell Me,2014-11-24,82,191.868,-7.364,0.525
+724,Jingle Bell Rock,Bobby Helms,Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol),1957-12-02,80,119.705,-8.463,0.754
+725,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,2024-03-08,86,115.842,-8.334,0.645
+726,LA INOCENTE,"Mora, Feid",MICRODOSIS,2022-04-01,78,91.911,-3.46,0.757
+727,PERRO NEGRO,"Bad Bunny, Feid",nadie sabe lo que va a pasar mañana,2023-10-13,84,96.057,-2.248,0.911
+728,BUBALU,"Feid, Rema",BUBALU,2023-09-22,68,111.989,-5.211,0.781
+729,HACIENDO QUE ME AMAS,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,2020-11-27,71,169.934,-7.147,0.584
+730,Tan Bonita,Piso 21,El Amor En Los Tiempos Del Perreo,2021-03-18,68,110.982,-7.226,0.82
+731,Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo (Remix),2021-04-01,78,110.427,-7.018,0.75
+732,Cómo Te Atreves,Morat,Sobre El Amor Y Sus Efectos Secundarios,2016-06-17,72,130.97,-4.567,0.617
+733,Tacones Rojos,Sebastian Yatra,Tacones Rojos,2021-10-22,68,123.031,-3.517,0.748
+734,Fuera del mercado,Danny Ocean,@dannocean,2022-02-17,76,92.06,-5.649,0.453
+735,Ojitos Lindos,"Bad Bunny, Bomba Estéreo",Un Verano Sin Ti,2022-05-06,80,79.928,-5.745,0.647
+736,Otro Atardecer,"Bad Bunny, The Marías",Un Verano Sin Ti,2022-05-06,75,108.02,-6.79,0.777
+737,Yo No Soy Celoso,Bad Bunny,Un Verano Sin Ti,2022-05-06,70,142.004,-6.276,0.872
+738,Neverita,Bad Bunny,Un Verano Sin Ti,2022-05-06,75,122.016,-7.511,0.876
+739,Un Coco,Bad Bunny,Un Verano Sin Ti,2022-05-06,76,151.991,-4.464,0.839
+740,Andrea,"Bad Bunny, Buscabulla",Un Verano Sin Ti,2022-05-06,74,103.071,-10.229,0.797
+741,PROVENZA,KAROL G,PROVENZA,2022-04-22,71,111.005,-8.006,0.87
+742,Inolvidable,"Ovy On The Drums, Beéle",Inolvidable,2020-01-15,70,139.929,-4.941,0.84
+743,DESPECHÁ,ROSALÍA,DESPECHÁ,2022-07-28,71,130.037,-6.521,0.919
+744,"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",2022-07-06,80,128.033,-5.548,0.621
+745,telepatía,Kali Uchis,Sin Miedo (del Amor y Otros Demonios) ∞,2020-12-04,81,83.97,-9.016,0.653
+746,AMOR DE CINE,HUMBE,AURORA,2021-11-11,71,189.978,-7.966,0.326
+747,Gato de Noche,"Ñengo Flow, Bad Bunny",Gato de Noche,2022-12-22,68,93.976,-3.894,0.892
+748,un x100to,"Grupo Frontera, Bad Bunny",un x100to,2023-04-17,75,83.118,-4.076,0.569
+749,Si No Estás,iñigo quintero,Si No Estás,2022-09-23,80,98.224,-8.72,0.537
+750,CLASSY 101,"Feid, Young Miko",FERXXOCALIPSIS,2023-12-01,79,100.09,-4.772,0.858
+751,Martin & Gina,Polo G,THE GOAT,2020-05-15,78,93.924,-7.813,0.832
+752,We Paid (feat. 42 Dugg),"Lil Baby, 42 Dugg",My Turn (Deluxe),2020-05-01,70,135.14,-5.064,0.926
+753,SICKO MODE,Travis Scott,ASTROWORLD,2018-08-03,81,155.008,-3.714,0.834
+754,On Me,Lil Baby,On Me,2020-12-04,70,77.972,-6.295,0.856
+755,Chosen 1,Polo G,Die A Legend,2019-06-07,68,166.162,-11.845,0.77
+756,Mood (feat. iann dior),"24kGoldn, iann dior",El Dorado,2021-03-26,80,91.007,-3.671,0.701
+757,Lemonade (feat. NAV),"Internet Money, Gunna, Don Toliver, NAV",B4 The Storm,2020-08-28,77,140.042,-6.142,0.8
+758,FE!N (feat. Playboi Carti),"Travis Scott, Playboi Carti",UTOPIA,2023-07-28,88,148.038,-2.777,0.569
+759,Drip Too Hard (Lil Baby & Gunna),"Lil Baby, Gunna",Drip Harder,2018-10-05,79,112.509,-6.903,0.897
+760,Yes Indeed,"Lil Baby, Drake",Harder Than Ever,2018-05-18,75,119.957,-9.309,0.963
+761,Roll in Peace (feat. XXXTENTACION),"Kodak Black, XXXTENTACION",Project Baby 2: All Grown Up,2017-08-18,71,140.053,-6.807,0.747
+762,No Heart,"21 Savage, Metro Boomin",Savage Mode,2016-07-15,68,140.063,-8.692,0.906
+763,Pop Out (feat. Lil Tjay),"Polo G, Lil Tjay",Die A Legend,2019-06-07,74,168.112,-7.119,0.772
+764,Pure Cocaine,Lil Baby,Street Gossip,2018-11-30,77,127.05,-6.071,0.964
+765,Bank Account,21 Savage,Issa Album,2017-07-06,72,75.016,-8.227,0.884
+766,Low Down,Lil Baby,My Turn (Deluxe),2020-05-01,72,127.956,-5.562,0.962
+767,Ready (feat. Gunna),"Lil Baby, Gunna",Street Gossip,2018-11-30,69,76.984,-5.578,0.793
+768,10 Freaky Girls (with 21 Savage),"Metro Boomin, 21 Savage",NOT ALL HEROES WEAR CAPES (Deluxe),2018-11-06,73,87.997,-9.931,0.797
+769,Freestyle,Lil Baby,Too Hard,2017-12-01,77,119.996,-5.426,0.877
+770,Walk Em Down (feat. Roddy Ricch),"NLE Choppa, Roddy Ricch",Top Shotta,2020-08-07,71,84.005,-5.171,0.867
+771,F.N,Lil Tjay,True 2 Myself,2019-10-11,73,120.1,-10.265,0.567
+772,Baby (Lil Baby feat. DaBaby),"Quality Control, Lil Baby, DaBaby",Quality Control: Control The Streets Volume 2,2019-08-16,72,108.003,-7.259,0.97
+773,back to the moon,Gunna,a Gift & a Curse,2023-06-16,69,143.943,-4.856,0.767
+774,fukumean,Gunna,a Gift & a Curse,2023-06-16,82,130.001,-6.747,0.847
+775,Stand By Me (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",Almost Healed,2023-05-26,68,134.039,-5.415,0.71
+776,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),"DJ Khaled, Lil Baby, Lil Durk",KHALED KHALED,2021-04-30,70,150.062,-4.053,0.477
+777,3 Headed Goat (feat. Lil Baby & Polo G),"Lil Durk, Lil Baby, Polo G",Just Cause Y'all Waited 2,2020-05-08,68,143.029,-8.618,0.846
+778,Lean Wit Me,Juice WRLD,Goodbye & Good Riddance,2018-12-10,77,163.935,-5.515,0.665
+779,Robbery,Juice WRLD,Death Race For Love (Bonus Track Version),2019-03-08,78,79.899,-5.122,0.623
+780,1400 / 999 Freestyle (feat. Juice WRLD),"Trippie Redd, Juice WRLD",A Love Letter To You 3,2018-11-09,69,141.996,-6.067,0.823
+781,Wishing Well,Juice WRLD,Legends Never Die,2020-07-10,76,149.972,-6.13,0.65
+782,All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,2018-12-10,83,161.989,-7.226,0.671
+783,Black & White,Juice WRLD,Goodbye & Good Riddance,2018-12-10,71,147.946,-4.612,0.776
+784,Lonely At The Top,Asake,Work Of Art,2023-06-15,70,104.986,-7.326,0.778
+785,Stronger,Young Jonn,Jiggy Forever,2024-04-12,70,110.14,-7.094,0.726
+786,Dealer,"Ayo Maff, Fireboy DML",Dealer,2024-04-16,68,67.813,-6.259,0.49
+787,Goodbyes (feat. Young Thug),"Post Malone, Young Thug",Hollywood's Bleeding,2019-09-06,74,150.097,-3.875,0.547
+788,Type Shit,"Future, Metro Boomin, Travis Scott, Playboi Carti",WE DON'T TRUST YOU,2024-03-22,84,144.941,-5.679,0.64
+789,Trance (with Travis Scott & Young Thug),"Metro Boomin, Travis Scott, Young Thug",HEROES & VILLAINS,2022-12-02,82,119.476,-7.524,0.765
+790,BAND4BAND (feat. Lil Baby),"Central Cee, Lil Baby",BAND4BAND (feat. Lil Baby),2024-05-23,81,140.113,-5.241,0.882
+791,MMS,"Asake, Wizkid",Lungu Boy,2024-08-08,72,101.837,-3.367,0.502
+792,Active,"Asake, Travis Scott",Lungu Boy,2024-08-08,68,112.984,-7.677,0.869
+793,JUJU (feat. Shallipopi),"Smur Lee, ODUMODUBLVCK, Shallipopi",JUJU (feat. Shallipopi),2024-08-22,71,113.012,-7.164,0.897
+794,Too Many Nights (feat. Don Toliver & with Future),"Metro Boomin, Future, Don Toliver",HEROES & VILLAINS,2022-12-02,82,87.973,-4.356,0.573
+795,alone - Remix,"FOLA, Bnxn",alone (Remix),2024-10-04,68,95.865,-8.399,0.578
+796,OZEBA,Rema,HEIS,2024-07-10,68,147.989,-4.563,0.754
+797,Fi Kan We Kan,"Bnxn, Rema",Fi Kan We Kan,2024-10-15,71,145.379,-7.881,0.501
+798,Piece of My Heart (feat. Brent Faiyaz),"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),2024-10-18,77,93.2,-5.493,0.737
+799,Life Goes On,"Lil Baby, Gunna, Lil Uzi Vert",Harder Than Ever,2018-05-18,72,139.978,-7.909,0.716
+800,Kese (Dance),Wizkid,Kese (Dance),2024-11-15,75,118.079,-5.641,0.774
+801,Night Changes,One Direction,FOUR (Deluxe),2014-11-17,89,120.001,-7.747,0.672
+802,Easy On Me,Adele,Easy On Me,2021-10-14,77,141.981,-7.519,0.604
+803,Wrecking Ball,Miley Cyrus,Bangerz (Deluxe Version),2013-10-04,78,119.964,-6.262,0.53
+804,All of Me,John Legend,Love In The Future (Expanded Edition),2013-08-30,83,119.93,-7.064,0.422
+805,Just Give Me a Reason (feat. Nate Ruess),"P!nk, Nate Ruess",The Truth About Love,2012-09-18,83,95.0,-7.273,0.778
+806,Counting Stars,OneRepublic,Native,2014-01-01,71,122.013,-4.972,0.663
+807,Unstoppable,Sia,This Is Acting (Deluxe Version),2016-10-21,77,173.799,-4.839,0.468
+808,Yellow,Coldplay,Parachutes,2000-07-10,89,173.372,-7.227,0.429
+809,End of Beginning,Djo,DECIDE,2022-09-16,89,159.982,-7.643,0.689
+810,Iris,The Goo Goo Dolls,Dizzy up the Girl,1998,87,155.925,-8.072,0.315
+811,Stick Season,Noah Kahan,Stick Season,2022-10-14,87,117.896,-6.935,0.664
+812,When I Was Your Man,Bruno Mars,Unorthodox Jukebox,2012-12-07,87,72.795,-8.648,0.612
+813,Story of My Life,One Direction,Midnight Memories (Deluxe),2013-11-25,86,121.07,-5.802,0.6
+814,Another Love,Tom Odell,Long Way Down (Deluxe),2013-06-24,86,122.769,-8.532,0.445
+815,Something Just Like This,"The Chainsmokers, Coldplay",Memories...Do Not Open,2017-04-07,86,103.019,-6.769,0.617
+816,lovely (with Khalid),"Billie Eilish, Khalid",lovely (with Khalid),2018-04-19,86,115.284,-10.109,0.351
+817,Nonsense,Sabrina Carpenter,emails i can't send,2022-07-15,86,138.992,-4.912,0.74
+818,Shape of You,Ed Sheeran,÷ (Deluxe),2017-03-03,86,95.977,-3.183,0.825
+819,Something in the Orange,Zach Bryan,Something in the Orange,2022-04-22,85,175.212,-12.151,0.369
+820,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,85,109.021,-5.379,0.635
+821,Say You Won't Let Go,James Arthur,Back from the Edge,2016-10-28,85,85.043,-7.398,0.358
+822,Sure Thing,Miguel,All I Want Is You,2010-11-26,85,81.001,-8.127,0.684
+823,Perfect,Ed Sheeran,÷ (Deluxe),2017-03-03,86,95.05,-6.312,0.599
+824,The Scientist,Coldplay,A Rush of Blood to the Head,2002-08-27,84,146.277,-7.224,0.557
+825,Skyfall,Adele,Skyfall,2012-10-04,84,75.881,-6.864,0.346
+826,Thunder,Imagine Dragons,Evolve,2017-06-23,84,167.997,-4.833,0.604
+827,Lover,Taylor Swift,Lover,2019-08-23,84,68.534,-7.582,0.359
+828,Circles,Post Malone,Hollywood's Bleeding,2019-09-06,83,120.042,-3.497,0.695
+829,Heather,Conan Gray,Kid Krow,2020-03-20,83,102.078,-7.301,0.357
+830,Ghost,Justin Bieber,Justice,2021-03-19,83,153.96,-5.569,0.601
+831,Maps,Maroon 5,V,2014-09-02,83,120.032,-5.522,0.742
+832,Photograph,Ed Sheeran,x (Deluxe Edition),2014-06-21,84,107.989,-10.48,0.614
+833,Stitches,Shawn Mendes,Handwritten,2015-04-14,82,149.789,-6.684,0.752
+834,Fix You,Coldplay,X&Y,2005-06-07,82,138.178,-8.74,0.209
+835,Fast Car,Luke Combs,Gettin' Old,2023-03-24,82,97.994,-5.52,0.712
+836,Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),2019-11-22,81,111.881,-4.857,0.459
+837,Anti-Hero,Taylor Swift,Midnights,2022-10-21,81,96.888,-6.645,0.633
+838,Complicated,Avril Lavigne,Let Go,2002-06-04,81,77.987,-5.898,0.585
+839,Paradise,Coldplay,Mylo Xyloto,2011-10-24,81,139.631,-6.761,0.449
+840,Memories,Maroon 5,JORDI (Deluxe),2021-06-11,82,91.05,-7.241,0.775
+841,Thinking out Loud,Ed Sheeran,x (Deluxe Edition),2014-06-21,81,78.998,-6.061,0.781
+842,Drops of Jupiter (Tell Me),Train,Drops Of Jupiter,2001-03-27,80,79.064,-5.862,0.481
+843,Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),2023-05-25,80,110.056,-4.93,0.671
+844,I Ain't Worried,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",2022-05-13,79,139.994,-5.927,0.704
+845,Try,P!nk,The Truth About Love,2012-09-18,79,103.998,-7.079,0.674
+846,This Love,Maroon 5,Songs About Jane: 10th Anniversary Edition,2002,82,95.051,-4.612,0.712
+847,7 Years,Lukas Graham,Lukas Graham,2016-04-01,79,119.992,-5.829,0.765
+848,Heartbreak Anniversary,Giveon,TAKE TIME,2020-03-27,79,89.087,-8.964,0.449
+849,Cold Heart - PNAU Remix,"Elton John, Dua Lipa, PNAU",Cold Heart (PNAU Remix),2021-08-13,79,116.032,-6.312,0.796
+850,Like I'm Gonna Lose You (feat. John Legend),"Meghan Trainor, John Legend",Title (Deluxe),2015-01-09,78,108.038,-7.259,0.63
+851,Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",Until I Found You (Em Beihold Version),2022-04-22,78,101.19,-5.339,0.551
+852,She Will Be Loved - Radio Mix,Maroon 5,Songs About Jane: 10th Anniversary Edition,2002,80,102.0,-5.569,0.651
+853,This Town,Niall Horan,Flicker (Deluxe),2017-10-20,78,111.825,-8.467,0.677
+854,Lil Boo Thang,Paul Russell,Lil Boo Thang,2023-08-18,78,114.481,-3.292,0.85
+855,STAY (with Justin Bieber),"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),2021-07-09,78,169.928,-5.484,0.591
+856,Stuck with U (with Justin Bieber),"Ariana Grande, Justin Bieber",Stuck with U,2020-05-08,78,178.765,-6.658,0.597
+857,Marry You,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,78,144.905,-4.865,0.621
+858,Dancing On My Own,Calum Scott,Only Human (Deluxe),2018-03-09,78,112.672,-8.745,0.681
+859,Without Me,Halsey,Manic,2020-01-17,78,136.07,-7.05,0.752
+860,Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",Leave Before You Love Me,2021-05-21,77,119.976,-4.77,0.721
+861,Best Day Of My Life,American Authors,"Oh, What A Life",2014-01-01,77,100.012,-2.392,0.673
+862,Sugar,Maroon 5,V,2014-09-02,78,120.076,-7.055,0.748
+863,The Middle,"Zedd, Maren Morris, Grey",The Middle,2018-01-23,76,107.01,-3.061,0.753
+864,Lose You To Love Me,Selena Gomez,Rare,2020-01-10,76,102.819,-8.985,0.516
+865,Nothing Breaks Like a Heart (feat. Miley Cyrus),"Mark Ronson, Miley Cyrus",Late Night Feelings,2019-06-21,76,114.066,-5.844,0.601
+866,Last Night,Morgan Wallen,3 Songs At A Time Sampler,2023-01-31,76,203.812,-5.431,0.492
+867,Royals,Lorde,Pure Heroine,2013-09-27,76,84.876,-9.504,0.674
+868,Bleeding Love,Leona Lewis,Spirit,2007,75,104.036,-5.886,0.638
+869,A Thousand Miles,Vanessa Carlton,Be Not Nobody,2002-04-30,75,94.931,-3.862,0.56
+870,Love Story (Taylor’s Version),Taylor Swift,Fearless (Taylor's Version),2021-04-09,75,119.054,-4.311,0.627
+871,Señorita,"Shawn Mendes, Camila Cabello",Señorita,2019-06-21,75,116.947,-6.039,0.759
+872,Wide Awake,Katy Perry,Teenage Dream: The Complete Confection,2012-03-12,74,159.878,-5.099,0.515
+873,I'm Yours,Jason Mraz,We Sing. We Dance. We Steal Things.,2008-05-12,74,150.96,-9.331,0.703
+874,Wherever You Will Go,The Calling,Camino Palmero,2001,74,112.027,-5.113,0.558
+875,Somebody That I Used To Know,"Gotye, Kimbra",Making Mirrors,2011-01-01,74,129.062,-7.036,0.864
+876,Girl on Fire,Alicia Keys,Girl on Fire (Remixes) - EP,2012-11-18,74,92.513,-5.762,0.482
+877,You Know I'm No Good,Amy Winehouse,Back To Black (Deluxe Edition),2006,74,103.375,-14.222,0.694
+878,Be Alright,Dean Lewis,Be Alright,2018-06-29,74,126.684,-6.319,0.553
+879,Someone To You,BANNERS,Where The Shadow Ends,2019-10-04,74,74.988,-5.497,0.52
+880,Arcade,Duncan Laurence,Arcade,2019-03-07,73,72.023,-12.603,0.459
+881,Fight Song,Rachel Platten,Wildfire,2016-01-01,73,175.924,-4.987,0.564
+882,Teenage Dream,Katy Perry,Teenage Dream,2010-01-01,73,120.012,-4.582,0.719
+883,What About Us,P!nk,Beautiful Trauma,2017-10-13,72,113.608,-6.177,0.491
+884,Demons,Imagine Dragons,Night Visions,2012-09-04,72,89.929,-3.015,0.5
+885,If You Love Her,Forest Blakk,If You Love Her,2020-09-30,72,50.827,-8.087,0.286
+886,Issues,Julia Michaels,Nervous System,2017-07-28,72,114.145,-6.852,0.728
+887,You Say,Lauren Daigle,Look Up Child,2018-09-07,72,147.873,-6.89,0.494
+888,If the World Was Ending (feat. Julia Michaels),"JP Saxe, Julia Michaels",If the World Was Ending (feat. Julia Michaels),2019-10-17,72,75.801,-10.086,0.464
+889,Halo,Beyoncé,I AM...SASHA FIERCE,2008-11-17,71,79.983,-5.908,0.508
+890,We Are Young (feat. Janelle Monáe),"fun., Janelle Monáe",Some Nights,2012-02-21,71,184.086,-5.576,0.378
+891,No One,Alicia Keys,As I Am (Expanded Edition),2007-11-09,71,90.04,-5.415,0.644
+892,Back To Black,Amy Winehouse,Back To Black,2006-10-27,70,123.28,-3.304,0.49
+893,"10,000 Hours (with Justin Bieber)","Dan + Shay, Justin Bieber","10,000 Hours (with Justin Bieber)",2019-10-04,70,89.991,-4.644,0.654
+894,Rise Up,Andra Day,Cheers to the Fall,2015-08-28,70,118.582,-7.031,0.398
+895,Part Of Me,Katy Perry,Teenage Dream: The Complete Confection,2012-01-01,70,130.007,-4.645,0.666
+896,jar of hearts,Christina Perri,lovestrong.,2011-05-10,69,74.541,-6.142,0.349
+897,Chandelier,Sia,1000 Forms Of Fear (Deluxe Version),2015-05-04,69,117.089,-2.88,0.399
+898,Control,Zoe Wees,Control,2020-03-13,69,113.81,-4.951,0.6
+899,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,2012-12-07,89,143.994,-4.165,0.726
+900,Starboy,"The Weeknd, Daft Punk",Starboy,2016-11-25,87,186.003,-7.015,0.679
+901,Without Me,Eminem,The Eminem Show,2002-05-26,86,112.238,-2.827,0.908
+902,Shape of You,Ed Sheeran,÷ (Deluxe),2017-03-03,86,95.977,-3.183,0.825
+903,Give Me Everything (feat. Nayer),"Pitbull, AFROJACK, Ne-Yo, Nayer",Planet Pit (Deluxe Version),2011-06-17,84,129.024,-3.206,0.671
+904,Take on Me,a-ha,Hunting High and Low,1985-06-01,84,84.412,-7.638,0.573
+905,Hips Don't Lie (feat. Wyclef Jean),"Shakira, Wyclef Jean","Oral Fixation, Vol. 2 (Expanded Edition)",2005-11-28,84,100.024,-5.892,0.778
+906,Yeah! (feat. Lil Jon & Ludacris),"USHER, Lil Jon, Ludacris",Confessions (Expanded Edition),2004-03-23,84,105.018,-4.699,0.894
+907,Shut Up and Dance,WALK THE MOON,TALKING IS HARD,2014-12-02,83,128.038,-3.804,0.578
+908,Livin' On A Prayer,Bon Jovi,Slippery When Wet,1986-08-16,83,122.509,-3.757,0.532
+909,Wake Me Up,Avicii,True,2013-01-01,83,124.08,-5.697,0.532
+910,Toxic,Britney Spears,In The Zone,2003-11-13,83,143.04,-3.914,0.774
+911,Sweet Dreams (Are Made of This) - 2005 Remaster,"Eurythmics, Annie Lennox, Dave Stewart",Sweet Dreams (Are Made Of This),1983-01-04,83,125.135,-7.498,0.692
+912,TiK ToK,Kesha,Animal (Expanded Edition),2010-01-01,83,120.028,-2.718,0.755
+913,Sorry,Justin Bieber,Purpose (Deluxe),2015-11-13,83,99.947,-3.669,0.655
+914,Dancing Queen,ABBA,Arrival,1976,82,100.804,-6.514,0.543
+915,Outside (feat. Ellie Goulding),"Calvin Harris, Ellie Goulding",Motion,2014-10-31,82,128.035,-4.123,0.646
+916,The Way I Are,"Timbaland, Keri Hilson, D.O.E.",Shock Value,2007-01-01,82,114.742,-6.492,0.729
+917,Timber,"Pitbull, Kesha",Global Warming: Meltdown (Deluxe Version),2012,82,129.992,-4.087,0.581
+918,The Nights,Avicii,The Days / Nights,2014-01-01,82,125.983,-5.298,0.527
+919,DJ Got Us Fallin' In Love (feat. Pitbull),"USHER, Pitbull",Raymond v Raymond (Expanded Edition),2010-03-30,81,119.963,-3.398,0.663
+920,...Baby One More Time,Britney Spears,...Baby One More Time (Digital Deluxe Version),1999-01-12,81,92.96,-5.745,0.759
+921,Ms. Jackson,Outkast,Stankonia,2000-10-31,81,94.948,-5.946,0.843
+922,Poker Face,Lady Gaga,The Fame,2008-01-01,81,119.001,-4.618,0.851
+923,Time of Our Lives,"Pitbull, Ne-Yo",Globalization,2014-11-21,82,124.022,-5.797,0.721
+924,Summer,Calvin Harris,Motion,2014-10-31,81,127.949,-3.556,0.596
+925,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,Whitney,1987-06-02,81,118.818,-8.824,0.709
+926,Don't Let Me Down,"The Chainsmokers, Daya",Don't Let Me Down,2016-02-05,80,159.805,-5.093,0.533
+927,Gimme More,Britney Spears,Blackout,2007-10-25,80,113.324,-3.131,0.788
+928,24K Magic,Bruno Mars,24K Magic,2016-11-17,80,106.97,-4.282,0.818
+929,Girls Just Want to Have Fun,Cyndi Lauper,She's So Unusual,1983-10-14,80,120.372,-4.897,0.71
+930,Summer Of '69,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),1984-11-05,80,139.13,-6.205,0.509
+931,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",The Papercut Chronicles II,2011-11-11,80,89.99,-3.293,0.646
+932,Call Me Maybe,Carly Rae Jepsen,Kiss,2012-01-01,80,120.021,-6.548,0.782
+933,No Lie,"Sean Paul, Dua Lipa",Mad Love The Prequel,2018-06-29,80,102.04,-2.862,0.742
+934,Titanium (feat. Sia),"David Guetta, Sia",Nothing but the Beat (Ultimate Edition),2012-12-07,80,126.062,-3.674,0.604
+935,SexyBack (feat. Timbaland),"Justin Timberlake, Timbaland",FutureSex/LoveSounds,2006-09-12,80,117.0,-5.562,0.967
+936,I Gotta Feeling,Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],2009-01-01,80,127.966,-6.375,0.744
+937,What Do You Mean?,Justin Bieber,Purpose (Deluxe),2015-11-13,79,125.02,-8.118,0.845
+938,Don't Stop The Music,Rihanna,Good Girl Gone Bad: Reloaded,2008-06-02,79,122.669,-5.582,0.834
+939,Wannabe,Spice Girls,Spice,1996-01-01,79,110.009,-6.149,0.768
+940,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance","Maroon 5, Christina Aguilera",Hands All Over (Revised International Standard version),2010,79,128.046,-4.46,0.722
+941,Oops!...I Did It Again,Britney Spears,Oops!... I Did It Again,2000-05-16,79,95.053,-5.444,0.751
+942,Tainted Love,Soft Cell,Non-Stop Erotic Cabaret,1981,79,144.438,-8.284,0.5
+943,Just Dance,"Lady Gaga, Colby O'Donis",The Fame,2008-01-01,79,118.99,-4.541,0.822
+944,Blame (feat. John Newman),"Calvin Harris, John Newman",Motion,2014-10-31,79,128.024,-4.078,0.414
+945,Candy Shop,"50 Cent, Olivia",The Massacre,2005-03-03,78,125.18,-7.961,0.613
+946,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,Voulez-Vous,1979,78,119.528,-9.655,0.749
+947,Don't You Worry Child - Radio Edit,"Swedish House Mafia, John Martin",Don't You Worry Child,2012-09-14,78,129.042,-3.145,0.612
+948,Sugar (feat. Francesco Yates),"Robin Schulz, Francesco Yates",Sugar,2015-09-25,78,123.063,-5.098,0.636
+949,Rock Your Body,Justin Timberlake,Justified,2002-11-04,78,100.972,-6.055,0.892
+950,Disturbia,Rihanna,Good Girl Gone Bad: Reloaded,2008-06-02,78,124.921,-4.509,0.707
+951,Believe,Cher,Believe,1998,78,132.975,-6.72,0.652
+952,Don't Go Breaking My Heart,"Elton John, Kiki Dee",Rock Of The Westies,1975-10-24,78,131.459,-8.824,0.729
+953,Can't Get You out of My Head,Kylie Minogue,Fever,2001-10-01,78,126.007,-7.516,0.766
+954,Temperature,Sean Paul,The Trinity,2005-09-26,78,125.04,-4.675,0.951
+955,Latch,"Disclosure, Sam Smith",Settle (Special Edition),2013-06-03,78,121.981,-5.456,0.503
+956,Waiting For Love,Avicii,Stories,2015-10-02,78,127.999,-3.863,0.579
+957,On The Floor,"Jennifer Lopez, Pitbull",Love?,2011-04-29,78,130.003,-5.194,0.73
+958,9 to 5,Dolly Parton,9 To 5 And Odd Jobs,1980,78,105.39,-5.852,0.554
+959,Family Affair,Mary J. Blige,No More Drama,2001-08-28,78,92.887,-3.75,0.911
+960,Shake It Off,Taylor Swift,1989 (Deluxe),2014-01-01,78,160.078,-5.384,0.647
+961,Pon de Replay,Rihanna,Music Of The Sun,2005-08-29,78,99.017,-8.415,0.779
+962,Lady - Hear Me Tonight,Modjo,Modjo (Remastered),2001,77,126.041,-5.627,0.72
+963,All That She Wants,Ace of Base,The Sign,1993-12-24,77,93.764,-9.689,0.798
+964,Wild Ones (feat. Sia),"Flo Rida, Sia",Wild Ones,2012-06-22,77,127.075,-5.324,0.608
+965,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],"Daft Punk, Pharrell Williams, Nile Rodgers",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],2013-04-19,77,116.047,-8.966,0.794
+966,Levels - Radio Edit,Avicii,Levels,2011-10-28,77,126.04,-5.941,0.584
+967,Billie Jean,Michael Jackson,Thriller 25 Super Deluxe Edition,2008-02-08,77,117.046,-3.051,0.92
+968,Feel This Moment (feat. Christina Aguilera),"Pitbull, Christina Aguilera",Global Warming: Meltdown (Deluxe Version),2012,77,135.956,-3.632,0.673
+969,I Love Rock 'N Roll,Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),1981-11-18,77,94.379,-5.025,0.535
+970,Crazy In Love (feat. Jay-Z),"Beyoncé, JAY-Z",Dangerously In Love,2003-06-24,77,99.165,-6.596,0.646
+971,This Is What You Came For,"Calvin Harris, Rihanna",This Is What You Came For,2016-04-29,77,123.962,-2.787,0.631
+972,Can't Hold Us (feat. Ray Dalton),"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",The Heist,2012-10-09,76,146.078,-4.457,0.641
+973,Starships,Nicki Minaj,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),2012-01-01,76,125.006,-2.457,0.747
+974,No Diggity,"Blackstreet, Dr. Dre, Queen Pen",Another Level,1996-09-09,76,88.634,-4.674,0.867
+975,Walking On Sunshine,Katrina & The Waves,Katrina & The Waves,1985,76,109.901,-11.97,0.597
+976,Club Can't Handle Me (feat. David Guetta),"Flo Rida, David Guetta",Only One Flo (Part 1),2010-11-24,76,127.966,-3.911,0.616
+977,International Love (feat. Chris Brown),"Pitbull, Chris Brown",Planet Pit (Deluxe Version),2011-06-17,77,120.05,-3.035,0.67
+978,Mamma Mia,ABBA,Abba,1975,76,137.547,-7.011,0.749
+979,Don't You Want Me,The Human League,Dare!,1981,76,117.656,-8.125,0.731
+980,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",2016-05-06,76,113.03,-5.715,0.666
+981,Boogie Wonderland,"Earth, Wind & Fire, The Emotions",I Am,1979-06,76,131.715,-10.791,0.802
+982,Under Control (feat. Hurts),"Calvin Harris, Alesso, Hurts",Motion,2014-10-31,76,126.094,-3.405,0.544
+983,Con Calma,"Daddy Yankee, Snow",Con Calma,2019-01-24,76,93.989,-2.652,0.737
+984,Glad You Came,The Wanted,Battleground (Deluxe Edition),2011-01-01,76,126.885,-3.873,0.722
+985,Lean On (feat. MØ & DJ Snake),"Major Lazer, MØ, DJ Snake",Peace Is The Mission : Extended,2015-11-27,76,98.007,-3.081,0.723
+986,Good Feeling,Flo Rida,Wild Ones,2012-06-22,76,128.011,-4.444,0.706
+987,Alors on danse - Radio Edit,Stromae,Cheese,2010-01-01,75,119.958,-9.204,0.79
+988,We Found Love,"Rihanna, Calvin Harris",Talk That Talk,2011-11-19,75,127.975,-4.485,0.735
+989,Jump - 2015 Remaster,Van Halen,1984 (Remastered),1984-01-04,75,129.981,-6.219,0.572
+990,Good Time,"Owl City, Carly Rae Jepsen",The Midsummer Station,2012-08-17,75,126.05,-4.269,0.56
+991,Replay,Iyaz,Replay,2009-08-18,75,91.031,-6.323,0.706
+992,Break Free,"Ariana Grande, Zedd",My Everything (Deluxe),2014-08-22,75,129.948,-5.325,0.686
+993,"Freed From Desire - prod. Molella, Phil Jay","Gala, Molella, Phil Jay",Come Into My Life (The Album),1997-11-17,75,128.99,-4.221,0.704
+994,Flashdance...What a Feeling - Radio Edit,Irene Cara,What a Feelin',1983-11-02,75,122.49,-7.027,0.572
+995,Ride Wit Me,"Nelly, City Spud",Country Grammar,2000-06-27,75,101.875,-6.49,0.85
+996,Mambo No. 5 (a Little Bit of...),Lou Bega,A Little Bit of Mambo,1999-07-19,75,174.06,-6.752,0.622
+997,One More Time,Daft Punk,Discovery,2001-03-12,74,122.746,-8.618,0.613
+998,Let's Groove,"Earth, Wind & Fire",Raise!,1981-11-14,75,125.035,-8.698,0.869
+999,The Final Countdown,Europe,The Final Countdown (Expanded Edition),1986,74,117.662,-6.908,0.529
+1000,"Whenever, Wherever",Shakira,Laundry Service,2001-11-13,74,107.657,-4.862,0.794
+1001,Destination Calabria - Radio Edit,"Alex Gaudino, Crystal Waters",Destination Calabria,2007-02-19,74,128.016,-4.804,0.627
+1002,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,Backstreet's Back,1997-08-12,74,108.016,-4.219,0.731
+1003,Like a Prayer,Madonna,Celebration (double disc version),2009-09-18,74,111.038,-5.285,0.625
+1004,Hot N Cold,Katy Perry,One Of The Boys,2008-06-17,74,132.032,-3.956,0.706
+1005,Bye Bye Bye,*NSYNC,No Strings Attached,2000-03-21,74,172.656,-4.806,0.614
+1006,Hot In Herre,Nelly,Nellyville,2002-06-25,74,107.075,-4.753,0.956
+1007,Take A Chance On Me,ABBA,The Album,1977,74,107.064,-8.123,0.684
+1008,Barbie Girl,Aqua,Aquarium (Special Edition),1997-01-01,74,129.991,-10.998,0.812
+1009,Give It To Me,"Timbaland, Justin Timberlake, Nelly Furtado",Shock Value,2007-04-02,74,110.621,-3.904,0.975
+1010,Just Can't Get Enough,Depeche Mode,Speak and Spell (Deluxe),1981-11-02,74,128.168,-9.362,0.766
+1011,Stayin' Alive,Bee Gees,Staying Alive (Original Motion Picture Soundtrack),1977-12-13,74,103.644,-19.793,0.707
+1012,Return of the Mack,Mark Morrison,Return of the Mack,1996-04-22,73,95.487,-5.379,0.715
+1013,Don't Stop 'Til You Get Enough,Michael Jackson,Off the Wall,1979-08-10,73,118.881,-9.875,0.878
+1014,Infinity 2008 - Klaas Vocal Edit,"Guru Josh Project, Klaas",Infinity 2008,2008-05-07,73,128.036,-6.02,0.498
+1015,King,Olly Alexander (Years & Years),Communion (Deluxe),2015-07-10,73,119.975,-4.145,0.56
+1016,"December, 1963 (Oh What a Night!)",Frankie Valli & The Four Seasons,Who Loves You,1975,73,104.409,-13.489,0.737
+1017,Don't Worry (with Ray Dalton) - Radio Edit,"Madcon, Ray Dalton",Don't Worry (feat. Ray Dalton),2015-04-10,73,122.987,-5.211,0.811
+1018,Livin' la Vida Loca,Ricky Martin,Ricky Martin,1999,73,178.043,-3.756,0.425
+1019,Blurred Lines,"Robin Thicke, T.I., Pharrell Williams",Blurred Lines (Deluxe),2013-01-01,73,119.993,-4.756,0.853
+1020,4 Minutes (feat. Justin Timberlake & Timbaland),"Madonna, Justin Timberlake, Timbaland",Celebration (double disc version),2009-09-18,73,113.026,-4.922,0.753
+1021,Call on Me - Radio Mix,Eric Prydz,Call on Me (Radio Mix),2004-09-10,73,126.342,-6.518,0.597
+1022,Best of My Love,The Emotions,Rejoice,1977-06-10,73,115.443,-6.865,0.784
+1023,Get Up (Rattle) [feat. Far East Movement] - Vocal Edit,"Bingo Players, Far East Movement",Get Up (Rattle) [feat. Far East Movement],2012-12-08,72,127.99,-2.69,0.801
+1024,Kiss,Prince,Parade - Music from the Motion Picture Under the Cherry Moon,1986-03-31,73,111.485,-12.238,0.898
+1025,Where Them Girls At (feat. Nicki Minaj & Flo Rida),"David Guetta, Flo Rida, Nicki Minaj",Nothing but the Beat (Ultimate Edition),2012-12-07,72,129.884,-3.078,0.666
+1026,I Kissed A Girl,Katy Perry,One Of The Boys,2008-06-17,72,129.996,-3.174,0.702
+1027,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,"Lana Del Rey, Cedric Gervais",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix],2013-02-01,72,126.052,-5.791,0.572
+1028,Dynamite,Taio Cruz,The Rokstarr Hits Collection,2010-01-01,72,119.977,-3.724,0.751
+1029,Born in the U.S.A.,Bruce Springsteen,Born In The U.S.A.,1984-06-04,72,122.093,-6.042,0.398
+1030,Miami,Will Smith,Big Willie Style,1997-10-03,72,108.17,-6.178,0.877
+1031,Coco Jamboo,Mr. President,We See The Same Sun,1996-05-17,72,100.021,-5.414,0.832
+1032,Born to Be Alive - The Original,Patrick Hernandez,Born to Be Alive (The Original),1978,72,131.468,-5.808,0.704
+1033,Music Sounds Better With You - Radio Edit,"Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter",Music Sounds Better With You,1998-07-20,72,124.149,-7.191,0.729
+1034,Gangnam Style (강남스타일),PSY,Gangnam Style (강남스타일),2012-01-01,72,132.067,-2.871,0.727
+1035,Party Rock Anthem,"LMFAO, Lauren Bennett, GoonRock",Sorry For Party Rocking,2011-01-01,72,130.011,-4.168,0.75
+1036,All Around The World (La La La),"R3HAB, A Touch Of Class",All Around The World (La La La),2019-04-05,71,124.948,-5.03,0.733
+1037,The Sign,Ace of Base,The Sign,1993-12-24,71,96.987,-6.897,0.808
+1038,Don't Cha,"The Pussycat Dolls, Busta Rhymes",PCD,2005-01-01,71,120.016,-3.475,0.875
+1039,U Can't Touch This,MC Hammer,Please Hammer Don't Hurt 'Em,1990-02-20,71,133.149,-13.22,0.867
+1040,Love Really Hurts Without You,Billy Ocean,Billy Ocean (Expanded Edition),1976-01-05,71,140.982,-3.732,0.518
+1041,Cotton Eye Joe,Rednex,Sex & Violins,1994-08-12,71,131.986,-7.536,0.729
+1042,Born This Way,Lady Gaga,Born This Way (International Special Edition Version),2011-05-23,71,123.907,-5.108,0.587
+1043,Rockabye (feat. Sean Paul & Anne-Marie),"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),2016-10-21,70,101.965,-4.068,0.72
+1044,Heroes (we could be),"Alesso, Tove Lo",Forever,2015-05-22,70,125.896,-4.124,0.503
+1045,Tarzan Boy,Baltimora,Living In The Background,1985-01-01,70,107.363,-12.3,0.684
+1046,The Rhythm of the Night,Corona,The Rhythm of the Night,1994,70,127.808,-11.522,0.69
+1047,Never Forget You,"Zara Larsson, MNEK",So Good,2017-03-17,70,146.005,-5.729,0.583
+1048,Ice Ice Baby,Vanilla Ice,Vanilla Ice Is Back! - Hip Hop Classics,2008-11-04,70,116.012,-2.784,0.979
+1049,Beanie,Chezile,Beanie,2023-11-28,82,138.978,-6.245,0.531
+1050,the perfect pair,beabadoobee,Beatopia,2022-07-15,80,146.053,-6.818,0.634
+1051,Nothing's New,Rio Romeo,Good God!,2022-09-23,78,96.192,-8.312,0.421
+1052,Bags,Clairo,Immunity,2019-08-02,78,104.996,-7.694,0.742
+1053,Tip Toe,HYBS,Tip Toe,2023-06-20,76,163.9,-8.673,0.687
+1054,For the First Time,Mac DeMarco,This Old Dog,2017-05-05,80,75.515,-10.469,0.551
+1055,Better,sign crushes motorist,i'll be okay,2022-08-05,73,129.989,-25.203,0.696
+1056,Ghostride,Crumb,Jinx,2019-06-14,71,87.057,-9.424,0.665
+1057,4EVER,Clairo,4EVER,2018-04-27,73,102.331,-7.576,0.75
+1058,In A Good Way,Faye Webster,I Know I'm Funny haha,2021-06-25,71,71.123,-8.839,0.587
+1059,i wanna be your girlfriend,girl in red,i wanna be your girlfriend,2018-03-02,73,155.901,-14.323,0.541
+1060,In the End,Linkin Park,Hybrid Theory (Bonus Edition),2000,88,105.143,-5.87,0.556
+1061,The Emptiness Machine,Linkin Park,The Emptiness Machine,2024-09-05,89,184.115,-3.344,0.466
+1062,Too Sweet,Hozier,Unheard,2024-03-22,79,117.038,-5.505,0.741
+1063,Like a Stone,Audioslave,Audioslave,2002-11-17,77,107.849,-5.477,0.614
+1064,Do I Wanna Know?,Arctic Monkeys,AM,2013-09-09,84,85.03,-7.596,0.548
+1065,Californication,Red Hot Chili Peppers,Californication (Deluxe Edition),1999-06-08,81,96.483,-2.788,0.592
+1066,Iris,The Goo Goo Dolls,Dizzy up the Girl,1998,87,155.925,-8.072,0.315
+1067,Ride,Twenty One Pilots,Blurryface,2015-05-15,80,74.989,-5.355,0.645
+1068,Otherside,Red Hot Chili Peppers,Californication (Deluxe Edition),1999-06-08,81,123.229,-3.265,0.458
+1069,What I've Done,Linkin Park,Minutes to Midnight,2007-05-14,81,120.092,-4.882,0.627
+1070,Decode,Paramore,Decode,2008-11-04,71,164.057,-4.219,0.28
+1071,Breaking the Habit,Linkin Park,Meteora (Bonus Edition),2003-09-16,74,100.016,-4.359,0.58
+1072,Maps,Yeah Yeah Yeahs,Fever To Tell (Deluxe Remastered),2003-04-29,75,119.783,-5.194,0.502
+1073,BURN IT DOWN,Linkin Park,LIVING THINGS,2012-06-19,76,110.006,-4.45,0.585
+1074,Everlong,Foo Fighters,The Colour And The Shape,1997-05-20,81,158.066,-5.541,0.413
+1075,New Divide,Linkin Park,Transformers: Revenge Of The Fallen The Album,2009-06-12,70,117.971,-3.365,0.493
+1076,21 Guns,Green Day,21st Century Breakdown,2009-05-15,74,159.779,-4.939,0.268
+1077,Everybody's Changing,Keane,Hopes And Fears,2004-05-10,73,94.015,-3.521,0.517
+1078,Leave Out All The Rest,Linkin Park,Minutes to Midnight,2007-05-14,71,80.401,-6.418,0.514
+1079,I Don't Love You,My Chemical Romance,The Black Parade,2006-10-23,74,169.835,-4.22,0.289
+1080,Scar Tissue,Red Hot Chili Peppers,Californication (Deluxe Edition),1999-06-08,82,88.969,-4.803,0.595
+1081,Where Is My Mind?,Pixies,Death to the Pixies,1997-10-06,72,81.201,-13.529,0.513
+1082,CASTLE OF GLASS,Linkin Park,LIVING THINGS,2012-06-19,74,108.0,-3.584,0.615
+1083,Can't Stop,Red Hot Chili Peppers,By the Way (Deluxe Edition),2002-07-09,81,91.455,-3.442,0.618
+1084,Black,Pearl Jam,Ten,1991-08-27,73,77.15,-6.457,0.36
+1085,You Get What You Give,New Radicals,Maybe You've Been Brainwashed Too,1998-01-01,74,113.967,-5.396,0.621
+1086,THE LONELIEST,Måneskin,THE LONELIEST,2022-10-07,68,129.786,-5.001,0.519
+1087,Ain't No Rest for the Wicked,Cage The Elephant,Cage The Elephant (Expanded Edition),2009-03-24,76,156.036,-7.075,0.636
+1088,Snow (Hey Oh),Red Hot Chili Peppers,Stadium Arcadium,2006-05-09,77,104.655,-3.674,0.427
+1089,Supermassive Black Hole,Muse,Black Holes and Revelations,2006-06-19,78,120.0,-3.727,0.668
+1090,Even Flow,Pearl Jam,Ten,1991-08-27,77,105.338,-6.506,0.394
+1091,My Demons,STARSET,Transmissions (Deluxe Version),2014,70,173.008,-6.196,0.274
+1092,Uprising,Muse,The Resistance,2009-09-10,75,128.019,-4.046,0.602
+1093,Use Somebody,Kings of Leon,Only By The Night,2008-09-23,76,137.028,-5.356,0.276
+1094,Dani California,Red Hot Chili Peppers,Stadium Arcadium,2006-05-09,77,96.184,-2.36,0.556
+1095,"Sex, Drugs, Etc.",Beach Weather,Chit Chat,2016-11-04,73,143.969,-5.083,0.572
+1096,In My Place,Coldplay,A Rush of Blood to the Head,2002-08-27,74,144.636,-5.455,0.424
+1097,Paralyzer,Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),2007-01-01,74,106.031,-3.486,0.644
+1098,Last Night on Earth,Green Day,21st Century Breakdown,2009-05-15,68,119.955,-7.139,0.556
+1099,Would? (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992-09-29,72,100.127,-7.457,0.297
+1100,In the Shadows,The Rasmus,Dead Letters,2003-03-24,71,105.991,-4.481,0.6
+1101,Take Me Out,Franz Ferdinand,Franz Ferdinand,2004-02-16,80,104.561,-8.821,0.277
+1102,Far Behind,Candlebox,Candlebox,1993-07-16,68,89.518,-6.595,0.552
+1103,No One Knows,Queens of the Stone Age,Songs For The Deaf,2002-01-01,69,170.411,-4.907,0.509
+1104,Just Like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",1987-01-01,73,151.417,-6.946,0.437
+1105,By the Way,Red Hot Chili Peppers,By the Way (Deluxe Edition),2002-07-09,74,122.444,-4.938,0.451
+1106,Two Faced,Linkin Park,From Zero,2024-11-15,79,91.906,-5.405,0.51
+1107,Starburster,Fontaines D.C.,Romance,2024-08-23,69,98.021,-5.677,0.511
+1108,Beaches,beabadoobee,This Is How Tomorrow Moves,2024-08-09,69,82.002,-3.979,0.417
+1109,The Emptiness Machine,Linkin Park,From Zero,2024-11-15,79,184.115,-3.344,0.466
+1110,Fear of the Dark - 2015 Remaster,Iron Maiden,Fear of the Dark (2015 Remaster),1992,69,109.825,-5.671,0.308
+1111,Seek & Destroy - Remastered,Metallica,Kill 'Em All (Remastered),1983-07-24,68,140.817,-5.493,0.445
+1112,Cowboys from Hell,Pantera,Cowboys from Hell,1990-07-20,71,114.816,-9.701,0.415
+1113,Master Of Puppets,Metallica,Master Of Puppets (Remastered),1986-03-03,75,105.173,-9.11,0.543
+1114,The Trooper - 2015 Remaster,Iron Maiden,Piece of Mind (2015 Remaster),1983,71,159.756,-4.601,0.285
+1115,Walk,Pantera,Vulgar Display of Power,1992-02-21,73,118.242,-8.008,0.43
+1116,Chop Suey!,System Of A Down,Toxicity,2001-09-04,83,127.066,-3.908,0.417
+1117,Blind,Korn,Korn,1994-10-11,68,92.049,-8.165,0.283
+1118,One,Metallica,...And Justice For All,1988-08-25,72,102.178,-9.447,0.437
+1119,Mother,Danzig,Danzig,1988-01-01,69,148.366,-9.45,0.365
+1120,Cowboys from Hell,Pantera,Cowboys from Hell,1990-07-20,71,114.816,-9.701,0.415
+1121,Duality,Slipknot,Vol. 3: The Subliminal Verses,2004,80,143.772,-3.026,0.354
+1122,Enter Sandman,Metallica,Metallica,1991-08-12,79,123.257,-8.691,0.577
+1123,Hail to the King,Avenged Sevenfold,Hail to the King,2013-08-23,75,118.004,-4.358,0.58
+1124,Freak On a Leash,Korn,Follow The Leader,1998-08-18,77,103.299,-5.877,0.353
+1125,Dragula,Rob Zombie,Hellbilly Deluxe,1998-01-01,77,125.033,-6.489,0.59
+1126,Nightmare,Avenged Sevenfold,Nightmare,2010-07-23,70,129.984,-4.928,0.554
+1127,My Own Summer (Shove It),Deftones,Around the Fur,1997-10-27,77,71.841,-4.277,0.443
+1128,Schism,TOOL,Lateralus,2001-05-15,68,107.441,-8.512,0.567
+1129,Complicated,Avril Lavigne,Let Go,2002-06-04,81,77.987,-5.898,0.585
+1130,Dirty Little Secret,The All-American Rejects,Move Along,2005-01-01,70,143.85,-4.251,0.465
+1131,The Middle,Jimmy Eat World,Bleed American,2001-07-17,80,162.152,-5.428,0.643
+1132,Gives You Hell,The All-American Rejects,When The World Comes Down,2008-01-01,69,100.008,-6.44,0.718
+1133,1985,Bowling For Soup,A Hangover You Don't Deserve,2004,69,119.974,-4.404,0.606
+1134,Stacy's Mom,Fountains Of Wayne,Welcome Interstate Managers,2003-01-01,72,118.015,-4.927,0.774
+1135,Misery Business,Paramore,Riot!,2007-06-11,73,172.977,-3.677,0.517
+1136,Call Me When You're Sober,Evanescence,The Open Door,2006-01-01,69,93.41,-4.094,0.45
+1137,Sk8er Boi,Avril Lavigne,Let Go,2002-06-04,77,149.937,-4.417,0.487
+1138,I'm with You,Avril Lavigne,Let Go,2002-06-04,73,151.95,-7.462,0.457
+1139,My Happy Ending,Avril Lavigne,Under My Skin,2004,70,170.229,-2.407,0.414
+1140,The Anthem,Good Charlotte,The Young and The Hopeless,2002-10-04,75,177.751,-3.127,0.494
+1141,Ain't It Fun,Paramore,Paramore,2013-04-05,71,104.031,-3.681,0.61
+1142,Still into You,Paramore,Paramore,2013-04-05,78,136.01,-3.763,0.602
+1143,I Write Sins Not Tragedies,Panic! At The Disco,A Fever You Can't Sweat Out,2005-09-27,72,170.094,-4.106,0.569
+1144,All The Small Things,blink-182,Enema Of The State,1999-06-01,81,148.708,-4.918,0.434
+1145,Wake Me up When September Ends,Green Day,American Idiot,2004-09-21,77,104.98,-5.146,0.546
+1146,Bring Me To Life,Evanescence,Fallen,2003-03-04,83,94.612,-3.188,0.331
+1147,What the Hell,Avril Lavigne,Goodbye Lullaby (Expanded Edition),2011-03-08,71,149.976,-3.689,0.578
+1148,I Miss You,blink-182,blink-182,2003-01-01,75,110.024,-6.547,0.655
+1149,Boulevard of Broken Dreams,Green Day,Greatest Hits: God's Favorite Band,2017-11-17,70,167.06,-4.095,0.496
+1150,American Idiot,Green Day,American Idiot,2004-09-21,79,186.113,-2.042,0.38
+1151,Beverly Hills,Weezer,Make Believe,2005-05-10,68,87.904,-3.761,0.693
+1152,The Only Exception,Paramore,Brand New Eyes,2009-09-28,74,137.715,-6.607,0.452
+1153,I Think I'm OKAY (with YUNGBLUD & Travis Barker),"mgk, YUNGBLUD, Travis Barker",Hotel Diablo,2019-07-05,68,119.921,-4.718,0.628
+1154,My Own Worst Enemy,Lit,A Place In The Sun,1999-02-22,74,103.408,-2.757,0.494
+1155,Ocean Avenue,Yellowcard,Ocean Avenue,2003-01-01,71,173.734,-3.751,0.486
+1156,Face Down,The Red Jumpsuit Apparatus,Don't You Fake It,2006-01-01,75,92.956,-2.189,0.545
+1157,Miss Murder,AFI,DECEMBERUNDERGROUND,2006-06-06,68,143.519,-4.542,0.308
+1158,Thnks fr th Mmrs,Fall Out Boy,Infinity On High,2007-01-01,77,154.844,-5.046,0.46
+1159,Teenagers,My Chemical Romance,The Black Parade,2006-10-23,79,111.647,-3.063,0.463
+1160,Fat Lip,Sum 41,"All Killer, No Filler",2001-01-01,73,196.482,-5.215,0.403
+1161,What's My Age Again?,blink-182,Enema Of The State,1999-06-01,77,157.663,-7.419,0.391
+1162,Feel Good Inc.,Gorillaz,Demon Days,2005-05-23,84,138.559,-6.679,0.818
+1163,I'm Not Okay (I Promise),My Chemical Romance,Three Cheers for Sweet Revenge,2004-06-08,74,179.722,-3.427,0.21
+1164,Decode,Paramore,Decode,2008-11-04,71,164.057,-4.219,0.28
+1165,Hard Times,Paramore,After Laughter,2017-05-12,73,119.965,-5.379,0.695
+1166,Helena,My Chemical Romance,Three Cheers for Sweet Revenge,2004-06-08,76,125.921,-3.487,0.356
+1167,Famous Last Words,My Chemical Romance,The Black Parade,2006-10-23,72,122.252,-3.679,0.467
+1168,Na Na Na (Na Na Na Na Na Na Na Na Na),My Chemical Romance,Danger Days: The True Lives of the Fabulous Killjoys,2010-11-05,68,165.981,-2.522,0.411
+1169,I Don't Love You,My Chemical Romance,The Black Parade,2006-10-23,74,169.835,-4.22,0.289
+1170,The Ghost of You,My Chemical Romance,Three Cheers for Sweet Revenge,2004-06-08,70,145.781,-3.805,0.202
+1171,First Date,blink-182,Take Off Your Pants And Jacket,2001,74,95.594,-4.344,0.579
+1172,"Sugar, We're Goin Down",Fall Out Boy,From Under The Cork Tree,2005-05-03,76,162.011,-4.784,0.494
+1173,"Dance, Dance",Fall Out Boy,From Under The Cork Tree,2005-05-03,75,114.451,-3.198,0.621
+1174,The Rock Show,blink-182,Take Off Your Pants And Jacket,2001,69,193.144,-4.563,0.409
+1175,Holiday / Boulevard of Broken Dreams,Green Day,American Idiot,2004-09-21,69,167.086,-3.451,0.29
+1176,Adam's Song,blink-182,Enema Of The State,1999-06-01,71,136.02,-5.803,0.52
+1177,King For A Day,"Pierce The Veil, Kellin Quinn",Collide With The Sky,2012-07-17,75,112.363,-2.238,0.403
+1178,Bulls In The Bronx,Pierce The Veil,Collide With The Sky,2012-07-17,68,159.989,-3.545,0.472
+1179,Sacrifice,Elton John,Sleeping With The Past (Remastered with bonus tracks),1989-08-29,72,112.751,-12.967,0.756
+1180,I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,1992-11-17,75,67.531,-12.518,0.332
+1181,Against All Odds (Take a Look at Me Now) - 2016 Remaster,Phil Collins,The Singles (Expanded),2016-10-14,74,116.262,-6.9,0.581
+1182,End Of The Road,Boyz II Men,Cooleyhighharmony (Bonus Tracks Version),1991-04-30,70,149.705,-9.29,0.641
+1183,The Power of Love,Céline Dion,The Colour Of My Love,1993-11-09,71,140.054,-9.072,0.546
+1184,"It Must Have Been Love - From the Film ""Pretty Woman""",Roxette,It Must Have Been Love,1990-05-20,77,80.61,-6.655,0.52
+1185,You Are Not Alone,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",1995-06-16,68,119.873,-9.303,0.651
+1186,Stuck On You,Lionel Richie,Can't Slow Down,1983-01-01,69,131.783,-16.063,0.509
+1187,Killing Me Softly With His Song,Roberta Flack,Killing Me Softly,1973-01-01,70,121.948,-10.238,0.476
+1188,Saving All My Love for You,Whitney Houston,Whitney Houston,1985-02-14,68,99.304,-14.567,0.636
+1189,Only Time,Enya,A Day Without Rain,2000-11-11,71,82.803,-13.744,0.418
+1190,Apologize,OneRepublic,Dreaming Out Loud,2007-11-20,69,118.01,-6.12,0.593
+1191,I'm Alive,Céline Dion,A New Day Has Come,2002-03-22,69,101.991,-5.087,0.691
+1192,Kiss from a Rose,Seal,Seal,1994-05-31,71,131.745,-7.11,0.584
+1193,Mad,Ne-Yo,Year Of The Gentleman (Bonus Track Edition),2008-01-01,70,129.993,-5.357,0.727
+1194,Let Me Love You,Mario,Turning Point,2004-03-15,75,94.519,-8.343,0.686
+1195,Halo,Beyoncé,I AM...SASHA FIERCE,2008-11-17,71,79.983,-5.908,0.508
+1196,Yo (Excuse Me Miss),Chris Brown,Chris Brown (Expanded Edition),2005,71,86.768,-5.847,0.536
+1197,It's All Coming Back to Me Now,Céline Dion,Falling into You,1996-03-11,72,87.903,-9.149,0.384
+1198,"Because You Loved Me (Theme from ""Up Close and Personal"")",Céline Dion,Falling into You,1996-03-11,74,119.919,-9.883,0.615
+1199,A Thousand Miles,Vanessa Carlton,Be Not Nobody,2002-04-30,75,94.931,-3.862,0.56
+1200,Sexual Healing,Marvin Gaye,Midnight Love,1982-10-01,73,94.382,-9.7,0.805
+1201,All My Life,K-Ci & JoJo,Love Always,1997-01-01,68,128.019,-8.651,0.634
+1202,You're Beautiful,James Blunt,Back to Bedlam,2005-08-08,75,81.998,-9.87,0.675
+1203,Say My Name,Destiny's Child,The Writing's On The Wall,1999-07-27,78,138.009,-3.525,0.713
+1204,Baby,"Justin Bieber, Ludacris",My World 2.0,2010-01-01,81,65.043,-5.237,0.728
+1205,U Remind Me,USHER,8701,2001-08-07,69,93.985,-4.938,0.657
+1206,Confessions Part II,USHER,Confessions (Expanded Edition),2004-03-23,68,138.007,-7.674,0.845
+1207,Drunk in Love (feat. Jay-Z),"Beyoncé, JAY-Z",BEYONCÉ [Platinum Edition],2014-11-24,70,140.036,-6.902,0.583
+1208,Down,"Jay Sean, Lil Wayne",All Or Nothing,2009-01-01,77,132.012,-4.498,0.727
+1209,Love The Way You Lie,"Eminem, Rihanna",Recovery,2010-06-18,83,86.989,-5.034,0.749
+1210,Hate That I Love You,"Rihanna, Ne-Yo",Good Girl Gone Bad: Reloaded,2008-06-02,69,93.867,-5.38,0.637
+1211,No Love,"Eminem, Lil Wayne",Recovery,2010-06-18,68,129.473,-2.87,0.522
+1212,Mirror,"Lil Wayne, Bruno Mars",Tha Carter IV (Complete Edition),2011-08-29,74,74.267,-7.291,0.328
+1213,Baby Can I Hold You,Tracy Chapman,Tracy Chapman,1988-04-05,72,74.375,-10.533,0.692
+1214,No One,Alicia Keys,As I Am (Expanded Edition),2007-11-09,71,90.04,-5.415,0.644
+1215,So Into You,Tamia,Tamia,1998,69,184.374,-7.055,0.656
+1216,Stan,"Eminem, Dido",The Marshall Mathers LP,2000-05-23,79,80.063,-4.325,0.78
+1217,Bleeding Love,Leona Lewis,Spirit,2007,75,104.036,-5.886,0.638
+1218,We Belong Together,Mariah Carey,The Emancipation of Mimi,2005,74,139.987,-7.918,0.84
+1219,Nothing's Gonna Change My Love for You,George Benson,20/20,1985-01-15,71,136.628,-5.098,0.553
+1220,When I See U,Fantasia,Fantasia,2006-12-09,69,93.135,-6.486,0.569
+1221,Another Day in Paradise - 2016 Remaster,Phil Collins,...But Seriously (Deluxe Edition),1989-11-20,77,101.967,-7.32,0.78
+1222,Stand By Me,Ben E. King,Don't Play That Song (Mono),1962-08-20,75,118.068,-9.443,0.65
+1223,Beautiful Girls,Sean Kingston,Beautiful Girls,2007-07-23,78,130.009,-6.075,0.762
+1224,Sweet Home Alabama,Lynyrd Skynyrd,Second Helping (Expanded Edition),1974-04-15,78,97.785,-12.145,0.596
+1225,Free Bird,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,1973-01-01,75,118.222,-8.21,0.249
+1226,Simple Man,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,1973-01-01,73,120.47,-8.682,0.422
+1227,S P E Y S I D E,Bon Iver,S P E Y S I D E,2024-09-20,72,140.232,-14.161,0.467
+1228,Stick Season,Noah Kahan,Stick Season,2022-10-14,87,117.896,-6.935,0.664
+1229,Silver Lining,Mt. Joy,Mt. Joy,2018-03-02,74,144.458,-6.231,0.486
+1230,To Build A Home,"The Cinematic Orchestra, Patrick Watson",Ma Fleur,2007-05-07,72,148.658,-15.399,0.264
+1231,My Home,Myles Smith,My Home,2023-10-13,73,95.968,-9.431,0.753
+1232,Stubborn Love,The Lumineers,The Lumineers,2012-04-03,74,115.011,-11.676,0.598
+1233,Thinking 'Bout Love,Wild Rivers,Songs to Break Up To,2020-05-01,71,141.8,-8.122,0.733
+1234,i am not who i was,Chance Peña,"Ever-Shifting, Continual Blossoming",2024-09-13,79,129.9,-13.696,0.702
+1235,THINGS BEHIND THINGS BEHIND THINGS,Bon Iver,"SABLE,",2024-10-18,69,157.338,-9.282,0.413
+1236,Orange Juice,Noah Kahan,Stick Season,2022-10-14,73,120.133,-10.908,0.662
+1237,Evergreen,Richy Mitch & The Coal Miners,RMCM,2017-05-17,84,79.109,-11.661,0.555
+1238,anything,Adrianne Lenker,songs,2020-10-23,77,83.943,-12.952,0.388
+1239,Work Song,Hozier,Hozier (Expanded Edition),2014-09-19,77,121.412,-7.672,0.531
+1240,Je te laisserai des mots,Patrick Watson,Je te laisserai des mots,2010-09-10,83,132.679,-16.757,0.303
+1241,Scared To Start,Michael Marcagi,Scared To Start,2024-01-12,84,148.035,-11.258,0.527
+1242,Big Black Car,Gregory Alan Isakov,This Empty Northern Hemisphere,2009-01-01,76,110.044,-15.926,0.6
+1243,Solo,Myles Smith,Solo,2023-11-15,73,122.877,-7.993,0.586
+1244,Turn out fine,Henrik,Turn out fine,2023-10-27,68,87.003,-9.226,0.654
+1245,Riptide,Vance Joy,Dream Your Life Away (Deluxe Edition),2014-08-05,85,101.654,-6.696,0.483
+1246,Good To Be,Mark Ambor,Rockwood,2024-08-16,71,94.009,-5.861,0.656
+1247,Homesick,Noah Kahan,Stick Season,2022-10-14,70,170.076,-6.526,0.505
+1248,The Mountain Is You,Chance Peña,"Ever-Shifting, Continual Blossoming",2024-09-13,69,108.953,-10.232,0.413
+1249,Saturday Sun,Vance Joy,Nation of Two,2018-02-23,69,99.995,-4.381,0.637
+1250,Sailor Song,Gigi Perez,Sailor Song,2024-07-26,93,94.938,-10.432,0.494
+1251,Down by the Water,Ocie Elliott,EP,2018-10-19,73,95.015,-12.493,0.611
+1252,Walkin’ Back to Georgia,Jim Croce,You Don't Mess Around With Jim,1972-04-01,69,128.094,-16.173,0.681
+1253,The Devil Wears a Suit and Tie,Colter Wall,Imaginary Appalachia,2015-06-02,70,127.823,-12.124,0.625
+1254,Heart of Gold,Neil Young,Harvest (50th Anniversary Edition),1972-02-01,71,171.402,-13.547,0.537
+1255,Operator (That's Not the Way It Feels),Jim Croce,You Don't Mess Around With Jim,1972-04-01,71,130.398,-8.853,0.687
+1256,A Horse with No Name,"America, George Martin",America,1972,76,123.188,-17.18,0.653
+1257,Down by the Water,Ocie Elliott,EP,2018-10-19,73,95.015,-12.493,0.611
+1258,Sleeping on the Blacktop,Colter Wall,Imaginary Appalachia,2015-06-02,74,82.789,-14.509,0.583
+1259,White Brown Black,"Avvy Sra, Karan Aujla, Jaani",White Brown Black,2022-12-09,73,119.965,-3.492,0.868
+1260,Brown Munde,"AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",Brown Munde,2020-09-18,68,100.024,-6.26,0.854
+1261,Can We Kiss Forever?,"Kina, Adriana Proenza",Can We Kiss Forever?,2018-08-31,70,109.986,-18.717,0.522
+1262,Get You The Moon (feat. Snøw),"Kina, Snøw",Get You The Moon (feat. Snøw),2018-10-08,73,118.917,-16.541,0.498
+1263,Behind Every Decision,Yehezkel Raz,"Preludes, Book 2 - Torrents",2019-12-10,70,69.677,-37.822,0.235
+1264,Black Friday (pretty like the sun),"Lost Frequencies, Tom Odell",Black Friday (pretty like the sun),2024-07-19,83,126.031,-10.833,0.853
+1265,Stumblin' In,CYRIL,Stumblin' In,2023-11-10,84,126.089,-8.388,0.875
+1266,For Life (feat. Nile Rodgers),"Kygo, Zak Abel, Nile Rodgers",For Life (feat. Nile Rodgers),2024-04-19,70,122.085,-5.935,0.571
+1267,This Girl (Kungs Vs. Cookin' On 3 Burners),"Kungs, Cookin' On 3 Burners",Layers,2016-11-04,76,121.985,-4.759,0.793
+1268,Hold Me,Lavern,Hold Me,2023-03-31,72,120.0,-6.432,0.762
+1269,Whatever,"Kygo, Ava Max",Whatever,2024-01-19,76,108.005,-5.69,0.58
+1270,Riptide,TWOPILOTS,Riptide,2022-04-21,71,113.998,-4.312,0.729
+1271,Stumblin' In,CYRIL,Stumblin' In,2023-11-10,84,126.089,-8.388,0.875
+1272,I Adore You (feat. Daecolm),"HUGEL, Topic, Arash, Daecolm",I Adore You (feat. Daecolm),2024-07-19,83,119.996,-6.751,0.704
+1273,Black Friday (pretty like the sun),"Lost Frequencies, Tom Odell",Black Friday (pretty like the sun),2024-07-19,83,126.031,-10.833,0.853
+1274,Summer,Calvin Harris,Motion,2014-10-31,81,127.949,-3.556,0.596
+1275,Give It To Me - Full Vocal Mix,Matt Sassari,Give It To Me (Full Vocal Mix),2021-10-22,80,126.027,-5.996,0.874
+1276,I Only Smoke When I Drink,nimino,I Only Smoke When I Drink,2024-08-22,79,127.028,-6.378,0.88
+1277,It's Not Right But It's Okay,Mr. Belt & Wezol,It's Not Right But It's Okay,2024-02-23,77,128.004,-4.811,0.755
+1278,Never Going Home Tonight (feat. Madison Love),"David Guetta, Alesso, Madison Love",Never Going Home Tonight (feat. Madison Love),2024-09-06,77,125.91,-2.744,0.513
+1279,Belly Dancer,"Imanbek, BYOR",Belly Dancer,2022-02-18,77,121.985,-4.984,0.845
+1280,Whatever,"Kygo, Ava Max",Whatever,2024-01-19,76,108.005,-5.69,0.58
+1281,Deep Down (feat. Never Dull),"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),2022-06-17,76,125.952,-4.221,0.687
+1282,Ferrari,"James Hype, Miggy Dela Rosa",Ferrari,2022-04-01,76,125.004,-7.877,0.847
+1283,Thunder,"Gabry Ponte, LUM!X, Prezioso",Thunder,2021-05-07,75,101.216,-4.673,0.67
+1284,(It Goes Like) Nanana - Edit,Peggy Gou,(It Goes Like) Nanana [Edit],2023-06-15,75,129.998,-5.681,0.671
+1285,Baianá,Bakermat,The Ringmaster,2020-10-09,75,121.964,-6.983,0.587
+1286,Supernova Love,"IVE, David Guetta",Supernova Love,2024-11-08,74,120.032,-5.227,0.655
+1287,Forever Young,"David Guetta, Alphaville, Ava Max",Forever Young,2024-10-18,77,129.89,-5.476,0.558
+1288,Mwaki,"Zerb, Sofiya Nzau",SURRENDER,2023-10-27,74,120.033,-8.751,0.847
+1289,Alibi (feat. Rudimental),"Ella Henderson, Rudimental",Alibi (feat. Rudimental),2024-01-12,74,87.024,-3.615,0.545
+1290,Gatluak - Bakermat Remix,"Kronan, Nyaruach, Bakermat",Gatluak (Bakermat Remix),2021-07-23,73,117.737,-7.335,0.581
+1291,21 Reasons (feat. Ella Henderson),"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),2022-04-29,73,123.96,-4.499,0.621
+1292,K.O.,"LAVINIA, Ely Oaks",K.O.,2024-08-09,72,129.973,-5.942,0.714
+1293,Move Your Body,"Öwnboss, Sevek",Move Your Body,2021-10-29,72,125.051,-5.408,0.848
+1294,Around The World,"Niklas Dee, René Miller",Around The World,2024-08-02,72,75.031,-4.414,0.605
+1295,Where Did You Go? (feat. MNEK),"Jax Jones, MNEK",Where Did You Go (feat. MNEK),2022-02-04,71,127.034,-4.541,0.763
+1296,Good Love,"Hannah Laing, RoRo",Good Love,2023-05-12,71,140.039,-4.963,0.777
+1297,Never Walk Alone,"BLOND:ISH, Stevie Appleton",Never Walk Alone,2024-08-02,71,129.995,-6.823,0.853
+1298,adore u,"Fred again.., Obongjayar",adore u,2023-08-11,70,124.015,-7.311,0.747
+1299,Hold On Me,"Kygo, Sandro Cavazza",Hold On Me,2024-11-15,68,123.006,-6.543,0.567
+1300,Makeba - Ian Asher Remix,"Jain, Ian Asher",Makeba (Ian Asher Remix),2023-01-13,69,123.993,-4.078,0.651
+1301,Tantalizing,"Tiësto, Soaky Siren",Tantalizing,2024-11-08,69,123.031,-4.285,0.671
+1302,World Gone Wild (feat. Sam Martin),"Robin Schulz, CYRIL, Sam Martin",World Gone Wild (feat. Sam Martin),2024-10-11,69,127.993,-7.529,0.634
+1303,Whistle (feat. Calum Scott),"Jax Jones, Calum Scott",Whistle (feat. Calum Scott),2023-02-10,69,124.025,-4.487,0.689
+1304,Born To Love Ya,"Gabry Ponte, Sean Paul, NATTI NATASHA",Born To Love Ya,2024-10-04,69,130.02,-4.853,0.652
+1305,Love Is The Only Thing,Lost Frequencies,Love Is The Only Thing,2024-11-08,68,127.938,-8.597,0.608
+1306,2 Times,"Dimitri Vegas, Steve Aoki, Ann Lee, Sound Of Legend",2 Times,2024-10-04,68,74.973,-3.375,0.772
+1307,Deep In Your Love,"Alok, Bebe Rexha",Deep In Your Love,2024-01-12,68,130.085,-5.15,0.588
+1308,Happier (feat. Clementine Douglas),"The Blessed Madonna, Clementine Douglas",Happier (feat. Clementine Douglas),2024-02-02,68,126.056,-3.681,0.785
+1309,Honey Boy (feat. Nile Rodgers & Shenseea),"Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea",Honey Boy (feat. Nile Rodgers & Shenseea),2024-05-03,68,119.984,-5.468,0.724
+1310,You & Me - Flume Remix,"Disclosure, Eliza Doolittle, Flume",Settle (Special Edition),2013-06-03,70,75.066,-6.869,0.599
+1311,Roses,"The Chainsmokers, ROZES",Roses,2015-06-16,71,100.001,-7.055,0.713
+1312,Alone,Marshmello,Alone,2016-05-13,68,141.99,-3.739,0.631
+1313,Hold Me,Lavern,Hold Me,2023-03-31,72,120.0,-6.432,0.762
+1314,El Listón De Tu Pelo,Los Ángeles Azules,Una Lluvia De Rosas,1999-01-01,71,81.109,-8.195,0.695
+1315,17 Años,Los Ángeles Azules,Una Lluvia De Rosas,1999-01-01,68,90.941,-9.097,0.738
+1316,Piensa En Mí,Grupo Mojado,Sueño Y Realidad,1996-01-01,73,80.096,-8.874,0.72
+1317,+57,"KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd",+57,2024-11-08,84,91.98,-3.574,0.848
+1318,Gata Only (Remix),"FloyyMenor, Ozuna, Anitta",Gata Only (Remix),2024-06-07,73,99.998,-5.277,0.725
+1319,PELIGROSA,FloyyMenor,EL COMIENZO,2024-08-09,83,100.025,-7.426,0.763
+1320,SE TE NOTA (feat. Peso Pluma),"Myke Towers, Peso Pluma",LA PANTERA NEGRA,2024-08-22,72,104.008,-4.516,0.773
+1321,ADIVINO,"Myke Towers, Bad Bunny",ADIVINO,2024-04-25,77,117.994,-2.4,0.786
+1322,REINA,"Mora, SAIKO",ESTRELLA,2023-08-28,71,167.985,-7.117,0.724
+1323,PERRO NEGRO,"Bad Bunny, Feid",nadie sabe lo que va a pasar mañana,2023-10-13,84,96.057,-2.248,0.911
+1324,HIBIKI,"Bad Bunny, Mora",nadie sabe lo que va a pasar mañana,2023-10-13,70,119.935,-5.605,0.801
+1325,MONACO,Bad Bunny,nadie sabe lo que va a pasar mañana,2023-10-13,77,139.056,-5.009,0.787
+1326,FINA,"Bad Bunny, Young Miko",nadie sabe lo que va a pasar mañana,2023-10-13,73,94.601,-5.41,0.847
+1327,DILUVIO,Rauw Alejandro,PLAYA SATURNO,2023-07-07,81,94.969,-3.502,0.845
+1328,QLONA,"KAROL G, Peso Pluma",MAÑANA SERÁ BONITO (BICHOTA SEASON),2023-08-10,83,169.918,-7.455,0.841
+1329,WHERE SHE GOES,Bad Bunny,WHERE SHE GOES,2023-05-18,74,143.978,-4.019,0.652
+1330,Coco Chanel,"Eladio Carrion, Bad Bunny",3MEN2 KBRN,2023-03-17,73,140.017,-5.555,0.863
+1331,La Jumpa,"Arcángel, Bad Bunny",La Jumpa,2022-11-30,69,123.06,-5.769,0.713
+1332,Me Porto Bonito,"Bad Bunny, Chencho Corleone",Un Verano Sin Ti,2022-05-06,81,92.005,-5.105,0.911
+1333,Andrea,"Bad Bunny, Buscabulla",Un Verano Sin Ti,2022-05-06,74,103.071,-10.229,0.797
+1334,Efecto,Bad Bunny,Un Verano Sin Ti,2022-05-06,79,98.047,-8.797,0.801
+1335,Tití Me Preguntó,Bad Bunny,Un Verano Sin Ti,2022-05-06,79,106.672,-5.198,0.65
+1336,Tarot,"Bad Bunny, JHAYCO",Un Verano Sin Ti,2022-05-06,76,114.011,-3.971,0.795
+1337,La Corriente,"Bad Bunny, Tony Dize",Un Verano Sin Ti,2022-05-06,73,196.12,-3.51,0.663
+1338,MEMORIAS,"Mora, JHAYCO",MICRODOSIS,2022-04-01,73,127.963,-6.404,0.771
+1339,Pa' Que Retozen,Tego Calderón,El Abayarde,2003-07-01,78,91.995,-3.825,0.815
+1340,Volví,"Aventura, Bad Bunny",Volví,2021-08-03,74,175.896,-3.726,0.725
+1341,Volando - Remix,"Mora, Bad Bunny, Sech",Volando (Remix),2021-07-08,73,153.979,-4.649,0.659
+1342,Yonaguni,Bad Bunny,Yonaguni,2021-06-04,75,179.951,-4.601,0.644
+1343,TE MUDASTE,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,2020-11-27,72,92.025,-4.835,0.811
+1344,LA NOCHE DE ANOCHE,"Bad Bunny, ROSALÍA",EL ÚLTIMO TOUR DEL MUNDO,2020-11-27,74,81.993,-4.892,0.856
+1345,"Yo x Ti, Tu x Mi","ROSALÍA, Ozuna","Yo x Ti, Tu x Mi",2019-08-15,69,91.952,-3.292,0.78
+1346,DÁKITI,"Bad Bunny, JHAYCO",EL ÚLTIMO TOUR DEL MUNDO,2020-11-27,75,109.928,-10.059,0.731
+1347,Hasta Que Dios Diga,"Anuel AA, Bad Bunny",Emmanuel,2020-05-29,74,174.021,-4.727,0.691
+1348,Safaera,"Bad Bunny, Jowell & Randy, Ñengo Flow",YHLQMDLG,2020-02-29,72,96.172,-4.074,0.607
+1349,La Difícil,Bad Bunny,YHLQMDLG,2020-02-29,70,179.87,-4.561,0.685
+1350,A Tu Merced,Bad Bunny,YHLQMDLG,2020-02-29,73,92.023,-4.784,0.86
+1351,Si Veo a Tu Mamá,Bad Bunny,YHLQMDLG,2020-02-29,74,129.928,-5.313,0.9
+1352,La Zona,Bad Bunny,YHLQMDLG,2020-02-29,68,93.992,-3.661,0.762
+1353,Yo Perreo Sola,Bad Bunny,YHLQMDLG,2020-02-29,69,97.014,-5.16,0.86
+1354,Fantasias,"Rauw Alejandro, Farruko",Fantasias,2019-08-29,71,94.004,-4.219,0.879
+1355,Velitas,"Darell, Brytiago",Velitas,2019-07-12,70,165.951,-7.009,0.819
+1356,LA CANCIÓN,"J Balvin, Bad Bunny",OASIS,2019-06-28,82,176.088,-5.795,0.756
+1357,QUE PRETENDES,"J Balvin, Bad Bunny",OASIS,2019-06-28,75,92.603,-4.443,0.639
+1358,Callaita,"Bad Bunny, Tainy",Callaita,2019-05-31,72,176.169,-4.773,0.61
+1359,Con Altura,"ROSALÍA, J Balvin, El Guincho",Con Altura,2019-03-28,69,97.963,-4.027,0.882
+1360,Verte Ir,"DJ Luian, Mambo Kingz, Anuel AA, Nicky Jam, Darell, Brytiago",Verte Ir,2019-03-28,69,95.982,-4.152,0.857
+1361,Con Calma,"Daddy Yankee, Snow",Con Calma,2019-01-24,76,93.989,-2.652,0.737
+1362,Mayores,"Becky G, Bad Bunny",MALA SANTA,2019-10-18,70,96.993,-4.336,0.746
+1363,512,"Mora, JHAYCO",Primer Dia de Clases,2021-02-05,74,87.961,-7.542,0.818
+1364,Ay Vamos,J Balvin,La Familia B Sides,2014-09-12,72,173.916,-5.746,0.718
+1365,Borro Cassette,Maluma,"Pretty Boy, Dirty Boy",2015-10-30,82,175.95,-5.885,0.73
+1366,6 AM,"J Balvin, Farruko",La Familia,2013-09-29,69,175.965,-5.046,0.746
+1367,Sensualidad,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,2017-11-03,69,140.006,-6.268,0.807
+1368,Sigue Bailandome,"Yannc, Darkiel, Eladio Carrion, Brray, Myke Towers",Sigue Bailandome,2018-10-19,70,106.034,-7.252,0.799
+1369,No Es Justo,"J Balvin, Zion & Lennox",Vibras,2018-05-25,69,87.864,-4.493,0.683
+1370,Una Vez,"Bad Bunny, Mora",YHLQMDLG,2020-02-29,74,83.836,-5.402,0.55
+1371,Una Locura,"Ozuna, J Balvin, Chencho Corleone",ENOC,2020-09-04,69,168.022,-4.596,0.714
+1372,Bandido,"Myke Towers, Juhn",Bandido,2020-12-10,70,168.021,-4.637,0.713
+1373,UN PESO,"J Balvin, Bad Bunny, Marciano Cantero",OASIS,2019-06-28,75,79.31,-7.125,0.627
+1374,EL MAKINON,"KAROL G, Mariah Angeliq",KG0516,2021-03-26,70,88.863,-3.224,0.635
+1375,Pepas,Farruko,Pepas,2021-06-24,76,130.001,-3.955,0.762
+1376,ALMAS GEMELAS,Myke Towers,ALMAS GEMELAS,2021-07-22,69,94.979,-4.579,0.793
+1377,Bichiyal,"Bad Bunny, Yaviah",YHLQMDLG,2020-02-29,70,93.956,-4.242,0.737
+1378,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),2021-10-05,70,169.888,-6.33,0.639
+1379,MAMIII,"Becky G, KAROL G",MAMIII,2022-02-10,69,93.991,-3.563,0.843
+1380,Desesperados,"Rauw Alejandro, Chencho Corleone",Desesperados,2021-12-11,68,90.02,-3.35,0.869
+1381,Te Felicito,"Shakira, Rauw Alejandro",Te Felicito,2022-04-21,70,174.14,-4.654,0.695
+1382,Después de la Playa,Bad Bunny,Un Verano Sin Ti,2022-05-06,71,78.293,-3.221,0.564
+1383,Moscow Mule,Bad Bunny,Un Verano Sin Ti,2022-05-06,79,99.968,-5.453,0.804
+1384,Agosto,Bad Bunny,Un Verano Sin Ti,2022-05-06,71,115.018,-8.195,0.849
+1385,Hola - Remix,"Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow",Yo Te Quiero Pa Mi,2022-02-09,70,181.891,-5.98,0.655
+1386,GATÚBELA,"KAROL G, Maldy",GATÚBELA,2022-08-26,68,92.523,-2.824,0.627
+1387,¿Qué Nos Pasó?,Anuel AA,¿Qué Nos Pasó?,2022-05-26,71,95.0,-4.808,0.703
+1388,LA INOCENTE,"Mora, Feid",MICRODOSIS,2022-04-01,78,91.911,-3.46,0.757
+1389,Sexo Virtual,Rauw Alejandro,VICE VERSA,2021-12-10,70,179.879,-3.286,0.704
+1390,Nostálgico,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,2021-09-08,70,98.026,-3.425,0.734
+1391,Gato de Noche,"Ñengo Flow, Bad Bunny",Gato de Noche,2022-12-22,68,93.976,-3.894,0.892
+1392,La Bebe - Remix,"Yng Lvcas, Peso Pluma",La Bebe (Remix),2023-03-17,79,169.922,-5.678,0.812
+1393,QUEMA,"Ryan Castro, Peso Pluma, SOG",QUEMA,2023-07-13,74,97.008,-2.58,0.791
+1394,LALA,Myke Towers,LA VIDA ES UNA,2023-03-23,82,91.986,-4.045,0.708
+1395,Lollipop,Darell,EVERYBODY GO TO THE DISCOTEK,2023-07-28,71,102.984,-4.943,0.822
+1396,Pa Ti Estoy,"Ozuna, Anuel AA, Chris Jedi",Cosmo,2023-11-17,72,162.087,-3.174,0.785
+1397,Corazón Roto - Remix,"Brray, JHAYCO, Ryan Castro",Corazón Roto (Remix),2023-04-07,69,92.998,-4.686,0.843
+1398,El Efecto - Remix,"Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex",El Efecto (Remix),2019-12-13,68,167.969,-3.504,0.771
+1399,BELLAKEO,"Peso Pluma, Anitta",BELLAKEO,2023-12-07,75,180.011,-2.834,0.72
+1400,Si Se Da - Remix,"Myke Towers, Farruko, Arcángel, Sech, Zion",Si Se da Remix,2019-08-02,72,93.999,-5.612,0.817
+1401,Nada,"Cazzu, Lyanno, Rauw Alejandro, Dalex",Error 93,2019-06-03,71,98.992,-8.317,0.898
+1402,Santa,"Rvssian, Rauw Alejandro, Ayra Starr",Santa,2024-04-04,79,99.993,-5.017,0.725
+1403,Guay,"Ozuna, Bad Gyal",Guay,2024-04-18,69,96.037,-2.906,0.88
+1404,HASTA ABAJO,"KEVIN ROLDAN, Bryant Myers, Lyanno",KrING,2019-10-04,69,169.727,-5.119,0.714
+1405,BBY BOO - REMIX,"iZaak, JHAYCO, Anuel AA",BBY BOO (REMIX),2024-03-27,75,173.97,-5.696,0.703
+1406,SI NO ES CONTIGO,Cris Mj,SI NO ES CONTIGO,2024-05-23,85,100.02,-5.637,0.763
+1407,Gata Only,"FloyyMenor, Cris Mj",Gata Only,2024-02-02,87,99.986,-8.472,0.791
+1408,ELOVRGA,"Alex Favela, Grupo Marca Registrada, Joaquin Medina",ELOVRGA,2023-08-18,75,129.992,-10.515,0.793
+1409,Porno,"Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tavárez, Feid",The Academy,2019-10-11,70,92.009,-2.978,0.535
+1410,Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,2024-06-21,93,128.027,-6.795,0.924
+1411,NEL,Fuerza Regida,PERO NO TE ENAMORES,2024-07-25,88,100.029,-6.335,0.69
+1412,Que Se Cuide,"Luis R Conriquez, Joel De La P, Chimbala",Que Se Cuide,2024-05-04,71,128.028,-3.539,0.937
+1413,Mejores Jordans,"Victor Mendivil, Oscar Maydon",Mejores Jordans,2024-07-30,83,115.221,-8.949,0.669
+1414,APAGA EL CEL,"FloyyMenor, Lewis Somes",EL COMIENZO,2024-08-09,76,100.025,-7.532,0.696
+1415,CLASSY 101,"Feid, Young Miko",FERXXOCALIPSIS,2023-12-01,79,100.09,-4.772,0.858
+1416,LUNA,"Feid, ATL Jacob",FERXXOCALIPSIS,2023-12-01,88,100.019,-2.888,0.774
+1417,TU TA RICA,"FloyyMenor, Lewis Somes",EL COMIENZO,2024-08-09,76,99.994,-6.76,0.755
+1418,Parado no Bailão,"MC L da Vinte, MC Gury",Parado no Bailão,2018-07-23,73,86.533,-1.624,0.828
+1419,Se Voce Nao Quer Passa a Vez,"Mc Delux, DJ Guih Da ZO",Se Voce Nao Quer Passa a Vez,2022-03-22,70,129.949,1.295,0.956
+1420,BRAZILIAN DANÇA PHONK,"6YNTHMANE, RXDXVIL",BRAZILIAN DANÇA PHONK,2023-05-12,72,126.015,-2.39,0.748
+1421,MONTAGEM - PR FUNK,"S3BZS, Mc Gw, Mc Menor Do Alvorada",MONTAGEM - PR FUNK,2023-05-01,77,130.028,-3.195,0.877
+1422,Faz um Vuk Vuk (Teto Espelhado),"MC Kevin o Chris, Dj Nk Da Serra, Mc Magrinho",Faz um Vuk Vuk (Teto Espelhado),2023-07-20,72,130.078,-7.901,0.92
+1423,Te Maceto Depois Do Baile,"DJ Zigão, DJ Lafon Do Md, Mc Rodrigo do CN, Mc Rf",Te Maceto Depois Do Baile,2024-05-14,69,130.053,-1.826,0.89
+1424,MTG QUEM NÃO QUER SOU EU,"DJ TOPO, Seu Jorge, Mc Leozin, MC G15",MTG QUEM NÃO QUER SOU EU,2024-05-10,77,80.492,-6.37,0.492
+1425,Ela Joga na Hora,"Mc Pogba, DJ Guih Da ZO",Ela Joga na Hora,2024-03-28,78,130.05,-3.922,0.949
+1426,THE BOX MEDLEY FUNK 2,"THE BOX, Mc Brinquedo, MC Cebezinho, MC Tuto, Mc Laranjinha, DJ Oreia",THE BOX MEDLEY FUNK 2,2024-04-18,78,117.008,-8.568,0.778
+1427,Louca Encubada,"Dj Samir, Rodricci, Launch13",Louca Encubada,2023-10-13,71,130.068,-3.715,0.679
+1428,DANÇA PRA ME PROVOCAR,"DJ JOÃO PEREIRA, MC Koringa",DANÇA PRA ME PROVOCAR,2023-09-14,68,84.917,-0.93,0.615
+1429,Tá OK,"DENNIS, MC Kevin o Chris",Tá OK,2023-05-04,71,130.118,-1.458,0.863
+1430,WHINE IN BRAZIL FUNK,Ichiss,WHINE IN BRAZIL FUNK,2024-07-09,72,117.054,-5.077,0.863
+1431,TUMBÁTUM,"Tropa do Bruxo, SMU, Dj Vitin do Pc, MC JF, MC NAHARA",Baile do Bruxo (DELUXE),2023-12-22,70,86.429,-5.967,0.711
+1432,Onlar Anlamaz Halden,Semicenk,Geçiyor Zaman,2024-08-09,75,90.025,-17.176,0.707
+1433,Geçiyor Zaman,Semicenk,Geçiyor Zaman,2024-08-09,75,98.022,-5.235,0.629
+1434,Kader Sağ Olsun,Semicenk,Geçiyor Zaman,2024-08-09,70,120.001,-8.028,0.685
+1435,Küle Dönmüşsün,"Semicenk, Doğu Swag",Küle Dönmüşsün,2024-06-14,72,95.056,-4.84,0.831
+1436,Önümüz Yaz,Simge,Önümüz Yaz,2024-06-21,74,108.02,-4.226,0.726
+1437,Kafamın İçi,"Ebru Yaşar, Siyam, Zeyd",Yine Çalıyor,2024-05-22,68,78.753,-6.84,0.536
+1438,Lan,Zeynep Bastık,Lan,2024-03-08,69,204.028,-7.647,0.406
+1439,Self Care,Mac Miller,Swimming,2018-08-03,73,141.894,-8.109,0.52
+1440,"I'm Good Luv, Enjoy.",Aaron May,CHASE,2019-02-28,75,130.012,-4.665,0.891
+1441,Timeless (with Playboi Carti),"The Weeknd, Playboi Carti",Timeless,2024-09-27,92,119.973,-5.485,0.769
+1442,Doomsday,"MF DOOM, Pebbles The Invisible Girl",Operation: Doomsday (Complete),1999-10-19,72,95.416,-7.736,0.856
+1443,"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator, Teezo Touchdown",CHROMAKOPIA,2024-10-28,87,97.571,-3.19,0.373
+1444,Jukebox Joints (feat. Joe Fox & Kanye West),"A$AP Rocky, Joe Fox, Kanye West",AT.LONG.LAST.A$AP,2015-05-26,72,67.536,-5.293,0.284
+1445,A Cold Sunday,Lil Yachty,A Cold Sunday,2024-02-02,72,76.54,-3.165,0.575
+1446,infinity (888) - feat. Joey Bada$$,"XXXTENTACION, Joey Bada$$",?,2018-03-16,70,84.143,-6.788,0.562
+1447,MY EYES,Travis Scott,UTOPIA,2023-07-28,82,119.043,-7.694,0.455
+1448,Devil In A New Dress,"Kanye West, Rick Ross",My Beautiful Dark Twisted Fantasy,2010-11-22,76,80.082,-4.935,0.435
+1449,Love Yourz,J. Cole,2014 Forest Hills Drive,2014-12-09,73,82.81,-8.631,0.677
+1450,Go Flex,Post Malone,Stoney (Deluxe),2016-12-09,72,81.958,-8.185,0.665
+1451,Champagne Shots,Sainté,Local Mvp,2021-01-06,68,135.028,-11.448,0.942
+1452,Rich Spirit,Kendrick Lamar,Mr. Morale & The Big Steppers,2022-05-13,73,95.977,-9.153,0.852
+1453,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),"A$AP Rocky, Imogen Heap, Clams Casino",I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),2023-08-18,84,141.981,-9.629,0.47
+1454,Falling Down - Bonus Track,"Lil Peep, XXXTENTACION","Come Over When You're Sober, Pt. 2",2018-11-09,84,120.013,-6.442,0.669
+1455,Righteous Minds,Joey Bada$$,1999,2012-06-12,68,94.893,-5.646,0.809
+1456,Everybody Dies In Their Nightmares,XXXTENTACION,17,2017-08-25,81,129.953,-7.066,0.734
+1457,It Was A Good Day,Ice Cube,The Predator,1992-11-17,78,82.356,-5.328,0.798
+1458,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign",CALL ME IF YOU GET LOST,2021-06-25,73,142.347,-5.666,0.493
+1459,Weekend (feat. Miguel),"Mac Miller, Miguel",GO:OD AM,2015-09-18,72,120.058,-8.442,0.843
+1460,a lot,21 Savage,i am > i was,2018-12-21,77,145.972,-7.643,0.837
+1461,Flashing Lights,"Kanye West, Dwele",Graduation,2007-09-11,83,90.482,-7.578,0.639
+1462,Redbone,Childish Gambino,"""Awaken, My Love!""",2016-12-02,78,160.037,-10.603,0.741
+1463,Passionfruit,Drake,More Life,2017-03-18,80,111.98,-11.377,0.809
+1464,Ocean Prime (feat. Boldy James),"The Alchemist, Boldy James",Yacht Rock 2,2019-08-30,68,49.305,-8.437,0.583
+1465,Show Me,Joey Bada$$,2000,2022-07-22,68,176.153,-6.326,0.599
+1466,Revenge,XXXTENTACION,17,2017-08-25,84,139.999,-16.169,0.746
+1467,ATLiens,Outkast,ATLiens,1996-08-27,70,97.044,-2.832,0.918
+1468,Do For Love,2Pac,R U Still Down? [Remember Me],1997-01-01,74,95.0,-3.585,0.874
+1469,Embarrassed (feat. Travis Scott),"Don Toliver, Travis Scott",Love Sick (Deluxe),2023-02-28,69,115.994,-5.105,0.848
+1470,Homecoming,"Kanye West, Chris Martin",Graduation,2007-09-11,79,86.918,-7.059,0.67
+1471,Break from Toronto,PARTYNEXTDOOR,PARTYNEXTDOOR,2013-07-01,83,117.067,-5.18,0.595
+1472,You Know How We Do It,Ice Cube,Lethal Injection,1993-12-07,76,92.869,-10.523,0.747
+1473,Fuck Love,"XXXTENTACION, Trippie Redd",17,2017-08-25,84,131.036,-9.74,0.797
+1474,DUCKWORTH.,Kendrick Lamar,DAMN.,2017-04-14,72,174.516,-6.873,0.552
+1475,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",Flower Boy,2017-07-21,90,78.558,-9.222,0.558
+1476,Good Morning,Kanye West,Graduation,2007-09-11,70,84.166,-5.488,0.48
+1477,Neighbors,J. Cole,4 Your Eyez Only,2016-12-09,68,138.97,-12.335,0.898
+1478,Teenage Fever,Drake,More Life,2017-03-18,77,97.04,-10.33,0.766
+1479,Piece of My Heart (feat. Brent Faiyaz),"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),2024-10-18,77,93.2,-5.493,0.737
+1480,MMS,"Asake, Wizkid",Lungu Boy,2024-08-08,72,101.837,-3.367,0.502
+1481,Awolowo,Fido,Awolowo,2024-08-07,71,106.312,-11.272,0.619
+1482,Dealer,"Ayo Maff, Fireboy DML",Dealer,2024-04-16,68,67.813,-6.259,0.49
+1483,Holy Ghost,Omah Lay,Holy Ghost,2023-11-09,70,113.976,-10.845,0.823
+1484,Lonely At The Top,Asake,Work Of Art,2023-06-15,70,104.986,-7.326,0.778
+1485,Sprinter,"Dave, Central Cee",Sprinter,2023-06-01,79,139.057,-4.705,0.918
+1486,"Soweto (with Don Toliver, Rema & Tempoe)","Victony, Rema, Tempoe, Don Toliver","Soweto (with Don Toliver, Rema and Tempoe)",2023-03-22,72,105.024,-5.392,0.719
+1487,Rush,Ayra Starr,Rush,2022-09-16,68,99.97,-8.044,0.792
+1488,Free Mind,Tems,For Broken Ears,2020-09-25,72,125.15,-7.478,0.562
+1489,Essence (feat. Tems),"Wizkid, Tems",Made In Lagos,2020-10-29,70,104.027,-6.002,0.849
+1490,In My Bed,"Rotimi, Wale",The Beauty of Becoming,2019-12-13,68,103.993,-6.148,0.637
+1491,Location (feat. Burna Boy),"Dave, Burna Boy",PSYCHODRAMA,2019-03-08,73,109.979,-5.969,0.812
+1492,Higher,Tems,For Broken Ears,2020-09-25,72,102.964,-10.854,0.609
+1493,WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",I NEVER LIKED YOU,2022-04-29,82,83.389,-4.474,0.463
+1494,KU LO SA - A COLORS SHOW,Oxlade,KU LO SA - A COLORS SHOW,2022-06-10,70,92.9,-5.534,0.649
+1495,Replay,Tems,If Orange Was A Place,2021-09-14,71,123.879,-8.187,0.613
+1496,Are you there?,Ayo Maff,MAFFIAN,2024-08-15,69,112.014,-8.626,0.782
+1497,Touches,Somnum Magnam,Touches,2024-01-19,72,140.997,-43.643,0.138
+1498,Rosyln,"Bon Iver, St. Vincent",The Twilight Saga: New Moon (Original Motion Picture Soundtrack),2009-10-16,75,159.719,-13.111,0.329
+1499,Lights Are On,Tom Rosenthal,Z-Sides,2018-10-26,77,135.965,-16.887,0.44
+1500,Take Me To Church,Hozier,Hozier,2014-09-19,81,129.071,-5.303,0.575
+1501,cardigan,Taylor Swift,folklore,2020-07-24,83,130.033,-8.588,0.613
+1502,Young And Beautiful,Lana Del Rey,Young And Beautiful,2013-01-01,83,113.986,-8.92,0.324
+1503,Work Song,Hozier,Hozier (Expanded Edition),2014-09-19,77,121.412,-7.672,0.531
+1504,Nothing's New,Rio Romeo,Good God!,2022-09-23,78,96.192,-8.312,0.421
+1505,My Love Mine All Mine,Mitski,The Land Is Inhospitable and So Are We,2023-09-15,88,113.95,-14.958,0.504
+1506,idfc,blackbear,dead,2015-06-02,71,144.678,-9.115,0.718
+1507,As the World Caves In,Matt Maltese,Bad Contestant,2018-06-08,68,123.969,-5.362,0.327
+1508,The 30th,Billie Eilish,Guitar Songs,2022-07-21,72,82.987,-14.398,0.387
+1509,Like Real People Do,Hozier,Hozier (Expanded Edition),2014-09-19,72,140.01,-14.33,0.539
+1510,Happiness is a butterfly,Lana Del Rey,Norman Fucking Rockwell!,2019-08-30,73,70.499,-10.99,0.467
+1511,listen before i go,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,74,79.764,-23.023,0.319
+1512,Astronomy,Conan Gray,Superache,2022-06-24,72,145.115,-8.571,0.474
+1513,From the Dining Table,Harry Styles,Harry Styles,2017-05-12,69,94.08,-16.288,0.671
+1514,Getting Older,Billie Eilish,Happier Than Ever,2021-07-30,70,159.679,-17.261,0.599
+1515,rises the moon,Liana Flores,recently,2019-04-10,81,137.35,-20.149,0.483
+1516,ceilings,Lizzy McAlpine,five seconds flat,2022-04-08,80,148.005,-11.762,0.516
+1517,Sparks,Coldplay,Parachutes,2000-07-10,85,102.617,-10.506,0.371
+1518,In My Room,Chance Peña,In My Room,2022-05-06,76,133.943,-13.626,0.408
+1519,Waiting Room,Phoebe Bridgers,"Lost Ark Studio Compilation, Vol. 8",2016-08-12,75,129.753,-10.065,0.531
+1520,Chemtrails Over The Country Club,Lana Del Rey,Chemtrails Over The Country Club,2021-03-19,79,201.025,-13.125,0.334
+1521,How to disappear,Lana Del Rey,Norman Fucking Rockwell!,2019-08-30,70,78.997,-11.79,0.538
+1522,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),"Taylor Swift, Phoebe Bridgers",Red (Taylor's Version),2021-11-12,71,101.96,-9.455,0.606
+1523,State Lines,Novo Amor,Birthplace,2018-10-19,73,137.474,-10.623,0.509
+1524,Where's My Love - Acoustic,SYML,Where's My Love,2017-07-07,72,104.007,-11.324,0.554
+1525,Heather,Conan Gray,Kid Krow,2020-03-20,83,102.078,-7.301,0.357
+1526,Apocalypse,Cigarettes After Sex,Cigarettes After Sex,2017-06-09,87,94.434,-9.013,0.369
+1527,Anchor,Novo Amor,Bathing Beach,2017-05-26,78,117.053,-11.475,0.457
+1528,Brooklyn Baby,Lana Del Rey,Ultraviolence (Deluxe),2014-01-01,80,107.747,-6.698,0.404
+1529,Would That I,Hozier,"Wasteland, Baby!",2019-03-01,74,130.694,-6.032,0.521
+1530,lacy,Olivia Rodrigo,GUTS,2023-09-08,75,77.968,-7.653,0.395
+1531,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,72,141.332,-8.159,0.409
+1532,Feels Like,Gracie Abrams,This Is What It Feels Like,2021-11-12,73,144.99,-7.359,0.617
+1533,Black Friday,Tom Odell,Black Friday,2024-01-26,71,165.476,-12.398,0.48
+1534,Male Fantasy,Billie Eilish,Happier Than Ever,2021-07-30,70,110.927,-10.415,0.687
+1535,Cherry Wine - Live,Hozier,Hozier (Expanded Edition),2014-09-19,68,81.876,-14.901,0.415
+1536,We'll Never Have Sex,Leith Ross,To Learn,2023-05-19,68,86.686,-16.496,0.443
+1537,Margaret (feat. Bleachers),"Lana Del Rey, Bleachers",Did you know that there's a tunnel under Ocean Blvd,2023-03-24,78,103.777,-13.352,0.34
+1538,Miserable Man,David Kushner,Footprints I Found,2022-09-16,68,110.019,-10.285,0.631
+1539,Halley's Comet,Billie Eilish,Happier Than Ever,2021-07-30,75,72.38,-16.728,0.403
+1540,All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,2018-12-10,83,161.989,-7.226,0.671
+1541,Chill Bae,Lil Uzi Vert,Eternal Atake 2,2024-11-01,76,184.057,-5.984,0.672
+1542,Did It Again,Lil Tecca,We Love You Tecca,2019-08-30,72,148.775,-9.929,0.686
+1543,Wish (feat. Trippie Redd) - Trippie Mix,"Diplo, Trippie Redd",LIFE'S A TRIP,2018-08-10,71,94.011,-7.899,0.565
+1544,Lust,Lil Skies,Life of a Dark Rose,2017-12-12,70,160.084,-5.641,0.718
+1545,Goodbyes (feat. Young Thug),"Post Malone, Young Thug",Hollywood's Bleeding,2019-09-06,74,150.097,-3.875,0.547
+1546,Martin & Gina,Polo G,THE GOAT,2020-05-15,78,93.924,-7.813,0.832
+1547,Drip Too Hard (Lil Baby & Gunna),"Lil Baby, Gunna",Drip Harder,2018-10-05,79,112.509,-6.903,0.897
+1548,F.N,Lil Tjay,True 2 Myself,2019-10-11,73,120.1,-10.265,0.567
+1549,Lean Wit Me,Juice WRLD,Goodbye & Good Riddance,2018-12-10,77,163.935,-5.515,0.665
+1550,Conceited,Lil Uzi Vert,Eternal Atake 2,2024-11-01,68,124.13,-6.772,0.629
+1551,Ransom (with Juice WRLD) - Remix,"Lil Tecca, Juice WRLD",We Love You Tecca,2019-08-30,73,179.987,-6.424,0.684
+1552,Take What You Want (feat. Ozzy Osbourne & Travis Scott),"Post Malone, Ozzy Osbourne, Travis Scott",Hollywood's Bleeding,2019-09-06,73,139.918,-2.665,0.498
+1553,witchblades,"Lil Peep, Lil Tracy",CASTLES II,2017-02-07,71,143.968,-7.002,0.634
+1554,Ballin' (with Roddy Ricch),"Mustard, Roddy Ricch",Perfect Ten,2019-06-28,73,97.008,-6.678,0.809
+1555,Suicidal,YNW Melly,Melly vs. Melvin,2019-11-22,73,140.004,-9.682,0.735
+1556,Flaws And Sins,Juice WRLD,Death Race For Love (Bonus Track Version),2019-03-08,70,150.047,-4.55,0.709
+1557,XO Tour Llif3,Lil Uzi Vert,Luv Is Rage 2,2017-08-25,81,155.096,-6.366,0.732
+1558,Down With Me,Lil Tecca,TEC (Bonus),2024-01-19,70,114.929,-5.332,0.712
+1559,Wow.,Post Malone,Hollywood's Bleeding,2019-09-06,77,99.952,-7.359,0.829
+1560,HIM ALL ALONG,Gunna,HIM ALL ALONG,2024-10-18,76,130.007,-6.323,0.872
+1561,Maria I'm Drunk (feat. Justin Bieber & Young Thug),"Travis Scott, Justin Bieber, Young Thug",Rodeo,2015-09-04,71,105.989,-5.662,0.648
+1562,Still Think About You,A Boogie Wit da Hoodie,Artist,2016-09-16,73,127.978,-6.604,0.946
+1563,Come & Go (with Marshmello),"Juice WRLD, Marshmello",Legends Never Die,2020-07-10,75,144.991,-5.181,0.625
+1564,500lbs,Lil Tecca,TEC,2023-09-22,78,123.013,-5.412,0.724
+1565,Circles,Post Malone,Hollywood's Bleeding,2019-09-06,83,120.042,-3.497,0.695
+1566,16,Baby Keem,The Melodic Blue,2021-09-10,77,94.03,-4.987,0.701
+1567,Chemical,Post Malone,Chemical,2023-04-14,75,169.949,-4.856,0.49
+1568,I Just Called To Say I Love You,Stevie Wonder,At The Close Of A Century,1999-11-23,74,113.535,-9.054,0.748
+1569,Stay With Me,"CHANYEOL, Punch","Guardian (Original Television Soundtrack), Pt. 1",2016-12-03,69,124.709,-4.686,0.558
+1570,Nothing's Gonna Change My Love for You,George Benson,20/20,1985-01-15,71,136.628,-5.098,0.553
+1571,Sudden Shower,ECLIPSE,"Lovely Runner, Pt. 1 (Original Soundtrack)",2024-04-08,70,133.403,-6.283,0.469
+1572,Christmas Tree,V,"Our Beloved Summer (Original Television Soundtrack), Pt. 5",2021-12-24,69,139.009,-8.384,0.437
+1573,Boyfriend,YEONJUN,Cinderella at 2AM OST Part 4,2024-09-01,69,114.019,-7.166,0.815
+1574,Love You With All My Heart,Crush,"Queen of Tears (Original Television Soundtrack), Pt.4",2024-03-24,69,134.049,-8.226,0.46
+1575,Stay Alive (Prod. SUGA of BTS),Jung Kook,Stay Alive (Prod. SUGA of BTS),2022-02-11,68,130.096,-5.889,0.512
+1576,Me Fui de Vacaciones,Bad Bunny,Un Verano Sin Ti,2022-05-06,70,85.046,-5.493,0.714
+1577,Chachachá,Jósean Log,Háblate de Mí,2016-10-14,77,110.827,-10.944,0.68
+1578,Nunca Es Suficiente,"Los Ángeles Azules, Natalia Lafourcade",Esto Sí Es Cumbia,2018-06-08,71,93.99,-6.166,0.796
+1579,Muerte En Hawaii,Calle 13,Entren Los Que Quieran,2010-11-22,69,79.989,-7.168,0.675
+1580,Harpy Hare,Yaelokre,Harpy Hare,2024-01-04,76,130.02,-11.65,0.645
+1581,Russian Bandana,Dhanda Nyoliwala,Russian Bandana,2024-09-12,74,84.07,-5.682,0.775
+1582,Sifar Safar,Karan Aujla,Sifar Safar,2024-10-18,70,86.638,-4.472,0.509
+1583,Knife Brows,Dhanda Nyoliwala,DNW Vol. 1,2024-10-19,68,175.917,-5.948,0.656
+1584,Baller,"Shubh, Ikky",Baller,2022-09-09,68,180.219,-10.048,0.711
+1585,Winning Speech,"Karan Aujla, Mxrci",Winning Speech,2024-05-16,75,171.285,-5.004,0.461
+1586,Still Rollin,Shubh,Still Rollin,2023-05-19,71,94.0,-11.093,0.881
+1587,9:45,"Prabh Singh, Jay Trak, Rooh Sandhu",9:45,2023-03-10,73,99.958,-7.763,0.796
+1588,Dior,Shubh,Still Rollin,2023-05-19,69,115.974,-11.374,0.967
+1589,Cheques,Shubh,Still Rollin,2023-05-19,75,89.998,-8.939,0.742
+1590,MVP,Shubh,MVP,2024-05-10,70,88.041,-8.163,0.742
+1591,8 ASLE,"Sukha, Chani Nattan, Prodgk, Gurlez Akhtar",UNDISPUTED,2023-11-17,68,100.042,-6.113,0.769
+1592,King Shit,Shubh,Leo,2024-01-05,72,85.953,-8.35,0.794
+1593,One Love,Shubh,One Love,2023-08-18,75,144.926,-7.757,0.848
+1594,On Top,Karan Aujla,On Top,2022-11-25,70,139.979,-5.42,0.831
+1595,Old Money,AP Dhillon,Old Money,2024-08-09,71,92.969,-3.292,0.864
+1596,Tu hai kahan,AUR,Tu hai kahan,2023-10-16,75,83.679,-9.738,0.708
+1597,Bandana,Shubh,Bandana,2024-03-29,73,89.906,-5.348,0.716
+1598,Big Dawgs,"Hanumankind, Kalmi",Big Dawgs,2024-07-09,85,180.098,-3.202,0.464
+1599,Welcome To Jamrock,Damian Marley,Welcome to Jamrock,2005-01-01,68,76.71,-6.502,0.836
+1600,Move,"Adam Port, Stryv, Keinemusik, Orso, Malachiii",Move,2024-06-07,68,119.992,-8.529,0.727
+1601,I Adore You (feat. Daecolm),"HUGEL, Topic, Arash, Daecolm",I Adore You (feat. Daecolm),2024-07-19,83,119.996,-6.751,0.704
+1602,Yamore,"MoBlack, Salif Keita, Benja (NL), Franc Fala, Cesária Evora",Yamore,2024-06-07,75,119.986,-9.638,0.795
+1603,My Love (2024),"Alex Wann, Route 94, Jess Glynne",My Love (2024),2024-08-30,69,122.028,-7.821,0.43
+1604,Forever (feat. Malou & Yuna),"HUGEL, Diplo, Malou, Yuna",Forever (feat. Malou & Yuna),2024-09-20,71,120.036,-6.048,0.542
+1605,You & Me - Rivo Remix,"Disclosure, Eliza Doolittle, Rivo",You & Me (Rivo Remix),2023-12-22,79,122.011,-6.635,0.702
+1606,Beso (Fruta Fresca),"Wakyin, Carlos Vives",Beso (Fruta Fresca),2023-12-13,70,123.993,-6.995,0.787
+1607,The Boy Is Mine,"James Mac, Vall, Rosalie",The Boy Is Mine,2023-06-23,68,123.004,-6.132,0.741
+1608,Sideways,"Gordo, Drake",DIAMANTE,2024-07-26,70,121.843,-11.475,0.655
+1609,Mwaki,"Zerb, Sofiya Nzau",SURRENDER,2023-10-27,74,120.033,-8.751,0.847
+1610,Famax - Edit,RAFFA GUIDO,Famax,2024-02-23,69,120.97,-8.238,0.808
+1611,Waltz,Fabrizio Paterlini,Transitions III,2020-06-05,71,87.587,-33.766,0.27
+1612,Nuvole Bianche,Ludovico Einaudi,Una Mattina,2004-01-01,70,132.614,-25.398,0.191
+1613,Idea 1,Gibran Alcocer,Idea 1,2022-08-16,71,172.13,-21.134,0.265
+1614,Oceans Apart,Ben Crosland,The Turn,2020-06-19,70,95.217,-20.707,0.396
+1615,Idea 9,Gibran Alcocer,Idea 9,2023-05-26,72,128.563,-24.95,0.34
+1616,Time,Hans Zimmer,Inception (Music from the Motion Picture),2010-07-09,71,62.881,-16.806,0.286
+1617,Nightcall,Kavinsky,Nightcall,2010,73,91.038,-5.183,0.532
+1618,stellar,".diedlonely, énouement",stellar,2023-06-23,70,82.019,-20.394,0.485
+1619,memories,leadwave,memories,2022-09-23,70,67.238,-27.338,0.252
+1620,Iris,Pastel Ghost,Ethereality,2015,69,117.987,-7.578,0.534
+1621,I'm God,"Clams Casino, Imogen Heap",Instrumental Relics,2020-04-24,74,141.931,-6.78,0.529
+1622,Resonance,Home,Odyssey,2014-07-01,68,170.084,-8.849,0.564
+1623,A Bird's Last Look,Macabre Plaza,Out With the Old in With the Taboo,2022-04-21,72,113.861,-9.291,0.552
+1624,Veridis Quo,Daft Punk,Discovery,2001-03-12,70,106.896,-13.928,0.605
+1625,Dark Beach,Pastel Ghost,Abyss,2015-03-10,73,130.032,-7.309,0.528
+1626,Doja,Central Cee,Doja,2022-07-21,77,140.04,-7.43,0.911
+1627,LET GO,Central Cee,LET GO,2022-12-15,72,146.05,-11.197,0.747
+1628,2MS,Nemzzz,2MS,2022-02-24,69,141.849,-8.62,0.885
+1629,UK Rap,"Dave, Central Cee",Split Decision,2023-06-04,69,140.065,-4.429,0.922
+1630,Eres,Café Tacvba,Cuatro Caminos,2003-07-01,74,149.987,-6.18,0.583
+1631,La Camisa Negra,Juanes,Mi Sangre,2004-01-01,72,97.007,-4.419,0.751
+1632,A Dios Le Pido,Juanes,Un Día Normal,2002-01-01,72,97.027,-3.564,0.673
+1633,Es Por Ti,Juanes,Un Día Normal,2002-01-01,77,129.944,-6.077,0.696
+1634,Luz De Dia,Los Enanitos Verdes,Nectar,1999-01-01,70,121.989,-13.148,0.657
+1635,Inolvidable,Reik,Un Dia Mas (Edicion Especial),2008,70,123.003,-3.546,0.649
+1636,Mientes,Camila,Dejarte De Amar,2010-02-09,77,170.391,-6.127,0.332
+1637,Todo Cambió,Camila,Todo Cambio,2006,75,173.85,-6.453,0.452
+1638,Fotografía,"Juanes, Nelly Furtado",Un Día Normal,2002-01-01,68,84.098,-4.417,0.487
+1639,Te Lo Pido por Favor,Jaguares,El Primer Instinto,2002-10-22,68,106.196,-6.369,0.648
+1640,Maldito duende,Heroes Del Silencio,Senderos De Traición - Edición Especial,1990,68,125.796,-5.657,0.374
+1641,Nada Valgo Sin Tu Amor,Juanes,Mi Sangre,2004-01-01,70,76.979,-4.581,0.601
+1642,La Célula Que Explota,Caifanes,El Diablito,1990-06-19,72,123.217,-12.22,0.425
+1643,Afuera,Caifanes,El Nervio Del Volcan,1994,73,126.043,-11.197,0.487
+1644,Agua,Jarabe De Palo,Depende,1998,68,145.751,-15.522,0.715
+1645,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,1996,69,124.725,-5.67,0.791
+1646,Devuélveme a mi chica,Hombres G,Hombres G (Edición 30 Aniversario),1985,78,172.547,-4.722,0.594
+1647,Lamento Boliviano,Los Enanitos Verdes,Big Bang,1994-01-01,77,123.57,-7.125,0.714
+1648,Te quiero,Hombres G,Las baladas (Los singles vol II),1996,68,112.481,-7.615,0.781
+1649,Clavado en Un Bar,Maná,Sueños Líquidos,1997,74,148.003,-3.444,0.634
+1650,Chammak Challo,"Akon, Hamsika Iyer",Ra-One,2011-09-16,72,133.946,-4.274,0.742
+1651,Proper Patola,"Badshah, Diljit Dosanjh, Aastha Gill",Namaste England (Original Motion Picture Soundtrack),2018-10-03,70,172.006,-6.491,0.77
+1652,Papaoutai,Stromae,racine carrée,2013-01-01,70,116.015,-7.264,0.732
+1653,Djadja,Aya Nakamura,NAKAMURA,2018-11-02,68,97.988,-5.428,0.811
+1654,Je veux,Zaz,Zaz,2010-05-10,68,155.397,-6.366,0.525
+1655,Alors on danse - Radio Edit,Stromae,Cheese,2010-01-01,75,119.958,-9.204,0.79
+1656,Casanova,"Soolking, Gazo",Casanova,2023-07-06,71,132.029,-4.481,0.798
+1657,Voyage voyage,Desireless,François,2001-01-02,70,123.58,-6.039,0.606
+1658,Dernière danse,Indila,Mini World,2014-01-01,77,114.924,-7.658,0.669
+1659,Love Story,Indila,Mini World,2014-01-01,74,95.978,-12.279,0.375
+1660,Formidable,Stromae,racine carrée,2013-01-01,70,70.568,-9.055,0.513
+1661,Petit génie,"Jungeli, Imen Es, Alonzo, Abou Debeing, Lossa",Petit génie,2023-08-04,71,126.036,-5.973,0.793
+1662,Seya,"SativaMusic, Morad, GIMS",Seya,2023-10-06,73,101.005,-4.818,0.798
+1663,Tous les mêmes,Stromae,racine carrée,2013-01-01,68,109.96,-9.061,0.701
+1664,Est-ce que tu m'aimes ? - Pilule bleue,GIMS,Mon coeur avait raison,2015-08-28,74,119.892,-3.353,0.779
+1665,Solitaire,Werenoi,Telegram,2022-10-28,68,117.952,-8.438,0.753
+1666,Imagine,Carbonne,Imagine,2024-05-03,74,118.093,-9.072,0.788
+1667,MANON B,"Tiakola, Ryflo, Oskoow",BDLM VOL.1,2024-09-20,69,130.081,-7.472,0.872
+1668,PONA NINI,"Tiakola, Genezio, Prototype",BDLM VOL.1,2024-09-20,71,115.03,-7.006,0.772
+1669,MANON B,"Tiakola, Ryflo, Oskoow",MANON B,2024-08-29,71,130.081,-7.472,0.872
+1670,Tieduprightnow,Parcels,Tieduprightnow,2018-04-27,71,102.025,-7.986,0.863
+1671,Borderline,Tame Impala,The Slow Rush,2020-02-14,79,97.96,-3.067,0.621
+1672,Oysters In My Pocket,Royel Otis,Oysters In My Pocket,2022-03-10,76,168.017,-4.974,0.598
+1673,Is It True,Tame Impala,The Slow Rush,2020-02-14,68,118.018,-5.474,0.731
+1674,KU LO SA - A COLORS SHOW,Oxlade,KU LO SA - A COLORS SHOW,2022-06-10,70,92.9,-5.534,0.649
+1675,Calm Down,Rema,Calm Down,2022-02-10,69,107.007,-6.333,0.811
+1676,Rush,Ayra Starr,Rush,2022-09-16,68,99.97,-8.044,0.792
+1677,In My Bed,"Rotimi, Wale",The Beauty of Becoming,2019-12-13,68,103.993,-6.148,0.637
+1678,Fountains (with Tems),"Drake, Tems",Certified Lover Boy,2021-09-03,68,100.053,-8.735,0.843
+1679,Replay,Tems,If Orange Was A Place,2021-09-14,71,123.879,-8.187,0.613
+1680,UNAVAILABLE (feat. Musa Keys),"Davido, Musa Keys",Timeless,2023-03-30,69,113.009,-9.674,0.788
+1681,People,Libianca,People,2022-12-06,76,124.357,-7.621,0.573
+1682,soso,Omah Lay,Boy Alone,2022-07-14,74,105.016,-8.315,0.711
+1683,KANTE (feat. Fave),"Davido, FAVE",Timeless,2023-03-30,69,99.005,-5.022,0.724
+1684,WAIT FOR U (feat. Drake & Tems),"Future, Drake, Tems",I NEVER LIKED YOU,2022-04-29,82,83.389,-4.474,0.463
+1685,Barcelona,"Alan Walker, Ina Wroldsen",Barcelona,2024-06-13,69,126.881,-4.985,0.645
