@@ -3,32 +3,39 @@ from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 
 class RuleBasedRecommender:
+    # Initierar med df
     def __init__(self, df):
         self.df = df.copy()
         self.track_indices = pd.Series(self.df.index, index=self.df['track_name'])
         self.features = ['tempo', 'loudness', 'danceability', 'track_popularity']
 
-
+    # Räknar similarity score baserat på rules
     def calculate_combined_score(self, seed_track_scaled):
         score_tempo = 1 - np.abs(self.df['tempo'] - seed_track_scaled['tempo'])
         score_loudness = 1 - np.abs(self.df['loudness'] - seed_track_scaled['loudness'])
         score_danceability = 1 - np.abs(self.df['danceability'] - seed_track_scaled['danceability'])
+
+        # Ger popularity högre vikt
         score_popularity = self.df['track_popularity'] * 0.5 
 
         similarity_score = (score_tempo + score_loudness + score_danceability + score_popularity)
         
         return similarity_score
 
+    # Rekommenderar låtar baserat på similarity_score
     def recommend(self, track_name, num_recs=5):
         if track_name not in self.track_indices:
             return f"Track '{track_name}' not found."
 
+        # Väljer de numeriska features som ska användas från test_song
         seed_track_original = self.df[self.df['track_name'] == track_name].iloc[0]
         seed_track_scaled = seed_track_original[self.features] 
         
+        # Räknar similarity score
         self.df['similarity_score'] = self.calculate_combined_score(seed_track_scaled)
         self.df['similarity_score'] = MinMaxScaler().fit_transform(self.df[['similarity_score']])
 
+        # Sorterar och hämtar bästa rekommendationerna
         recommendations_df = self.df.sort_values(by='similarity_score', ascending=False)
         recommendations_df = recommendations_df[recommendations_df['track_name'] != track_name]
 

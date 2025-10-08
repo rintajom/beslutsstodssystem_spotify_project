@@ -1,14 +1,15 @@
-import pandas as pd
-
 class HybridRecommender:
+    # Initierar med content och rule-based rekommendationer 
     def __init__(self, content_recs=None, rule_recs=None):
         self.content_recs = content_recs
         self.rule_recs = rule_recs  
 
+    # Rekommenderar sånger baserat på en kombination av content och rule-based rekommendationer
     def recommend(self, track_name, num_recs=5):
         content_recs = self.content_recs
         rule_recs = self.rule_recs
 
+        # Kombinerar rekommendationerna
         combined_recs = {}
         max_length = max(len(content_recs), len(rule_recs))
         for i in range(max_length):

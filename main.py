@@ -1,25 +1,17 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
 from contentBasedRecommender import ContentBasedRecommender
 from hybridRecommender import HybridRecommender
 from ruleBasedRecommender import RuleBasedRecommender
 from evaluationVerification import EvaluationVerification
 
-
-#print(df.describe())
-# EDA to do later !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-    
 if __name__ == "__main__":
     df = pd.read_csv("data/cleaned_spotify_data.csv")
     content_recommender = ContentBasedRecommender(df)
     rule_recommender = RuleBasedRecommender(df)
 
-    test_song = "Espresso"
+    test_song = "Good Luck, Babe!"
 
+    # Printar rekommendationer i lättare läst formatering
     def print_recommendations(recommendations):
         for i, rec in enumerate(recommendations, start=1):
             track_name = rec.get('track_name', 'Unknown')
@@ -32,6 +24,7 @@ if __name__ == "__main__":
 
     content_recommender.fit()
 
+    # info om test_song
     print("\nTrack info:")
     print("-" * 50)
     track_info = content_recommender.track_info(test_song)
@@ -46,21 +39,26 @@ if __name__ == "__main__":
     print("\nRecommended Tracks")
     print("-" * 50)
 
+    # Hämtar conten-based rekommendationer
     content_recommendations = content_recommender.recommend(test_song, num_recs=5)
     print(f'\nContent-Based Recommendations:\n')
     print_recommendations(content_recommendations)
 
+    # Hämtar rule-based rekommendationer
     rule_recommendations = rule_recommender.recommend(test_song, num_recs=5)
     print(f'\nRule-Based Recommendations:\n')
     print_recommendations(rule_recommendations)
 
+    # Hämtar hybrid rekommendationer
     hybrid_recommender = HybridRecommender(content_recommendations, rule_recommendations)
     hybrid_recommendations = hybrid_recommender.recommend(test_song, num_recs=5)
     print(f'\nHybrid Recommendations:\n')
     print_recommendations(hybrid_recommendations)
 
+    # Hämtar all info för test_song
     test_track = df[df['track_name'] == test_song].iloc[0]
 
+    # Hämtar evaluation värden
     evaluator = EvaluationVerification(df)
     content_feature_dist = evaluator.mean_feature_distance(content_recommendations, test_track)
     rule_feature_dist = evaluator.mean_feature_distance(rule_recommendations, test_track)
@@ -74,6 +72,7 @@ if __name__ == "__main__":
     rule_corr = evaluator.mean_feature_correlation(rule_recommendations, test_track)
     hybrid_corr = evaluator.mean_feature_correlation(hybrid_recommendations, test_track)
 
+    # Printar ut evaluation värden
     print("\nEvaluation Metrics:")
     print("-" * 65)
     print(f"{'Metric':<28} | {'Content-Based':^13} | {'Rule-Based':^11} | {'Hybrid':^9}")
