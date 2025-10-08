@@ -23,6 +23,9 @@ df = df.reset_index(drop=True)
 scaler = MinMaxScaler()
 df[['tempo', 'loudness', 'danceability', 'track_popularity']] = scaler.fit_transform(df[['tempo', 'loudness', 'danceability', 'track_popularity']])
 
+# begränsar till 2 decimaler§
+df[['tempo', 'loudness', 'danceability', 'track_popularity']] = df[['tempo', 'loudness', 'danceability', 'track_popularity']].round(2)
+
 df.info()
 print(df.head())
 
