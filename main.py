@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from contentBasedRecommender import ContentBasedRecommender
+from hybridRecommender import HybridRecommender
 from ruleBasedRecommender import RuleBasedRecommender
 
 
@@ -51,3 +52,8 @@ if __name__ == "__main__":
     rule_recommendations = rule_recommender.recommend(test_song, num_recs=5)
     print(f'\nRule-Based Recommendations:\n')
     print_recommendations(rule_recommendations)
+
+    hybrid_recommender = HybridRecommender(content_recommendations, rule_recommendations)
+    hybrid_recommendations = hybrid_recommender.recommend(test_song, num_recs=5)
+    print(f'\nHybrid Recommendations:\n')
+    print_recommendations(hybrid_recommendations)
