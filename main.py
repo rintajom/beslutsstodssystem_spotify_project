@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from contentBasedRecommender import ContentBasedRecommender
 from hybridRecommender import HybridRecommender
 from ruleBasedRecommender import RuleBasedRecommender
+from evaluationVerification import EvaluationVerification
 
 
 #print(df.describe())
@@ -57,3 +58,27 @@ if __name__ == "__main__":
     hybrid_recommendations = hybrid_recommender.recommend(test_song, num_recs=5)
     print(f'\nHybrid Recommendations:\n')
     print_recommendations(hybrid_recommendations)
+
+    test_track = df[df['track_name'] == test_song].iloc[0]
+
+    evaluator = EvaluationVerification(df)
+    content_feature_dist = evaluator.mean_feature_distance(content_recommendations, test_track)
+    rule_feature_dist = evaluator.mean_feature_distance(rule_recommendations, test_track)
+    hybrid_feature_dist = evaluator.mean_feature_distance(hybrid_recommendations, test_track)
+
+    content_mae = evaluator.mean_absolute_error(content_recommendations, test_track)
+    rule_mae = evaluator.mean_absolute_error(rule_recommendations, test_track)
+    hybrid_mae = evaluator.mean_absolute_error(hybrid_recommendations, test_track)
+
+    content_corr = evaluator.mean_feature_correlation(content_recommendations, test_track)
+    rule_corr = evaluator.mean_feature_correlation(rule_recommendations, test_track)
+    hybrid_corr = evaluator.mean_feature_correlation(hybrid_recommendations, test_track)
+
+    print("\nEvaluation Metrics:")
+    print("-" * 65)
+    print(f"{'Metric':<28} | {'Content-Based':^13} | {'Rule-Based':^11} | {'Hybrid':^9}")
+    print("-" * 65)
+    print(f"{'Mean Feature Distance':<28} | {content_feature_dist:^13.4f} | {rule_feature_dist:^11.4f} | {hybrid_feature_dist:^9.4f}")
+    print(f"{'Mean Absolute Error':<28} | {content_mae:^13.4f} | {rule_mae:^11.4f} | {hybrid_mae:^9.4f}")
+    print(f"{'Mean Feature Correlation':<28} | {content_corr:^13.4f} | {rule_corr:^11.4f} | {hybrid_corr:^9.4f}")
+    print("-" * 65) 

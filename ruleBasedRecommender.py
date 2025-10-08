@@ -40,7 +40,10 @@ class RuleBasedRecommender:
                 'track_name': row['track_name'],
                 'track_artist': row['track_artist'],
                 'track_popularity': row['track_popularity'],
-                'similarity_score': round(float(row['similarity_score']), 3)
+                'similarity_score': round(float(row['similarity_score']), 3),
+                'loudness': row['loudness'],
+                'tempo': row['tempo'],
+                'danceability': row['danceability']
             })
         
         return recommendations

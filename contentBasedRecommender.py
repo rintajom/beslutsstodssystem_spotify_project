@@ -60,6 +60,9 @@ class ContentBasedRecommender:
                 'track_name': track_data['track_name'],
                 'track_artist': track_data['track_artist'],
                 'track_popularity': track_data['track_popularity'],
-                'similarity_score': round(similarity_score, 3)
+                'similarity_score': round(similarity_score, 3),
+                'tempo': track_data['tempo'],
+                'loudness': track_data['loudness'],
+                'danceability': track_data['danceability']
             })
         return recommendations

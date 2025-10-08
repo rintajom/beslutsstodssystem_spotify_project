@@ -27,7 +27,5 @@ class HybridRecommender:
         
         hybrid_recs = list(combined_recs.values())
         hybrid_recs = hybrid_recs[:num_recs]
-        #combined_recs = {rec['track_name']: rec for rec in content_recs + rule_recs}
-        #ranked_recs = sorted(combined_recs.values(), key=lambda x: (x['similarity_score'], x['track_popularity']), reverse=True)
-
+        
         return hybrid_recs
