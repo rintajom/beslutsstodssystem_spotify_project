@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
 
 data = pd.read_csv("data/spotify_data.csv") # hämtad från kagglehub
 
@@ -17,6 +18,10 @@ df = df.drop_duplicates(subset=['track_name'])
 # tomma värden
 df = df.dropna()
 df = df.reset_index(drop=True)
+
+# scale till numeriska värden 
+scaler = MinMaxScaler()
+df[['tempo', 'loudness', 'danceability', 'track_popularity']] = scaler.fit_transform(df[['tempo', 'loudness', 'danceability', 'track_popularity']])
 
 df.info()
 print(df.head())
